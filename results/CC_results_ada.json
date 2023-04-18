@@ -1,0 +1,25 @@
+{
+    "summary": {
+        "full_question_direct_answer_correct_EM": 52,
+        "full_question_direct_answer_correct_CEM": 69,
+        "full_question_chain_of_thought_correct_EM": 105,
+        "full_question_chain_of_thought_correct_CEM": 115,
+        "full_question_self_ask_correct_EM": 98,
+        "full_question_self_ask_correct_CEM": 111,
+        "both_subquestions_correct_EM": 93,
+        "both_subquestions_correct_CEM": 96,
+        "subquestions_wrong_when_full_question_direct_answer_correct_EM": 18,
+        "subquestions_wrong_when_full_question_direct_answer_correct_CEM": 31,
+        "subquestions_wrong_when_full_question_chain_of_thought_correct_EM": 38,
+        "subquestions_wrong_when_full_question_chain_of_thought_correct_CEM": 47,
+        "subquestions_wrong_when_full_question_self_ask_correct_EM": 37,
+        "subquestions_wrong_when_full_question_self_ask_correct_CEM": 48,
+        "full_question_direct_answer_wrong_when_subquestions_correct_EM": 59,
+        "full_question_direct_answer_wrong_when_subquestions_correct_CEM": 58,
+        "full_question_chain_of_thought_wrong_when_subquestions_correct_EM": 26,
+        "full_question_chain_of_thought_wrong_when_subquestions_correct_CEM": 28,
+        "full_question_self_ask_wrong_when_subquestions_correct_EM": 32,
+        "full_question_self_ask_wrong_when_subquestions_correct_CEM": 33
+    },
+    "per_question_results": []
+}

@@ -1,0 +1,596 @@
+{
+    "per_question_results": [
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthdate of Kawhi Leonard?",
+                "Q1_gt": [
+                    "June 29, 1991"
+                ],
+                "Q1_pred": "june 29 1991",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "Who was the President of the United States on June 29, 1991?",
+                "Q2_gt": [
+                    "George H. W. Bush"
+                ],
+                "Q2_pred": "george h w bush",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthdate of Chadwick Boseman?\nAnswer: November 29, 1976\n\nQuestion: What is the birthdate of Charles Robert Redford Jr.?\nAnswer: August 18, 1936\n\nQuestion: What is the birthdate of Kawhi Leonard?\nAnswer:",
+                "Q2_prompt": "Question: Who was the President of the United States on November 29, 1976?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States on August 18, 1936?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States on June 29, 1991?\nAnswer:",
+                "Q1_returned": "June 29, 1991",
+                "Q2_returned": "George H. W. Bush"
+            },
+            "direct_answer_result": {
+                "question": "Who was the President of the United States when Kawhi Leonard was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States when Kawhi Leonard was born?\nAnswer:",
+                "answer": [
+                    "George H. W. Bush"
+                ],
+                "returned": "George H. W. Bush",
+                "cleaned_pred": "george h w bush",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "Who was the President of the United States when Kawhi Leonard was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: The date of birth of Chadwick Boseman is November 29, 1976. The President of the United States on November 29, 1976 was Gerald Ford.\nSo the final answer (a US president) is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: The date of birth of Charles Robert Redford Jr. is August 18, 1936. The President of the United States on August 18, 1936 was Franklin D. Roosevelt.\nSo the final answer (a US president) is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when Kawhi Leonard was born?\nAnswer:",
+                "answer": [
+                    "George H. W. Bush"
+                ],
+                "returned": "The date of birth of Kawhi Leonard is June 29, 1991. The President of the United States on June 29, 1991 was George H. W. Bush.\nSo the final answer (a US president) is: George H. W. Bush.",
+                "cleaned_pred": "george h w bush",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "Who was the President of the United States when Kawhi Leonard was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Chadwick Boseman?\nIntermediate answer: November 29, 1976.\nFollow up: Who was the President of the United States on November 29, 1976?\nIntermediate answer: Gerald Ford.\nSo the final answer is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Charles Robert Redford Jr.?\nIntermediate answer: August 18, 1936.\nFollow up: Who was the President of the United States on August 18, 1936?\nIntermediate answer: Franklin D. Roosevelt.\nSo the final answer is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when Kawhi Leonard was born?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "George H. W. Bush"
+                ],
+                "returned": "Follow up: What is the birthdate of Kawhi Leonard?\nIntermediate answer: June 29, 1991.\nFollow up: Who was the President of the United States on June 29, 1991?\nIntermediate answer: George H. W. Bush.\nSo the final answer is: George H. W. Bush.",
+                "cleaned_pred": "george h w bush",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "In what year was Cobie Smulders born?",
+                "Q1_gt": [
+                    "1982"
+                ],
+                "Q1_pred": "1982",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "Who won the Nobel Prize in Literature in 1982?",
+                "Q2_gt": [
+                    "Gabriel García Márquez"
+                ],
+                "Q2_pred": "gabriel garcía márquez",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: In what year was Harry Kane born?\nAnswer: 1993\n\nQuestion: In what year was Fran Drescher born?\nAnswer: 1957\n\nQuestion: In what year was Cobie Smulders born?\nAnswer:",
+                "Q2_prompt": "Question: Who won the Nobel Prize in Literature in 1993?\nAnswer: Toni Morrison\n\nQuestion: Who won the Nobel Prize in Literature in 1957?\nAnswer: Albert Camus\n\nQuestion: Who won the Nobel Prize in Literature in 1982?\nAnswer:",
+                "Q1_returned": "1982",
+                "Q2_returned": "Gabriel García Márquez"
+            },
+            "direct_answer_result": {
+                "question": "Who won the Nobel Prize in Literature in the year Cobie Smulders was born?",
+                "prompt": "Question: Who won the Nobel Prize in Literature in the year Harry Kane was born?\nAnswer: Toni Morrison\n\nQuestion: Who won the Nobel Prize in Literature in the year Fran Drescher was born?\nAnswer: Albert Camus\n\nQuestion: Who won the Nobel Prize in Literature in the year Cobie Smulders was born?\nAnswer:",
+                "answer": [
+                    "Gabriel García Márquez"
+                ],
+                "returned": "Gabriel García Márquez",
+                "cleaned_pred": "gabriel garcía márquez",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "Who won the Nobel Prize in Literature in the year Cobie Smulders was born?",
+                "prompt": "Question: Who won the Nobel Prize in Literature in the year Harry Kane was born?\nAnswer: The year of birth of Harry Kane is 1993. The winner of the Nobel Prize in Literature in 1993 was Toni Morrison.\nSo the final answer (a nobel prize winner) is: Toni Morrison.\n\nQuestion: Who won the Nobel Prize in Literature in the year Fran Drescher was born?\nAnswer: The year of birth of Fran Drescher is 1957. The winner of the Nobel Prize in Literature in 1957 was Albert Camus.\nSo the final answer (a nobel prize winner) is: Albert Camus.\n\nQuestion: Who won the Nobel Prize in Literature in the year Cobie Smulders was born?\nAnswer:",
+                "answer": [
+                    "Gabriel García Márquez"
+                ],
+                "returned": "The year of birth of Cobie Smulders is 1982. The winner of the Nobel Prize in Literature in 1982 was Gabriel García Márquez.\nSo the final answer (a nobel prize winner) is: Gabriel García Márquez.",
+                "cleaned_pred": "gabriel garcía márquez",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "Who won the Nobel Prize in Literature in the year Cobie Smulders was born?",
+                "prompt": "Question: Who won the Nobel Prize in Literature in the year Harry Kane was born?\nAre follow up questions needed here: Yes.\nFollow up: In what year was Harry Kane born?\nIntermediate answer: 1993.\nFollow up: Who won the Nobel Prize in Literature in 1993?\nIntermediate answer: Toni Morrison.\nSo the final answer is: Toni Morrison.\n\nQuestion: Who won the Nobel Prize in Literature in the year Fran Drescher was born?\nAre follow up questions needed here: Yes.\nFollow up: In what year was Fran Drescher born?\nIntermediate answer: 1957.\nFollow up: Who won the Nobel Prize in Literature in 1957?\nIntermediate answer: Albert Camus.\nSo the final answer is: Albert Camus.\n\nQuestion: Who won the Nobel Prize in Literature in the year Cobie Smulders was born?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "Gabriel García Márquez"
+                ],
+                "returned": "Follow up: In what year was Cobie Smulders born?\nIntermediate answer: 1982.\nFollow up: Who won the Nobel Prize in Literature in 1982?\nIntermediate answer: Gabriel García Márquez.\nSo the final answer is: Gabriel García Márquez.",
+                "cleaned_pred": "gabriel garcía márquez",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Suleiman The Magnificent?",
+                "Q1_gt": [
+                    "Turkey"
+                ],
+                "Q1_pred": "turkey",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the 3166-1 numeric code for Turkey?",
+                "Q2_gt": [
+                    "792"
+                ],
+                "Q2_pred": "792",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Benicio Del Toro?\nAnswer: Puerto Rico\n\nQuestion: What is the birthplace (country only) of Daniel Cousin?\nAnswer: Gabon\n\nQuestion: What is the birthplace (country only) of Suleiman The Magnificent?\nAnswer:",
+                "Q2_prompt": "Question: What is the 3166-1 numeric code for Puerto Rico?\nAnswer: 630\n\nQuestion: What is the 3166-1 numeric code for Gabon?\nAnswer: 266\n\nQuestion: What is the 3166-1 numeric code for Turkey?\nAnswer:",
+                "Q1_returned": "Turkey",
+                "Q2_returned": "792"
+            },
+            "direct_answer_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAnswer: 630\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAnswer: 266\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?\nAnswer:",
+                "answer": [
+                    "792"
+                ],
+                "returned": "792",
+                "cleaned_pred": "792",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAnswer: The birthplace (country) of Benicio Del Toro is Puerto Rico. The ISO 3166-1 numeric code of Puerto Rico is 630.\nSo the final answer (an ISO 3166-1 numeric code) is: 630.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAnswer: The birthplace (country) of Daniel Cousin is Gabon. The ISO 3166-1 numeric code of Gabon is 266.\nSo the final answer (an ISO 3166-1 numeric code) is: 266.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?\nAnswer:",
+                "answer": [
+                    "792"
+                ],
+                "returned": "Suleiman the Magnificent was born in the Ottoman Empire, which no longer exists today. However, his birthplace was in Trabzon, which is now a part of modern-day Turkey. The ISO 3166-1 numeric code for Turkey is 792.",
+                "cleaned_pred": "suleiman magnificent was born in ottoman empire which no longer exists today however his birthplace was in trabzon which is now part of modernday turkey iso 31661 numeric code for turkey is 792",
+                "is_right_EM": false,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Benicio Del Toro?\nIntermediate answer: Puerto Rico.\nFollow up: What is the 3166-1 numeric code for Puerto Rico?\nIntermediate answer: 630.\nSo the final answer is: 630.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Daniel Cousin?\nIntermediate answer: Gabon.\nFollow up: What is the 3166-1 numeric code for Gabon?\nIntermediate answer: 266.\nSo the final answer is: 266.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Suleiman The Magnificent?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "792"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Suleiman The Magnificent?\nIntermediate answer: Turkey.\nFollow up: What is the 3166-1 numeric code for Turkey?\nIntermediate answer: 792.\nSo the final answer is: 792.",
+                "cleaned_pred": "792",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthdate of David Walliams?",
+                "Q1_gt": [
+                    "August 20, 1971"
+                ],
+                "Q1_pred": "august 20 1971",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "Who was the President of the United States on August 20, 1971?",
+                "Q2_gt": [
+                    "Richard Nixon"
+                ],
+                "Q2_pred": "richard nixon",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthdate of Chadwick Boseman?\nAnswer: November 29, 1976\n\nQuestion: What is the birthdate of Charles Robert Redford Jr.?\nAnswer: August 18, 1936\n\nQuestion: What is the birthdate of David Walliams?\nAnswer:",
+                "Q2_prompt": "Question: Who was the President of the United States on November 29, 1976?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States on August 18, 1936?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States on August 20, 1971?\nAnswer:",
+                "Q1_returned": "August 20, 1971",
+                "Q2_returned": "Richard Nixon"
+            },
+            "direct_answer_result": {
+                "question": "Who was the President of the United States when David Walliams was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States when David Walliams was born?\nAnswer:",
+                "answer": [
+                    "Richard Nixon"
+                ],
+                "returned": "Richard Nixon",
+                "cleaned_pred": "richard nixon",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "Who was the President of the United States when David Walliams was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: The date of birth of Chadwick Boseman is November 29, 1976. The President of the United States on November 29, 1976 was Gerald Ford.\nSo the final answer (a US president) is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: The date of birth of Charles Robert Redford Jr. is August 18, 1936. The President of the United States on August 18, 1936 was Franklin D. Roosevelt.\nSo the final answer (a US president) is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when David Walliams was born?\nAnswer:",
+                "answer": [
+                    "Richard Nixon"
+                ],
+                "returned": "The date of birth for David Walliams is August 20, 1971. The President of the United States on August 20, 1971 was Richard Nixon. \nSo the final answer (a US president) is: Richard Nixon.",
+                "cleaned_pred": "richard nixon",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "Who was the President of the United States when David Walliams was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Chadwick Boseman?\nIntermediate answer: November 29, 1976.\nFollow up: Who was the President of the United States on November 29, 1976?\nIntermediate answer: Gerald Ford.\nSo the final answer is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Charles Robert Redford Jr.?\nIntermediate answer: August 18, 1936.\nFollow up: Who was the President of the United States on August 18, 1936?\nIntermediate answer: Franklin D. Roosevelt.\nSo the final answer is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when David Walliams was born?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "Richard Nixon"
+                ],
+                "returned": "Follow up: What is the birthdate of David Walliams?\nIntermediate answer: August 20, 1971.\nFollow up: Who was the President of the United States on August 20, 1971?\nIntermediate answer: Richard Nixon.\nSo the final answer is: Richard Nixon.",
+                "cleaned_pred": "richard nixon",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Josephine Bakhita?",
+                "Q1_gt": [
+                    "Sudan"
+                ],
+                "Q1_pred": "sudan",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the Russian name of Sudan?",
+                "Q2_gt": [
+                    "Судан"
+                ],
+                "Q2_pred": "судан",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Ricardo Arjona?\nAnswer: Guatemala\n\nQuestion: What is the birthplace (country only) of Hatshepsut?\nAnswer: Egypt\n\nQuestion: What is the birthplace (country only) of Josephine Bakhita?\nAnswer:",
+                "Q2_prompt": "Question: What is the Russian name of Guatemala?\nAnswer: Гватемала\n\nQuestion: What is the Russian name of Egypt?\nAnswer: Египет\n\nQuestion: What is the Russian name of Sudan?\nAnswer:",
+                "Q1_returned": "Sudan",
+                "Q2_returned": "Судан"
+            },
+            "direct_answer_result": {
+                "question": "What is the Russian name of the birthplace of Josephine Bakhita?",
+                "prompt": "Question: What is the Russian name of the birthplace of Ricardo Arjona?\nAnswer: Гватемала\n\nQuestion: What is the Russian name of the birthplace of Hatshepsut?\nAnswer: Египет\n\nQuestion: What is the Russian name of the birthplace of Josephine Bakhita?\nAnswer:",
+                "answer": [
+                    "Судан"
+                ],
+                "returned": "Судан",
+                "cleaned_pred": "судан",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "What is the Russian name of the birthplace of Josephine Bakhita?",
+                "prompt": "Question: What is the Russian name of the birthplace of Ricardo Arjona?\nAnswer: The birthplace (country) of Ricardo Arjona is Guatemala. The name in Russian of Guatemala is Гватемала.\nSo the final answer (a Russian name) is: Гватемала.\n\nQuestion: What is the Russian name of the birthplace of Hatshepsut?\nAnswer: The birthplace (country) of Hatshepsut is Egypt. The name in Russian of Egypt is Египет.\nSo the final answer (a Russian name) is: Египет.\n\nQuestion: What is the Russian name of the birthplace of Josephine Bakhita?\nAnswer:",
+                "answer": [
+                    "Судан"
+                ],
+                "returned": "The birthplace (country) of Josephine Bakhita is Sudan. The name in Russian of Sudan is Судан.\nSo the final answer (a Russian name) is: Судан.",
+                "cleaned_pred": "судан",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the Russian name of the birthplace of Josephine Bakhita?",
+                "prompt": "Question: What is the Russian name of the birthplace of Ricardo Arjona?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Ricardo Arjona?\nIntermediate answer: Guatemala.\nFollow up: What is the Russian name of Guatemala?\nIntermediate answer: Гватемала.\nSo the final answer is: Гватемала.\n\nQuestion: What is the Russian name of the birthplace of Hatshepsut?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Hatshepsut?\nIntermediate answer: Egypt.\nFollow up: What is the Russian name of Egypt?\nIntermediate answer: Египет.\nSo the final answer is: Египет.\n\nQuestion: What is the Russian name of the birthplace of Josephine Bakhita?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "Судан"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Josephine Bakhita?\nIntermediate answer: Sudan.\nFollow up: What is the Russian name of Sudan?\nIntermediate answer: Судан.\nSo the final answer is: Судан.",
+                "cleaned_pred": "судан",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthdate of Kate Winslet?",
+                "Q1_gt": [
+                    "October 5, 1975"
+                ],
+                "Q1_pred": "october 5 1975",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "Who was the President of the United States on October 5, 1975?",
+                "Q2_gt": [
+                    "Gerald Ford"
+                ],
+                "Q2_pred": "gerald ford",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthdate of Chadwick Boseman?\nAnswer: November 29, 1976\n\nQuestion: What is the birthdate of Charles Robert Redford Jr.?\nAnswer: August 18, 1936\n\nQuestion: What is the birthdate of Kate Winslet?\nAnswer:",
+                "Q2_prompt": "Question: Who was the President of the United States on November 29, 1976?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States on August 18, 1936?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States on October 5, 1975?\nAnswer:",
+                "Q1_returned": "October 5, 1975",
+                "Q2_returned": "Gerald Ford"
+            },
+            "direct_answer_result": {
+                "question": "Who was the President of the United States when Kate Winslet was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: Gerald Ford\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: Franklin D. Roosevelt\n\nQuestion: Who was the President of the United States when Kate Winslet was born?\nAnswer:",
+                "answer": [
+                    "Gerald Ford"
+                ],
+                "returned": "Gerald Ford",
+                "cleaned_pred": "gerald ford",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "Who was the President of the United States when Kate Winslet was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAnswer: The date of birth of Chadwick Boseman is November 29, 1976. The President of the United States on November 29, 1976 was Gerald Ford.\nSo the final answer (a US president) is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAnswer: The date of birth of Charles Robert Redford Jr. is August 18, 1936. The President of the United States on August 18, 1936 was Franklin D. Roosevelt.\nSo the final answer (a US president) is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when Kate Winslet was born?\nAnswer:",
+                "answer": [
+                    "Gerald Ford"
+                ],
+                "returned": "The date of birth of Kate Winslet is October 5, 1975. The President of the United States on October 5, 1975 was Gerald Ford.\nSo the final answer (a US president) is: Gerald Ford.",
+                "cleaned_pred": "gerald ford",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "Who was the President of the United States when Kate Winslet was born?",
+                "prompt": "Question: Who was the President of the United States when Chadwick Boseman was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Chadwick Boseman?\nIntermediate answer: November 29, 1976.\nFollow up: Who was the President of the United States on November 29, 1976?\nIntermediate answer: Gerald Ford.\nSo the final answer is: Gerald Ford.\n\nQuestion: Who was the President of the United States when Charles Robert Redford Jr. was born?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthdate of Charles Robert Redford Jr.?\nIntermediate answer: August 18, 1936.\nFollow up: Who was the President of the United States on August 18, 1936?\nIntermediate answer: Franklin D. Roosevelt.\nSo the final answer is: Franklin D. Roosevelt.\n\nQuestion: Who was the President of the United States when Kate Winslet was born?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "Gerald Ford"
+                ],
+                "returned": "Follow up: What is the birthdate of Kate Winslet?\nIntermediate answer: October 5, 1975.\nFollow up: Who was the President of the United States on October 5, 1975?\nIntermediate answer: Gerald Ford.\nSo the final answer is: Gerald Ford.",
+                "cleaned_pred": "gerald ford",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Elon Musk?",
+                "Q1_gt": [
+                    "South Africa"
+                ],
+                "Q1_pred": "south africa",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the currency abbreviation in South Africa?",
+                "Q2_gt": [
+                    "ZAR"
+                ],
+                "Q2_pred": "zar",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Radamel Falcao?\nAnswer: Colombia\n\nQuestion: What is the birthplace (country only) of Edin Dzeko?\nAnswer: Bosnia And Herzegovina\n\nQuestion: What is the birthplace (country only) of Elon Musk?\nAnswer:",
+                "Q2_prompt": "Question: What is the currency abbreviation in Colombia?\nAnswer: COP\n\nQuestion: What is the currency abbreviation in Bosnia and Herzegovina?\nAnswer: BAM\n\nQuestion: What is the currency abbreviation in South Africa?\nAnswer:",
+                "Q1_returned": "South Africa",
+                "Q2_returned": "ZAR"
+            },
+            "direct_answer_result": {
+                "question": "What is the currency abbreviation in the birthplace of Elon Musk?",
+                "prompt": "Question: What is the currency abbreviation in the birthplace of Radamel Falcao?\nAnswer: COP\n\nQuestion: What is the currency abbreviation in the birthplace of Edin Dzeko?\nAnswer: BAM\n\nQuestion: What is the currency abbreviation in the birthplace of Elon Musk?\nAnswer:",
+                "answer": [
+                    "ZAR"
+                ],
+                "returned": "ZAR",
+                "cleaned_pred": "zar",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "What is the currency abbreviation in the birthplace of Elon Musk?",
+                "prompt": "Question: What is the currency abbreviation in the birthplace of Radamel Falcao?\nAnswer: The birthplace (country) of Radamel Falcao is Colombia. The currency abbreviation of Colombia is COP.\nSo the final answer (a currency abbreviation) is: COP.\n\nQuestion: What is the currency abbreviation in the birthplace of Edin Dzeko?\nAnswer: The birthplace (country) of Edin Dzeko is Bosnia And Herzegovina. The currency abbreviation of Bosnia And Herzegovina is BAM.\nSo the final answer (a currency abbreviation) is: BAM.\n\nQuestion: What is the currency abbreviation in the birthplace of Elon Musk?\nAnswer:",
+                "answer": [
+                    "ZAR"
+                ],
+                "returned": "The birthplace (country) of Elon Musk is South Africa. The currency abbreviation of South Africa is ZAR.\nSo the final answer (a currency abbreviation) is: ZAR.",
+                "cleaned_pred": "zar",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the currency abbreviation in the birthplace of Elon Musk?",
+                "prompt": "Question: What is the currency abbreviation in the birthplace of Radamel Falcao?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Radamel Falcao?\nIntermediate answer: Colombia.\nFollow up: What is the currency abbreviation in Colombia?\nIntermediate answer: COP.\nSo the final answer is: COP.\n\nQuestion: What is the currency abbreviation in the birthplace of Edin Dzeko?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Edin Dzeko?\nIntermediate answer: Bosnia And Herzegovina.\nFollow up: What is the currency abbreviation in Bosnia and Herzegovina?\nIntermediate answer: BAM.\nSo the final answer is: BAM.\n\nQuestion: What is the currency abbreviation in the birthplace of Elon Musk?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "ZAR"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Elon Musk?\nIntermediate answer: South Africa.\nFollow up: What is the currency abbreviation in South Africa?\nIntermediate answer: ZAR.\nSo the final answer is: ZAR.",
+                "cleaned_pred": "zar",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Manuela Sáenz?",
+                "Q1_gt": [
+                    "Ecuador"
+                ],
+                "Q1_pred": "ecuador",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the 3166-1 numeric code for Ecuador?",
+                "Q2_gt": [
+                    "218"
+                ],
+                "Q2_pred": "218",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Benicio Del Toro?\nAnswer: Puerto Rico\n\nQuestion: What is the birthplace (country only) of Daniel Cousin?\nAnswer: Gabon\n\nQuestion: What is the birthplace (country only) of Manuela Sáenz?\nAnswer:",
+                "Q2_prompt": "Question: What is the 3166-1 numeric code for Puerto Rico?\nAnswer: 630\n\nQuestion: What is the 3166-1 numeric code for Gabon?\nAnswer: 266\n\nQuestion: What is the 3166-1 numeric code for Ecuador?\nAnswer:",
+                "Q1_returned": "Ecuador",
+                "Q2_returned": "218"
+            },
+            "direct_answer_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAnswer: 630\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAnswer: 266\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?\nAnswer:",
+                "answer": [
+                    "218"
+                ],
+                "returned": "218",
+                "cleaned_pred": "218",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAnswer: The birthplace (country) of Benicio Del Toro is Puerto Rico. The ISO 3166-1 numeric code of Puerto Rico is 630.\nSo the final answer (an ISO 3166-1 numeric code) is: 630.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAnswer: The birthplace (country) of Daniel Cousin is Gabon. The ISO 3166-1 numeric code of Gabon is 266.\nSo the final answer (an ISO 3166-1 numeric code) is: 266.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?\nAnswer:",
+                "answer": [
+                    "218"
+                ],
+                "returned": "The birthplace (country) of Manuela Sáenz is Ecuador. The ISO 3166-1 numeric code of Ecuador is 218.\nSo the final answer (an ISO 3166-1 numeric code) is: 218.",
+                "cleaned_pred": "218",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?",
+                "prompt": "Question: What is the 3166-1 numeric code for the birthplace of Benicio Del Toro?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Benicio Del Toro?\nIntermediate answer: Puerto Rico.\nFollow up: What is the 3166-1 numeric code for Puerto Rico?\nIntermediate answer: 630.\nSo the final answer is: 630.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Daniel Cousin?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Daniel Cousin?\nIntermediate answer: Gabon.\nFollow up: What is the 3166-1 numeric code for Gabon?\nIntermediate answer: 266.\nSo the final answer is: 266.\n\nQuestion: What is the 3166-1 numeric code for the birthplace of Manuela Sáenz?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "218"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Manuela Sáenz?\nIntermediate answer: Ecuador.\nFollow up: What is the 3166-1 numeric code for Ecuador?\nIntermediate answer: 218.\nSo the final answer is: 218.",
+                "cleaned_pred": "218",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Enver Hoxha?",
+                "Q1_gt": [
+                    "Albania"
+                ],
+                "Q1_pred": "albania",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the Urdu name of Albania?",
+                "Q2_gt": [
+                    "البانیا"
+                ],
+                "Q2_pred": "البانیا",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Han Kwang-song?\nAnswer: North Korea\n\nQuestion: What is the birthplace (country only) of Diego Forlán?\nAnswer: Uruguay\n\nQuestion: What is the birthplace (country only) of Enver Hoxha?\nAnswer:",
+                "Q2_prompt": "Question: What is the Urdu name of North Korea?\nAnswer: شمالی کوریا\n\nQuestion: What is the Urdu name of Uruguay?\nAnswer: یوراگوئے\n\nQuestion: What is the Urdu name of Albania?\nAnswer:",
+                "Q1_returned": "Albania",
+                "Q2_returned": "البانیا"
+            },
+            "direct_answer_result": {
+                "question": "What is the Urdu name of the birthplace of Enver Hoxha?",
+                "prompt": "Question: What is the Urdu name of the birthplace of Han Kwang-song?\nAnswer: شمالی کوریا\n\nQuestion: What is the Urdu name of the birthplace of Diego Forlán?\nAnswer: یوراگوئے\n\nQuestion: What is the Urdu name of the birthplace of Enver Hoxha?\nAnswer:",
+                "answer": [
+                    "البانیا"
+                ],
+                "returned": "البانیہ",
+                "cleaned_pred": "البانیہ",
+                "is_right_EM": false,
+                "is_right_CEM": false
+            },
+            "chain_of_thought_result": {
+                "question": "What is the Urdu name of the birthplace of Enver Hoxha?",
+                "prompt": "Question: What is the Urdu name of the birthplace of Han Kwang-song?\nAnswer: The birthplace (country) of Han Kwang-song is North Korea. The name in Urdu of North Korea is شمالی کوریا.\nSo the final answer (an Urdu name) is: شمالی کوریا.\n\nQuestion: What is the Urdu name of the birthplace of Diego Forlán?\nAnswer: The birthplace (country) of Diego Forlán is Uruguay. The name in Urdu of Uruguay is یوراگوئے.\nSo the final answer (an Urdu name) is: یوراگوئے.\n\nQuestion: What is the Urdu name of the birthplace of Enver Hoxha?\nAnswer:",
+                "answer": [
+                    "البانیا"
+                ],
+                "returned": "The birthplace (country) of Enver Hoxha is Albania. The name in Urdu of Albania is البانیا.\nSo the final answer (an Urdu name) is: البانیا.",
+                "cleaned_pred": "البانیا",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the Urdu name of the birthplace of Enver Hoxha?",
+                "prompt": "Question: What is the Urdu name of the birthplace of Han Kwang-song?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Han Kwang-song?\nIntermediate answer: North Korea.\nFollow up: What is the Urdu name of North Korea?\nIntermediate answer: شمالی کوریا.\nSo the final answer is: شمالی کوریا.\n\nQuestion: What is the Urdu name of the birthplace of Diego Forlán?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Diego Forlán?\nIntermediate answer: Uruguay.\nFollow up: What is the Urdu name of Uruguay?\nIntermediate answer: یوراگوئے.\nSo the final answer is: یوراگوئے.\n\nQuestion: What is the Urdu name of the birthplace of Enver Hoxha?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "البانیا"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Enver Hoxha?\nIntermediate answer: Albania.\nFollow up: What is the Urdu name of Albania?\nIntermediate answer: البانیا.\nSo the final answer is: البانیا.",
+                "cleaned_pred": "البانیا",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        },
+        {
+            "subquestions_result": {
+                "Q1": "What is the birthplace (country only) of Ri Sol-ju?",
+                "Q1_gt": [
+                    "North Korea"
+                ],
+                "Q1_pred": "north korea",
+                "Q1_is_right_EM": true,
+                "Q1_is_right_CEM": true,
+                "Q2": "What is the Spanish name of North Korea?",
+                "Q2_gt": [
+                    "Corea del Norte"
+                ],
+                "Q2_pred": "corea del norte",
+                "Q2_is_right_EM": true,
+                "Q2_is_right_CEM": true,
+                "Q1_and_Q2_right_EM": true,
+                "Q1_and_Q2_right_CEM": true,
+                "Q1_prompt": "Question: What is the birthplace (country only) of Kwame Nkrumah?\nAnswer: Ghana\n\nQuestion: What is the birthplace (country only) of Marc Chagall?\nAnswer: Belarus\n\nQuestion: What is the birthplace (country only) of Ri Sol-ju?\nAnswer:",
+                "Q2_prompt": "Question: What is the Spanish name of Ghana?\nAnswer: Ghana\n\nQuestion: What is the Spanish name of Belarus?\nAnswer: Bielorrusia\n\nQuestion: What is the Spanish name of North Korea?\nAnswer:",
+                "Q1_returned": "North Korea",
+                "Q2_returned": "Corea del Norte"
+            },
+            "direct_answer_result": {
+                "question": "What is the Spanish name of the birthplace of Ri Sol-ju?",
+                "prompt": "Question: What is the Spanish name of the birthplace of Kwame Nkrumah?\nAnswer: Ghana\n\nQuestion: What is the Spanish name of the birthplace of Marc Chagall?\nAnswer: Bielorrusia\n\nQuestion: What is the Spanish name of the birthplace of Ri Sol-ju?\nAnswer:",
+                "answer": [
+                    "Corea del Norte"
+                ],
+                "returned": "Corea del Norte",
+                "cleaned_pred": "corea del norte",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "chain_of_thought_result": {
+                "question": "What is the Spanish name of the birthplace of Ri Sol-ju?",
+                "prompt": "Question: What is the Spanish name of the birthplace of Kwame Nkrumah?\nAnswer: The birthplace (country) of Kwame Nkrumah is Ghana. The name in Spanish of Ghana is Ghana.\nSo the final answer (a Spanish name) is: Ghana.\n\nQuestion: What is the Spanish name of the birthplace of Marc Chagall?\nAnswer: The birthplace (country) of Marc Chagall is Belarus. The name in Spanish of Belarus is Bielorrusia.\nSo the final answer (a Spanish name) is: Bielorrusia.\n\nQuestion: What is the Spanish name of the birthplace of Ri Sol-ju?\nAnswer:",
+                "answer": [
+                    "Corea del Norte"
+                ],
+                "returned": "The birthplace (country) of Ri Sol-ju is North Korea. The name in Spanish of North Korea is Corea del Norte.\nSo the final answer (a Spanish name) is: Corea del Norte.",
+                "cleaned_pred": "corea del norte",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            },
+            "self_ask_result": {
+                "question": "What is the Spanish name of the birthplace of Ri Sol-ju?",
+                "prompt": "Question: What is the Spanish name of the birthplace of Kwame Nkrumah?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Kwame Nkrumah?\nIntermediate answer: Ghana.\nFollow up: What is the Spanish name of Ghana?\nIntermediate answer: Ghana.\nSo the final answer is: Ghana.\n\nQuestion: What is the Spanish name of the birthplace of Marc Chagall?\nAre follow up questions needed here: Yes.\nFollow up: What is the birthplace (country only) of Marc Chagall?\nIntermediate answer: Belarus.\nFollow up: What is the Spanish name of Belarus?\nIntermediate answer: Bielorrusia.\nSo the final answer is: Bielorrusia.\n\nQuestion: What is the Spanish name of the birthplace of Ri Sol-ju?\nAre follow up questions needed here: Yes.\n",
+                "answer": [
+                    "Corea del Norte"
+                ],
+                "returned": "Follow up: What is the birthplace (country only) of Ri Sol-ju?\nIntermediate answer: North Korea.\nFollow up: What is the Spanish name of North Korea?\nIntermediate answer: Corea del Norte.\nSo the final answer is: Corea del Norte.",
+                "cleaned_pred": "corea del norte",
+                "is_right_EM": true,
+                "is_right_CEM": true
+            }
+        }
+    ],
+    "summary": {
+        "full_question_direct_answer_correct_EM": 9,
+        "full_question_direct_answer_correct_CEM": 9,
+        "full_question_chain_of_thought_correct_EM": 9,
+        "full_question_chain_of_thought_correct_CEM": 10,
+        "full_question_self_ask_correct_EM": 10,
+        "full_question_self_ask_correct_CEM": 10,
+        "both_subquestions_correct_EM": 10,
+        "both_subquestions_correct_CEM": 10,
+        "subquestions_wrong_when_full_question_direct_answer_correct_EM": 0,
+        "subquestions_wrong_when_full_question_direct_answer_correct_CEM": 0,
+        "subquestions_wrong_when_full_question_chain_of_thought_correct_EM": 0,
+        "subquestions_wrong_when_full_question_chain_of_thought_correct_CEM": 0,
+        "subquestions_wrong_when_full_question_self_ask_correct_EM": 0,
+        "subquestions_wrong_when_full_question_self_ask_correct_CEM": 0,
+        "full_question_direct_answer_wrong_when_subquestions_correct_EM": 1,
+        "full_question_direct_answer_wrong_when_subquestions_correct_CEM": 1,
+        "full_question_chain_of_thought_wrong_when_subquestions_correct_EM": 1,
+        "full_question_chain_of_thought_wrong_when_subquestions_correct_CEM": 0,
+        "full_question_self_ask_wrong_when_subquestions_correct_EM": 0,
+        "full_question_self_ask_wrong_when_subquestions_correct_CEM": 0
+    }
+}

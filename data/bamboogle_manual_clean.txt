@@ -1,0 +1,875 @@
+--0--
+Q1: What year was Citibank founded?
+1812
+
+Q2: Who was president of the United States in the year that Citibank was founded?
+James Madison
+
+--1--
+Q1: What was the first spacecraft that ever approached Uranus?
+Voyager 2
+
+Q2: What rocket was Voyager 2 launched on?
+Titan IIIE-Centaur||Titan IIIE
+
+--2--
+Q1: What company was founded as Sound of Music?
+Best Buy
+
+Q2: What year was Best Buy added to the S&P 500?
+1999
+
+--3--
+Q1: What is the most populous city in the United States?
+New York City
+
+Q2: Who was the first African American mayor of New York City?
+David Dinkins
+
+--4--
+Q1: Who was the last king from Britain's House of Hanover?
+William IV
+
+Q2: When did he die?
+20 June 1837
+
+--5--
+Q1: Who was the president who set the precedent of a two term limit?
+George Washington
+
+Q2: When did George Washington enter office?
+April 30, 1789
+
+--6--
+Q1: Who set the precedent of a two term limit? 
+George Washington
+ 
+Q2: When did George Washington leave office?
+March 4, 1797
+
+--7--
+Q1: What is the second most powerful earthquake ever recorded?
+1964 Alaska earthquake
+
+Q2: How many people died in the 1964 Alaska earthquake?
+131
+
+--8--
+Q1: Is camel meat gluten-free?
+Yes
+
+Q2: Is it safe for people with celiac to eat gluten-free?
+Yes
+
+--9--
+Q1: Who is the author of On the Origin of Species?
+Charles Darwin
+
+Q2: What was the final book written by Charles Darwin?
+The Formation of Vegetable Mould through the Action of Worms
+
+--10--
+Q1: Which company built the first steam locomotive to carry passengers on a public rail line?
+Stockton and Darlington Railway
+
+Q2: When was Stockton and Darlington Railway founded?
+1825
+
+--11--
+Q1: Who are the whistleblowers associated with Theranos?
+Erika Cheung and Tyler Shultz
+
+Q2: Which of Erika Cheung and Tyler Shultz is not related to a senior American government official?
+Erika Cheung
+
+--12--
+Q1: What is the fastest air-breathing manned aircraft?
+Lockheed SR-71 Blackbird
+
+Q2: What is the Lockheed SR-71 Blackbird mostly made out of?
+titanium
+
+--13--
+Q1: What is the fastest air-breathing manned aircraft? 
+Lockheed SR-71 Blackbird
+
+Q2: Who built the Lockheed SR-71 Blackbird?
+Lockheed Corporation||Lockheed Martin.
+
+--14--
+Q1: Who was the author of The Population Bomb?
+Paul R. Ehrlich
+
+Q2: When was Paul R. Ehrlich born?
+May 29, 1932
+
+--15--
+Q1: Who was the author of Annabel Lee?
+Edgar Allan Poe
+
+Q2: When did Edgar Allan Poe enlist in the army?
+1827
+
+--16--
+Q1: Who was the inventor of the Polio vaccine?
+Dr. Jonas Salk
+
+Q2: What was the religion of Dr. Jonas Salk?
+Jewish||humanism
+
+--17--
+Q1: Who is the founder of CNN?
+Ted Turner
+
+Q2: Who was Ted Turner's second wife?
+Jane Shirley Smith
+
+--18--
+Q1: Who was the first prime minister of the Russian Empire?
+Sergei Witte
+
+Q2: When did Prince Gorchakov come into office as the first Chancellor of the Russian Empire?
+6 November 1905
+
+--19--
+Q1: What is the primary male hormone?
+testosterone
+
+Q2: What is testosterone derived from?
+cholesterol
+
+--20--
+Q1: Who was the Filipino statesman who established the government-in-exile during the outbreak of World War II?
+Manuel L. Quezon
+
+Q2: What city was Manuel L. Quezon the mayor of?
+Quezon City
+
+--21--
+Q1: Who shared the Nobel Prize in Physics in 1954 with Max Born?
+Walther Bothe
+
+Q2: Where was Walther Bothe born?
+Oranienburg, Germany
+
+--22--
+Q1: Who shared the Nobel Prize in Physics in 1954 with Max Born? 
+Walther Bothe
+
+Q2: When was Walther Bothe born? 
+January 8, 1891
+
+--23--
+Q1: What is the name of the university where Plutonium was discovered?
+University of California, Berkeley
+
+Q2: When was the University of California, Berkeley founded?
+March 23, 1868
+
+--24--
+Q1: What material is the Great Sphinx of Giza made of?
+Limestone
+
+Q2: What mineral is limestone composed of?
+calcium carbonate||calcite||double carbonate of calcium and magnesium||dolomite
+
+--25--
+Q1: Who was Lady Godiva's husband?
+Leofric
+
+Q2: Which kingdom was Leofric the Earl of?
+Mercia
+
+--26--
+Q1: What is the machine used to extract honey from honeycombs?
+honey extractor
+
+Q2: Which physical force does the honey extractor use?
+centrifugal force
+
+--27--
+Q1: What is the top-level domain for the military?
+.mil
+
+Q2: What is the third letter of the top-level domain ".mil"?
+l
+
+--28--
+Q1: What is the name of the government department where the internet originated?
+Department of Defense||DoD||Defense Advanced Research Projects Agency||DARPA
+
+Q2: In what year was DARPA founded?
+1947||1958
+
+--29--
+Q1: What is the name of the main actor of Indiana Jones?
+Harrison Ford
+
+Q2: What type of license does the Harrison Ford hold?
+pilot
+
+--30--
+Q1: Who is the person after which the Hubble Space Telescope is named after?
+Edwin Hubble
+
+Q2: When was Edwin Hubble born?
+November 20, 1889
+
+--31--
+Q1: Who gave the Checkers speech? 
+Richard Nixon
+
+Q2: When did Richard Nixon die? 
+April 22, 1994
+
+--32--
+Q1: Who is the philosopher that formulated the hard problem of consciousness?
+David Chalmers
+
+Q2: When was David Chalmers born?
+April 20, 1966
+
+--33--
+Q1: What is the second largest state in the US by area?
+Texas
+
+Q2: What is the capital of Texas?
+Austin
+
+--34--
+Q1: What is the third fastest bird?
+Saker falcon
+
+Q2: What is the Saker falcon's maximum airspeed (in km/h)?
+320 km/h
+
+--35--
+Q1: Who was the founder of geometry?
+Euclid
+
+Q2: Who founded the city where Euclid lived?
+Alexander the Great
+
+--36--
+Q1: What country did yoga originate in?
+India
+
+Q2: What is the capital of India?
+New Delhi
+
+--37--
+Q1: What is the current name of the fourth largest city in Germany?
+Cologne||Köln
+
+Q2: What was the original name of the fourth largest city in Germany before it changed to its current name?
+Colonia Agrippina||Colonia Claudia Ara Agrippinensium
+
+--38--
+Q1: What is Nirvana's second most selling studio album?
+In Utero
+
+Q2: When did In Utero come out?
+9/13/1993||September 13, 1993
+
+--39--
+Q1: Who was the founder of psychoanalysis?
+Sigmund Freud
+
+Q2: What was the job of the father of Sigmund Freud?
+wool merchant
+
+--40--
+Q1: How much protein is in one boiled egg yolk?
+2.7 grams
+
+Q2: How much protein is in four boiled egg yolks?
+10.8 grams
+
+--41--
+Q1: Which American president entered into the Paris agreement?
+Barack Obama
+
+What political party is Barack Obama associated with?
+Democratic Party
+
+--42--
+Q1: What is the name of the most populous city in Punjab?
+Ludhiana
+
+Q2: How large is Ludhiana (area wise)?
+310 sq km||120 sq mi
+
+--43--
+Q1: What was the second largest volcanic eruption in the 20th century?
+Mount Pinatubo
+
+Q2: What was the death toll of the Mount Pinatubo eruption?
+350||722|847
+
+--44--
+Q1: What was the most intense Atlantic hurricane? 
+Hurricane Wilma
+
+Q2: What was the death toll of Hurricane Wilma? 
+52
+
+--45--
+Q1: When was Apollo 11?
+July 16, 1969
+
+Q2: Who was in charge of the NASA on July 16, 1969?
+Thomas O. Paine
+
+--46--
+Q1: Who is the father of George Washington?
+Augustine Washington
+
+Q2: Who is the father of Augustine Washington?
+Lawrence Washington
+
+--47--
+Q1: Who is the father of George Washington?
+Augustine Washington
+
+Q2: Who is the mother of Augustine Washington?
+Mildred Gale||Mildred Warner
+
+--48--
+Q1: Who is the father of Barack Obama?
+Barack Obama Sr.
+
+Q2: Who is the father of Barack Obama Sr.?
+Hussein Onyango Obama
+
+--49--
+Q1: Who is the father of Barack Obama?
+Barack Obama Sr.
+
+Q2: Who is the mother of Barack Obama Sr.?
+Habiba Akumu Nyanjango||Habiba Akumu Obama 
+
+--50--
+Q1: When was Fiorello H. La Guardia born?
+December 11, 1882
+
+Q2: Who was the mayor of New York City on December 11, 1882?
+William Russell Grace
+
+--51--
+Q1: When was superconductivity discovered?
+1911
+
+Q2: Who was president of the U.S. in 1911?
+William Howard Taft
+
+--52--
+Q1: Who is the person that Russ Hanneman is based on?
+Mark Cuban
+
+Q2: When was Mark Cuban born?
+July 31, 1958
+
+--53--
+Q1: What is the name of the world's largest coffeehouse chain?
+Starbucks
+
+Q2: When was the first location of Starbucks opened?
+March 31, 1971
+
+--54--
+Q1: What is the highest grossing film?
+Avatar
+
+Q2: Who directed Avengers: Endgame?
+James Cameron
+
+--55--
+Q1: What is the longest bridge in the world?
+Danyang–Kunshan Grand Bridge
+
+Q2: When was this bridge opened?
+June 30, 2011
+
+--56--
+Q1: Which was the largest pharmaceutical settlement?
+Avandia||Advair||Lamictal||Zofran||Imitrex||Lotronex||Flovent||Valtrex
+
+Q2: Which company was responsible for that particular settlement?
+GlaxoSmithKline
+
+--57--
+Q1: What is the name of the tallest self-supporting tower?
+Burj Khalifa
+
+Q2: In what year was this tower completed?
+2010
+
+--58--
+Q1: What is the tallest fixed steel structure in the world?
+Tokyo Skytree||Petronius||Petronius Compliant Tower
+
+Q2: In what year was the Tokyo Skytree completed?
+2012||2000
+
+--59--
+Q1: What is the name of the tallest lattice tower?
+Tokyo Skytree
+
+Q2: In what year was the Tokyo Skytree completed?
+2012
+
+--60--
+Q1: What is the name of the current tallest wooden lattice tower?
+Gliwice Radio Tower
+
+Q2: In what year was the Gliwice Radio Tower completed?
+1935
+
+--61--
+Q1: What is the name of the second tallest statue?
+Spring Temple Buddha
+
+Q2: In which country is the Spring Temple Buddha located?
+China
+
+--62--
+Q1: What is the name of the tallest ferris wheel?
+Ain Dubai
+
+Q2: When was the Ain Dubai completed?
+2021
+
+--63--
+Q1: What is the name of the tallest lighthouse?
+Île Vierge Lighthouse
+
+Q2: When was the Ain Dubai completed?
+1902
+
+--64--
+Q1: What is the name of the world's largest desalination plant?
+Ras Al Khair
+
+Q2: In which country is the world's largest desalination plant located?
+Saudi Arabia||Jubail||Riyadh
+
+--65--
+Q1: What is the name of the most populous national capital city?
+Beijing
+
+Q2: In what year was Beijing established? 
+1045 BC
+
+--66--
+Q1: What is the name of the third largest river (by discharge) in the world?
+Congo River
+
+Q2: In what countries is the Congo River located?
+Democratic Republic of the Congo||Republic of the Congo||Angola
+
+--67--
+Q1: What is the second largest island in the world?
+New Guinea 
+
+Q2: What is the highest elevation (in meters) of New Guinea?
+4,884m
+
+--68--
+Q1: What is the second deepest river in the world?
+Yangzte River
+
+Q2: What is the length of the Yangzte River?
+6,300 km
+
+--69--
+Q1: What is the name of the third largest stadium in the world?
+Michigan Stadium
+
+Q2: In which country is it located?
+United States
+
+--70--
+Q1: What is the name of the largest aircraft carrier in the world?
+USS Gerald R. Ford
+
+Q2: Who or what is this aircraft carrier named after?
+Gerald R. Ford
+
+--71--
+Q1: What year was the oldest cat ever recorded?
+NA
+
+Q2: What year did the cat win the Cat of the Year award?
+NA
+
+--72--
+Q1: Which country is the third largest exporter of coffee?
+Colombia
+
+Q2: What year was Colombia founded in?
+1810
+
+--73--
+Q1: What was the name of the space mission that had the first spacewalk?
+Voskhod 2
+
+Q2: Who was the commander for the Voskhod 2 mission?
+Pavel Belyayev
+
+--74--
+Q1: Who is the longest-reigning British monarch?
+Elizabeth II
+
+Q2: Who is the predecessor of Elizabeth II?
+George VI
+
+--75--
+Q1: What is the name of the longest running talk show in 2016?
+The Tonight Show with Jimmy Fallon||The Tonight Show
+
+Q2: Who was the host of the The Tonight Show with Jimmy Fallon in 2016?
+Jimmy Fallon
+
+--76--
+Q1: What is the name of the longest running American game show as of 2016?
+The Price is Right
+
+Q2: Who was the host of "The Price is Right" in 2016?
+Drew Carey
+
+--77--
+Q1: What novel is the longest running show in Broadway history based on?
+The Phantom of the Opera
+
+Q2: Who is the author of The Phantom of the Opera?
+Gaston Leroux
+
+--78--
+Q1: Which is the only cruise line that flies the American flag? 
+Norwegian Cruise Line
+
+Q2: In what country was Norwegian Cruise Line incorporated? 
+Bermuda
+
+--79--
+Q1: What is the second longest road tunnel in the world?
+WestConnex
+
+Q2: What year did work begin on WestConnex?
+2018
+
+--80--
+Q1: What is the third oldest surviving university in the world?
+University of Cambridge
+
+Q2: What is the official color of the University of Cambridge?
+Cambridge Blue
+
+--81--
+Q1: Who was the longest reigning Roman emperor?
+Augustus
+
+Q2: Who succeeded that emperor?
+Tiberius
+
+--82--
+Q1: Which Roman emperor declared war on the sea?
+Caligula. 
+
+Q2: Who preceded Caligula as the Roman emperor?
+Tiberius
+
+--83--
+Q1: What is the longest running video game franchise?
+Space Invaders
+
+Q2: Who produced Space Invaders?
+Taito Corp||Taito
+
+--84--
+Q1: Who is considered the father of psychoanalysis?\
+Sigmund Freud
+
+Q2: Who was the father of the father of psychoanalysis?
+Jacob Freud
+
+--85--
+Q1: Who is considered the father of empiricism?
+Francis Bacon.
+
+Q2: Who was the father of Francis Bacon?
+Sir Nicholas Bacon
+
+--86--
+Q1: Who is regarded as the father of observational astronomy? 
+Galileo
+
+Q2: Who is the father of Galileo?
+Vincenzo Galilei
+
+--87--
+Q1: Who is the father of modern Hebrew? 
+Eliezer Ben-Yehuda
+
+Q2: Who is the father of Eliezer Ben-Yehuda? 
+Yehuda Leib
+
+--88--
+Q1: Who is considered the father of modern experimental psychology?
+Wilhelm Wundt
+
+Q2: Who is the father of Wilhelm Wundt?
+Maximilian Wundt
+
+--89--
+Q1: Who is the originator of cybernetics?
+Norbert Wiener
+
+Q2: Who is Norbert Wiener's father?
+Leo Wiener
+
+--90--
+Q1: Who is the father of the hydrogen bomb? 
+Edward Teller
+
+Q2: Who is the father of Edward Teller, the father of the hydrogen bomb?
+Max Teller
+
+--91--
+Q1: Who is considered the father of computer science?
+Alan Turing
+
+Q2: Who was Alan Turing's father?
+Julius Mathison Turing
+
+--92--
+Q1: Who is considered the father of behaviorism?
+John Watson
+
+Q2: Who was the father of John Watson?
+Pickens Butler Watson
+
+--93--
+Q1: Who is considered to be the founder of modern human anatomy?
+Andreas Vesalius
+
+Q2: Who was the father of Andreas Vesalius?
+Anders van Wesel||Andreas van Wesel||Andreas Vesal
+
+--94--
+Q1: Who was the last surviving Canadian father of Confederation?
+Charles Tupper
+
+Q2: Who was the father of Charles Tupper?
+Charles Tupper Sr.
+
+--95--
+Q1: Who said "Now, I am become Death, the destroyer of worlds."? 
+J. Robert Oppenheimer
+
+Q2: When was J. Robert Oppenheimer born?
+April 22, 1904
+
+--96--
+Q1: Who is considered the father of information theory?
+Claude Shannon
+
+Q2: Who was the father of Claude Shannon?
+Claude Elwood Shannon, Sr.
+
+--97--
+Q1: Who delivered the "Quit India" speech?
+Mohandas Gandhi||Mahatma Gandhi
+
+Q2: When was Mahatma Gandhi born?
+October 2, 1869
+
+--98--
+Q1: Who was the president who warned about the military industrial complex?
+Dwight D. Eisenhower
+
+Q2: When did that Dwight D. Eisenhower die?
+March 28, 1969
+
+--99--
+Q1: Who was the president who said "Tear Down This Wall?"
+Ronald Reagan
+
+Q2: When did Ronald Reagan die?
+June 5, 2004
+
+--100--
+Q1: What is the longest railway tunnel?
+The Gotthard Base Tunnel
+
+Q2: What is the lowest elevation of the Gotthard Base Tunnel?
+312 m
+
+--101--
+Q1: Who said "Cogito, ergo sum."?
+René Descartes
+
+Q2: When did René Descartes die?
+February 11, 1650
+
+--102--
+Q1: Who delivered the Gettysburg Address? 
+Abraham Lincoln
+
+Q2: When did Abraham Lincoln die?
+April 15, 1865
+
+--103--
+Q1: What year did Hurricane Irma occur in Florida?
+2017
+
+Q2: Who was the governor of Florida in 2017?
+Rick Scott
+
+--104--
+Q1: Who won the 2007 Ballon d'Or?
+Kaká
+
+Q2: What club did Kaká play for in 2012?
+Real Madrid
+
+--105--
+Q1: Who won the 2010 World Cup?
+Spain
+
+Q2: What is the capital of Spain?
+Madrid
+
+--106--
+Q1: What is the name of the anime studio that made Sword Art Online?
+A-1 Pictures
+
+Q2: When was this anime studio founded?
+May 9, 2005
+
+--107--
+Q1: What is the name of the longest Chinese dynasty?
+Zhou dynasty
+
+Q2: Who was the first king of the Zhou dynasty?
+King Wu of Zhou
+
+--108--
+Q1: Which dynasty succeeded the Song dynasty? 
+Yuan dynasty
+
+Q2: Who was the last emperor of the Yuan dynasty? 
+Toghon Temür
+
+--109--
+Q1: What is the name of the oldest California State university?
+San Jose State University
+
+Q2: What is the motto of this university?
+Powering Silicon Valley
+
+--110--
+Q1: What state is the College of William & Mary in?
+Virginia
+
+Q2: What is the capital of Virginia?
+Richmond
+
+--111--
+Q1: In which state is Washington University in St. Louis located? 
+Missouri
+
+Q2: What is the capital of Missouri?
+Jefferson City
+
+--112--
+Q1: What state is Harvard University located in?
+Massachusetts
+
+Q2: What is the capital of Massachusetts?
+Boston
+
+--113--
+Q1: What state is the Space Needle located in? 
+Washington
+
+Q2: What is the capital of Washington? 
+Olympia
+
+--114--
+Q1: When was the most recent Summer Olympics held in London?
+2012
+
+Q2: Which team won in women's volleyball in the 2012 Summer Olympics in London?
+Brazil
+
+--115--
+Q1: What is the easternmost U.S. state?
+Maine
+
+Q2: What is the nickname of Maine?
+Pine Tree State
+
+--116--
+Q1: What is the state that is the home to the "Avocado Capital of the World"?
+California
+
+Q2: What is the nickname for California due to Fallbrook being the "Avocado Capital of the World"?
+Golden State
+
+--117--
+Q1: Which mission successfully landed the first humans on the moon?
+Apollo 11
+
+Q2: What was the name of the rocket used for the mission?
+Saturn V
+
+--118--
+Q1: Which war did Neil Armstrong serve in?
+Neil Armstrong served in the Korean War.
+
+Q2: When did the Korean War end?
+The Korean War ended on July 27, 1953.
+
+--119--
+Q1: What state is Mount Rainier in?
+Washington
+
+Q2: What is the nickname of Washington?
+Evergreen State
+
+--120--
+Q1: What is the name of the composer of "Carol of the Bells"?
+Mykola Leontovych
+
+Q2: When was Mykola Leontovych born?
+December 13, 1877
+
+--121--
+Q1: Who is the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?
+Tim Berners-Lee
+
+Q2: Who is the father of Tim Berners-Lee?
+Conway Berners-Lee
+
+--122--
+Q1: Who was the emperor of Japan during World War I? 
+Emperor Taishō
+
+Q2: Who was the mother of Emperor Taishō?
+Yanagiwara Naruko||Sawarabi no Tsubone
+
+--123--
+Q1: What is the atomic number of hydrogen?
+1
+
+Q2: What element has an atomic number of two times 1?
+Helium
+
+--124--
+Q1: What Olympics had Fuwa as the mascots?
+2008 Summer Olympics
+
+Q2: What was the motto of the 2008 Summer Olympics?
+One World, One Dream
+

@@ -1,0 +1,1539 @@
+[
+    {
+        "Question": "Who was president of the United States in the year that Citibank was founded?",
+        "Answer": "james madison",
+        "Q1": "What year was Citibank founded?",
+        "A1": [
+            "1812"
+        ],
+        "Q2": "Who was president of the United States in the year that Citibank was founded?",
+        "A2": [
+            "james madison"
+        ]
+    },
+    {
+        "Question": "What rocket was the first spacecraft that ever approached Uranus launched on?",
+        "Answer": "Titan IIIE",
+        "Q1": "What was the first spacecraft that ever approached Uranus?",
+        "A1": [
+            "voyager 2"
+        ],
+        "Q2": "What rocket was Voyager 2 launched on?",
+        "A2": [
+            "titan iiie-centaur",
+            "titan iiie"
+        ]
+    },
+    {
+        "Question": "In what year was the company that was founded as Sound of Music added to the S&P 500?",
+        "Answer": "1999",
+        "Q1": "What company was founded as Sound of Music?",
+        "A1": [
+            "best buy"
+        ],
+        "Q2": "What year was Best Buy added to the S&P 500?",
+        "A2": [
+            "1999"
+        ]
+    },
+    {
+        "Question": "Who was the first African American mayor of the most populous city in the United States?",
+        "Answer": "David Dinkins",
+        "Q1": "What is the most populous city in the United States?",
+        "A1": [
+            "new york city"
+        ],
+        "Q2": "Who was the first African American mayor of New York City?",
+        "A2": [
+            "david dinkins"
+        ]
+    },
+    {
+        "Question": "When did the last king from Britain's House of Hanover die?",
+        "Answer": "20 June 1837",
+        "Q1": "Who was the last king from Britain's House of Hanover?",
+        "A1": [
+            "william iv"
+        ],
+        "Q2": "When did he die?",
+        "A2": [
+            "20 june 1837"
+        ]
+    },
+    {
+        "Question": "When did the president who set the precedent of a two term limit enter office?",
+        "Answer": "April 30, 1789",
+        "Q1": "Who was the president who set the precedent of a two term limit?",
+        "A1": [
+            "george washington"
+        ],
+        "Q2": "When did George Washington enter office?",
+        "A2": [
+            "april 30, 1789"
+        ]
+    },
+    {
+        "Question": "When did the president who set the precedent of a two term limit leave office?",
+        "Answer": "March 4, 1797",
+        "Q1": "Who set the precedent of a two term limit?",
+        "A1": [
+            "george washington"
+        ],
+        "Q2": "When did George Washington leave office?",
+        "A2": [
+            "march 4, 1797"
+        ]
+    },
+    {
+        "Question": "How many people died in the second most powerful earthquake ever recorded?",
+        "Answer": "131",
+        "Q1": "What is the second most powerful earthquake ever recorded?",
+        "A1": [
+            "1964 alaska earthquake"
+        ],
+        "Q2": "How many people died in the 1964 Alaska earthquake?",
+        "A2": [
+            "131"
+        ]
+    },
+    {
+        "Question": "Can people who have celiac eat camel meat?",
+        "Answer": "Yes",
+        "Q1": "Is camel meat gluten-free?",
+        "A1": [
+            "yes"
+        ],
+        "Q2": "Is it safe for people with celiac to eat gluten-free?",
+        "A2": [
+            "yes"
+        ]
+    },
+    {
+        "Question": "What was the final book written by the author of On the Origin of Species?",
+        "Answer": "The Formation of Vegetable Mould Through the Action of Worms",
+        "Q1": "Who is the author of On the Origin of Species?",
+        "A1": [
+            "charles darwin"
+        ],
+        "Q2": "What was the final book written by Charles Darwin?",
+        "A2": [
+            "the formation of vegetable mould through the action of worms"
+        ]
+    },
+    {
+        "Question": "When was the company that built the first steam locomotive to carry passengers on a public rail line founded?",
+        "Answer": "1823",
+        "Q1": "Which company built the first steam locomotive to carry passengers on a public rail line?",
+        "A1": [
+            "stockton and darlington railway"
+        ],
+        "Q2": "When was Stockton and Darlington Railway founded?",
+        "A2": [
+            "1825"
+        ]
+    },
+    {
+        "Question": "Which Theranos whistleblower is not related to a senior American government official?",
+        "Answer": "Erika Cheung",
+        "Q1": "Who are the whistleblowers associated with Theranos?",
+        "A1": [
+            "erika cheung and tyler shultz"
+        ],
+        "Q2": "Which of Erika Cheung and Tyler Shultz is not related to a senior American government official?",
+        "A2": [
+            "erika cheung"
+        ]
+    },
+    {
+        "Question": "What is the fastest air-breathing manned aircraft mostly made out of?",
+        "Answer": "Titanium",
+        "Q1": "What is the fastest air-breathing manned aircraft?",
+        "A1": [
+            "lockheed sr-71 blackbird"
+        ],
+        "Q2": "What is the Lockheed SR-71 Blackbird mostly made out of?",
+        "A2": [
+            "titanium"
+        ]
+    },
+    {
+        "Question": "Who built the fastest air-breathing manned aircraft?",
+        "Answer": "Lockheed Corporation",
+        "Q1": "What is the fastest air-breathing manned aircraft?",
+        "A1": [
+            "lockheed sr-71 blackbird"
+        ],
+        "Q2": "Who built the Lockheed SR-71 Blackbird?",
+        "A2": [
+            "lockheed corporation",
+            "lockheed martin."
+        ]
+    },
+    {
+        "Question": "When was the author of The Population Bomb born?",
+        "Answer": "May 29, 1932",
+        "Q1": "Who was the author of The Population Bomb?",
+        "A1": [
+            "paul r. ehrlich"
+        ],
+        "Q2": "When was Paul R. Ehrlich born?",
+        "A2": [
+            "may 29, 1932"
+        ]
+    },
+    {
+        "Question": "When did the author of Annabel Lee enlist in the army?",
+        "Answer": "1827",
+        "Q1": "Who was the author of Annabel Lee?",
+        "A1": [
+            "edgar allan poe"
+        ],
+        "Q2": "When did Edgar Allan Poe enlist in the army?",
+        "A2": [
+            "1827"
+        ]
+    },
+    {
+        "Question": "What was the religion of the inventor of the Polio vaccine?",
+        "Answer": "Jewish",
+        "Q1": "Who was the inventor of the Polio vaccine?",
+        "A1": [
+            "dr. jonas salk"
+        ],
+        "Q2": "What was the religion of Dr. Jonas Salk?",
+        "A2": [
+            "jewish",
+            "humanism"
+        ]
+    },
+    {
+        "Question": "Who was the second wife of the founder of CNN?",
+        "Answer": "Jane Shirley Smith",
+        "Q1": "Who is the founder of CNN?",
+        "A1": [
+            "ted turner"
+        ],
+        "Q2": "Who was Ted Turner's second wife?",
+        "A2": [
+            "jane shirley smith"
+        ]
+    },
+    {
+        "Question": "When did the first prime minister of the Russian Empire come into office?",
+        "Answer": "November 6, 1905",
+        "Q1": "Who was the first prime minister of the Russian Empire?",
+        "A1": [
+            "sergei witte"
+        ],
+        "Q2": "When did Prince Gorchakov come into office as the first Chancellor of the Russian Empire?",
+        "A2": [
+            "6 november 1905"
+        ]
+    },
+    {
+        "Question": "What is the primary male hormone derived from?",
+        "Answer": "cholesterol",
+        "Q1": "What is the primary male hormone?",
+        "A1": [
+            "testosterone"
+        ],
+        "Q2": "What is testosterone derived from?",
+        "A2": [
+            "cholesterol"
+        ]
+    },
+    {
+        "Question": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of what city?",
+        "Answer": "Quezon City",
+        "Q1": "Who was the Filipino statesman who established the government-in-exile during the outbreak of World War II?",
+        "A1": [
+            "manuel l. quezon"
+        ],
+        "Q2": "What city was Manuel L. Quezon the mayor of?",
+        "A2": [
+            "quezon city"
+        ]
+    },
+    {
+        "Question": "Where was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+        "Answer": "Oranienburg, Germany",
+        "Q1": "Who shared the Nobel Prize in Physics in 1954 with Max Born?",
+        "A1": [
+            "walther bothe"
+        ],
+        "Q2": "Where was Walther Bothe born?",
+        "A2": [
+            "oranienburg, germany"
+        ]
+    },
+    {
+        "Question": "When was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+        "Answer": "January 8, 1891",
+        "Q1": "Who shared the Nobel Prize in Physics in 1954 with Max Born?",
+        "A1": [
+            "walther bothe"
+        ],
+        "Q2": "When was Walther Bothe born?",
+        "A2": [
+            "january 8, 1891"
+        ]
+    },
+    {
+        "Question": "What was the founding date of the university in which Plotonium was discovered?",
+        "Answer": "March 23, 1868",
+        "Q1": "What is the name of the university where Plutonium was discovered?",
+        "A1": [
+            "university of california, berkeley"
+        ],
+        "Q2": "When was the University of California, Berkeley founded?",
+        "A2": [
+            "march 23, 1868"
+        ]
+    },
+    {
+        "Question": "The material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?",
+        "Answer": "calcite",
+        "Q1": "What material is the Great Sphinx of Giza made of?",
+        "A1": [
+            "limestone"
+        ],
+        "Q2": "What mineral is limestone composed of?",
+        "A2": [
+            "calcium carbonate",
+            "calcite",
+            "double carbonate of calcium and magnesium",
+            "dolomite"
+        ]
+    },
+    {
+        "Question": "The husband of Lady Godiva was Earl of which Anglic kingdom?",
+        "Answer": "Mercia",
+        "Q1": "Who was Lady Godiva's husband?",
+        "A1": [
+            "leofric"
+        ],
+        "Q2": "Which kingdom was Leofric the Earl of?",
+        "A2": [
+            "mercia"
+        ]
+    },
+    {
+        "Question": "The machine used to extract honey from honeycombs uses which physical force?",
+        "Answer": "Centrifugal Force",
+        "Q1": "What is the machine used to extract honey from honeycombs?",
+        "A1": [
+            "honey extractor"
+        ],
+        "Q2": "Which physical force does the honey extractor use?",
+        "A2": [
+            "centrifugal force"
+        ]
+    },
+    {
+        "Question": "What is the third letter of the top level domain of the military?",
+        "Answer": "l",
+        "Q1": "What is the top-level domain for the military?",
+        "A1": [
+            ".mil"
+        ],
+        "Q2": "What is the third letter of the top-level domain \".mil\"?",
+        "A2": [
+            "l"
+        ]
+    },
+    {
+        "Question": "In what year was the government department where the internet originated at founded?",
+        "Answer": "1947",
+        "Q1": "What is the name of the government department where the internet originated?",
+        "A1": [
+            "department of defense",
+            "dod",
+            "defense advanced research projects agency",
+            "darpa"
+        ],
+        "Q2": "In what year was DARPA founded?",
+        "A2": [
+            "1947",
+            "1958"
+        ]
+    },
+    {
+        "Question": "The main actor of Indiana Jones is a licensed what?",
+        "Answer": "pilot",
+        "Q1": "What is the name of the main actor of Indiana Jones?",
+        "A1": [
+            "harrison ford"
+        ],
+        "Q2": "What type of license does the Harrison Ford hold?",
+        "A2": [
+            "pilot"
+        ]
+    },
+    {
+        "Question": "When was the person after which the Hubble Space Telescope is named after born?",
+        "Answer": "November 20, 1889",
+        "Q1": "Who is the person after which the Hubble Space Telescope is named after?",
+        "A1": [
+            "edwin hubble"
+        ],
+        "Q2": "When was Edwin Hubble born?",
+        "A2": [
+            "november 20, 1889"
+        ]
+    },
+    {
+        "Question": "When did the person who gave the Checkers speech die?",
+        "Answer": "April 22, 1994",
+        "Q1": "Who gave the Checkers speech?",
+        "A1": [
+            "richard nixon"
+        ],
+        "Q2": "When did Richard Nixon die?",
+        "A2": [
+            "april 22, 1994"
+        ]
+    },
+    {
+        "Question": "When was the philosopher that formulated the hard problem of consciousness born?",
+        "Answer": "April 20, 1966",
+        "Q1": "Who is the philosopher that formulated the hard problem of consciousness?",
+        "A1": [
+            "david chalmers"
+        ],
+        "Q2": "When was David Chalmers born?",
+        "A2": [
+            "april 20, 1966"
+        ]
+    },
+    {
+        "Question": "What is the capital of the second largest state in the US by area?",
+        "Answer": "Austin",
+        "Q1": "What is the second largest state in the US by area?",
+        "A1": [
+            "texas"
+        ],
+        "Q2": "What is the capital of Texas?",
+        "A2": [
+            "austin"
+        ]
+    },
+    {
+        "Question": "What is the maximum airspeed (in km/h) of the third fastest bird?",
+        "Answer": "320 km/h",
+        "Q1": "What is the third fastest bird?",
+        "A1": [
+            "saker falcon"
+        ],
+        "Q2": "What is the Saker falcon's maximum airspeed (in km/h)?",
+        "A2": [
+            "320 km/h"
+        ]
+    },
+    {
+        "Question": "Who founded the city where the founder of geometry lived?",
+        "Answer": "Alexander the Great",
+        "Q1": "Who was the founder of geometry?",
+        "A1": [
+            "euclid"
+        ],
+        "Q2": "Who founded the city where Euclid lived?",
+        "A2": [
+            "alexander the great"
+        ]
+    },
+    {
+        "Question": "What is the capital of the country where yoga originated?",
+        "Answer": "New Delhi",
+        "Q1": "What country did yoga originate in?",
+        "A1": [
+            "india"
+        ],
+        "Q2": "What is the capital of India?",
+        "A2": [
+            "new delhi"
+        ]
+    },
+    {
+        "Question": "The fourth largest city in Germany was originally called what?",
+        "Answer": "Colonia Claudia Ara Agrippinensium",
+        "Q1": "What is the current name of the fourth largest city in Germany?",
+        "A1": [
+            "cologne",
+            "k\u00f6ln"
+        ],
+        "Q2": "What was the original name of the fourth largest city in Germany before it changed to its current name?",
+        "A2": [
+            "colonia agrippina",
+            "colonia claudia ara agrippinensium"
+        ]
+    },
+    {
+        "Question": "When did Nirvana's second most selling studio album come out?",
+        "Answer": "September 13, 1993",
+        "Q1": "What is Nirvana's second most selling studio album?",
+        "A1": [
+            "in utero"
+        ],
+        "Q2": "When did In Utero come out?",
+        "A2": [
+            "9/13/1993",
+            "september 13, 1993"
+        ]
+    },
+    {
+        "Question": "What was the job of the father of the founder of psychoanalysis?",
+        "Answer": "wool merchant",
+        "Q1": "Who was the founder of psychoanalysis?",
+        "A1": [
+            "sigmund freud"
+        ],
+        "Q2": "What was the job of the father of Sigmund Freud?",
+        "A2": [
+            "wool merchant"
+        ]
+    },
+    {
+        "Question": "How much protein in four boiled egg yolks?",
+        "Answer": "10.8",
+        "Q1": "How much protein is in one boiled egg yolk?",
+        "A1": [
+            "2.7 grams"
+        ],
+        "Q2": "How much protein is in four boiled egg yolks?",
+        "A2": [
+            "10.8 grams"
+        ]
+    },
+    {
+        "Question": "What is the political party of the American president who entered into the Paris agreement?",
+        "Answer": "Democratic Party",
+        "Q1": "Which American president entered into the Paris agreement?",
+        "A1": [
+            "barack obama"
+        ],
+        "Q2": " political party is Barack Obama associated with?",
+        "A2": [
+            "democratic party"
+        ]
+    },
+    {
+        "Question": "The most populous city in Punjab is how large (area wise)?",
+        "Answer": "310 square kilometers",
+        "Q1": "What is the name of the most populous city in Punjab?",
+        "A1": [
+            "ludhiana"
+        ],
+        "Q2": "How large is Ludhiana (area wise)?",
+        "A2": [
+            "310 sq km",
+            "120 sq mi"
+        ]
+    },
+    {
+        "Question": "What was the death toll of the second largest volcanic eruption in the 20th century?",
+        "Answer": "847",
+        "Q1": "What was the second largest volcanic eruption in the 20th century?",
+        "A1": [
+            "mount pinatubo"
+        ],
+        "Q2": "What was the death toll of the Mount Pinatubo eruption?",
+        "A2": [
+            "350",
+            "722|847"
+        ]
+    },
+    {
+        "Question": "What was the death toll of the most intense Atlantic hurricane?",
+        "Answer": "52",
+        "Q1": "What was the most intense Atlantic hurricane?",
+        "A1": [
+            "hurricane wilma"
+        ],
+        "Q2": "What was the death toll of Hurricane Wilma?",
+        "A2": [
+            "52"
+        ]
+    },
+    {
+        "Question": "Who was the head of NASA during Apollo 11?",
+        "Answer": "Thomas O. Paine",
+        "Q1": "When was Apollo 11?",
+        "A1": [
+            "july 16, 1969"
+        ],
+        "Q2": "Who was in charge of the NASA on July 16, 1969?",
+        "A2": [
+            "thomas o. paine"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of George Washington?",
+        "Answer": "Lawrence Washington",
+        "Q1": "Who is the father of George Washington?",
+        "A1": [
+            "augustine washington"
+        ],
+        "Q2": "Who is the father of Augustine Washington?",
+        "A2": [
+            "lawrence washington"
+        ]
+    },
+    {
+        "Question": "Who is the mother of the father of George Washington?",
+        "Answer": "Mildred Warner",
+        "Q1": "Who is the father of George Washington?",
+        "A1": [
+            "augustine washington"
+        ],
+        "Q2": "Who is the mother of Augustine Washington?",
+        "A2": [
+            "mildred gale",
+            "mildred warner"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of Barack Obama?",
+        "Answer": "Hussein Onyango Obama",
+        "Q1": "Who is the father of Barack Obama?",
+        "A1": [
+            "barack obama sr."
+        ],
+        "Q2": "Who is the father of Barack Obama Sr.?",
+        "A2": [
+            "hussein onyango obama"
+        ]
+    },
+    {
+        "Question": "Who is the mother of the father of Barack Obama?",
+        "Answer": "Habiba Akumu Nyanjango",
+        "Q1": "Who is the father of Barack Obama?",
+        "A1": [
+            "barack obama sr."
+        ],
+        "Q2": "Who is the mother of Barack Obama Sr.?",
+        "A2": [
+            "habiba akumu nyanjango",
+            "habiba akumu obama"
+        ]
+    },
+    {
+        "Question": "Who was mayor of New York City when Fiorello H. La Guardia was born?",
+        "Answer": "William Russell Grace",
+        "Q1": "When was Fiorello H. La Guardia born?",
+        "A1": [
+            "december 11, 1882"
+        ],
+        "Q2": "Who was the mayor of New York City on December 11, 1882?",
+        "A2": [
+            "william russell grace"
+        ]
+    },
+    {
+        "Question": "Who was president of the U.S. when superconductivity was discovered?",
+        "Answer": "William Howard Taft",
+        "Q1": "When was superconductivity discovered?",
+        "A1": [
+            "1911"
+        ],
+        "Q2": "Who was president of the U.S. in 1911?",
+        "A2": [
+            "william howard taft"
+        ]
+    },
+    {
+        "Question": "When was the person Russ Hanneman is based on born?",
+        "Answer": "July 31, 1958",
+        "Q1": "Who is the person that Russ Hanneman is based on?",
+        "A1": [
+            "mark cuban"
+        ],
+        "Q2": "When was Mark Cuban born?",
+        "A2": [
+            "july 31, 1958"
+        ]
+    },
+    {
+        "Question": "When was the first location of the world's largest coffeehouse chain opened?",
+        "Answer": "March 30, 1971",
+        "Q1": "What is the name of the world's largest coffeehouse chain?",
+        "A1": [
+            "starbucks"
+        ],
+        "Q2": "When was the first location of Starbucks opened?",
+        "A2": [
+            "march 31, 1971"
+        ]
+    },
+    {
+        "Question": "Who directed the highest grossing film?",
+        "Answer": "James Cameroon",
+        "Q1": "What is the highest grossing film?",
+        "A1": [
+            "avatar"
+        ],
+        "Q2": "Who directed Avengers: Endgame?",
+        "A2": [
+            "james cameron"
+        ]
+    },
+    {
+        "Question": "When was the longest bridge in the world opened?",
+        "Answer": "30 June 2011",
+        "Q1": "What is the longest bridge in the world?",
+        "A1": [
+            "danyang\u2013kunshan grand bridge"
+        ],
+        "Q2": "When was this bridge opened?",
+        "A2": [
+            "june 30, 2011"
+        ]
+    },
+    {
+        "Question": "Which company was responsible for the largest pharmaceutical settlement?",
+        "Answer": "GlaxoSmithKline",
+        "Q1": "Which was the largest pharmaceutical settlement?",
+        "A1": [
+            "avandia",
+            "advair",
+            "lamictal",
+            "zofran",
+            "imitrex",
+            "lotronex",
+            "flovent",
+            "valtrex"
+        ],
+        "Q2": "Which company was responsible for that particular settlement?",
+        "A2": [
+            "glaxosmithkline"
+        ]
+    },
+    {
+        "Question": "In what year was the tallest self-supporting tower completed?",
+        "Answer": "2012",
+        "Q1": "What is the name of the tallest self-supporting tower?",
+        "A1": [
+            "burj khalifa"
+        ],
+        "Q2": "In what year was this tower completed?",
+        "A2": [
+            "2010"
+        ]
+    },
+    {
+        "Question": "In what year was the tallest fixed steel structure completed?",
+        "Answer": "1988",
+        "Q1": "What is the tallest fixed steel structure in the world?",
+        "A1": [
+            "tokyo skytree",
+            "petronius",
+            "petronius compliant tower"
+        ],
+        "Q2": "In what year was the Tokyo Skytree completed?",
+        "A2": [
+            "2012",
+            "2000"
+        ]
+    },
+    {
+        "Question": "In what year was the tallest lattice tower completed?",
+        "Answer": "2012",
+        "Q1": "What is the name of the tallest lattice tower?",
+        "A1": [
+            "tokyo skytree"
+        ],
+        "Q2": "In what year was the Tokyo Skytree completed?",
+        "A2": [
+            "2012"
+        ]
+    },
+    {
+        "Question": "In what year was the current tallest wooden lattice tower completed?",
+        "Answer": "1935",
+        "Q1": "What is the name of the current tallest wooden lattice tower?",
+        "A1": [
+            "gliwice radio tower"
+        ],
+        "Q2": "In what year was the Gliwice Radio Tower completed?",
+        "A2": [
+            "1935"
+        ]
+    },
+    {
+        "Question": "In what country is the second tallest statue in the world?",
+        "Answer": "China",
+        "Q1": "What is the name of the second tallest statue?",
+        "A1": [
+            "spring temple buddha"
+        ],
+        "Q2": "In which country is the Spring Temple Buddha located?",
+        "A2": [
+            "china"
+        ]
+    },
+    {
+        "Question": "When was the tallest ferris wheel in the world completed?",
+        "Answer": "2021",
+        "Q1": "What is the name of the tallest ferris wheel?",
+        "A1": [
+            "ain dubai"
+        ],
+        "Q2": "When was the Ain Dubai completed?",
+        "A2": [
+            "2021"
+        ]
+    },
+    {
+        "Question": "In what year was the tallest lighthouse completed?",
+        "Answer": "1902",
+        "Q1": "What is the name of the tallest lighthouse?",
+        "A1": [
+            "\u00eele vierge lighthouse"
+        ],
+        "Q2": "When was the Ain Dubai completed?",
+        "A2": [
+            "1902"
+        ]
+    },
+    {
+        "Question": "In what country is the world largest desalination plant?",
+        "Answer": "Saudi Arabia",
+        "Q1": "What is the name of the world's largest desalination plant?",
+        "A1": [
+            "ras al khair"
+        ],
+        "Q2": "In which country is the world's largest desalination plant located?",
+        "A2": [
+            "saudi arabia",
+            "jubail",
+            "riyadh"
+        ]
+    },
+    {
+        "Question": "The most populous national capital city was established in what year?",
+        "Answer": "1045 BC",
+        "Q1": "What is the name of the most populous national capital city?",
+        "A1": [
+            "beijing"
+        ],
+        "Q2": "In what year was Beijing established?",
+        "A2": [
+            "1045 bc"
+        ]
+    },
+    {
+        "Question": "The third largest river (by discharge) in the world is in what countries?",
+        "Answer": "India and Bangladesh",
+        "Q1": "What is the name of the third largest river (by discharge) in the world?",
+        "A1": [
+            "congo river"
+        ],
+        "Q2": "In what countries is the Congo River located?",
+        "A2": [
+            "democratic republic of the congo",
+            "republic of the congo",
+            "angola"
+        ]
+    },
+    {
+        "Question": "What is the highest elevation (in meters) of the second largest island in the world?",
+        "Answer": "4,884 m",
+        "Q1": "What is the second largest island in the world?",
+        "A1": [
+            "new guinea"
+        ],
+        "Q2": "What is the highest elevation (in meters) of New Guinea?",
+        "A2": [
+            "4,884m"
+        ]
+    },
+    {
+        "Question": "What is the length of the second deepest river in the world?",
+        "Answer": "6,300 km",
+        "Q1": "What is the second deepest river in the world?",
+        "A1": [
+            "yangzte river"
+        ],
+        "Q2": "What is the length of the Yangzte River?",
+        "A2": [
+            "6,300 km"
+        ]
+    },
+    {
+        "Question": "In what country is the third largest stadium in the world?",
+        "Answer": "United States",
+        "Q1": "What is the name of the third largest stadium in the world?",
+        "A1": [
+            "michigan stadium"
+        ],
+        "Q2": "In which country is it located?",
+        "A2": [
+            "united states"
+        ]
+    },
+    {
+        "Question": "Who is the largest aircraft carrier in the world is named after?",
+        "Answer": "Gerald R. Ford",
+        "Q1": "What is the name of the largest aircraft carrier in the world?",
+        "A1": [
+            "uss gerald r. ford"
+        ],
+        "Q2": "Who or what is this aircraft carrier named after?",
+        "A2": [
+            "gerald r. ford"
+        ]
+    },
+    {
+        "Question": "In what year did the oldest cat ever recorded with the Cat of the Year award?",
+        "Answer": "1999",
+        "Q1": "What year was the oldest cat ever recorded?",
+        "A1": [
+            "na"
+        ],
+        "Q2": "What year did the cat win the Cat of the Year award?",
+        "A2": [
+            "na"
+        ]
+    },
+    {
+        "Question": "In what year was the country that is the third largest exporter of coffee founded?",
+        "Answer": "1810",
+        "Q1": "Which country is the third largest exporter of coffee?",
+        "A1": [
+            "colombia"
+        ],
+        "Q2": "What year was Colombia founded in?",
+        "A2": [
+            "1810"
+        ]
+    },
+    {
+        "Question": "Who was the commander for the space mission that had the first spacewalk?",
+        "Answer": "Pavel Belyayev",
+        "Q1": "What was the name of the space mission that had the first spacewalk?",
+        "A1": [
+            "voskhod 2"
+        ],
+        "Q2": "Who was the commander for the Voskhod 2 mission?",
+        "A2": [
+            "pavel belyayev"
+        ]
+    },
+    {
+        "Question": "Who is the predecessor of the longest-reigning British monarch?",
+        "Answer": "George VI\n",
+        "Q1": "Who is the longest-reigning British monarch?",
+        "A1": [
+            "elizabeth ii"
+        ],
+        "Q2": "Who is the predecessor of Elizabeth II?",
+        "A2": [
+            "george vi"
+        ]
+    },
+    {
+        "Question": "In 2016, who was the host of the longest running talk show?",
+        "Answer": "Jimmy Fallon",
+        "Q1": "What is the name of the longest running talk show in 2016?",
+        "A1": [
+            "the tonight show with jimmy fallon",
+            "the tonight show"
+        ],
+        "Q2": "Who was the host of the The Tonight Show with Jimmy Fallon in 2016?",
+        "A2": [
+            "jimmy fallon"
+        ]
+    },
+    {
+        "Question": "In 2016, who was the host of the longest running American game show?",
+        "Answer": "Drew Carey",
+        "Q1": "What is the name of the longest running American game show as of 2016?",
+        "A1": [
+            "the price is right"
+        ],
+        "Q2": "Who was the host of \"The Price is Right\" in 2016?",
+        "A2": [
+            "drew carey"
+        ]
+    },
+    {
+        "Question": "Who wrote the novel on which the longest running show in Broadway history is based on?",
+        "Answer": "Gaston Leroux",
+        "Q1": "What novel is the longest running show in Broadway history based on?",
+        "A1": [
+            "the phantom of the opera"
+        ],
+        "Q2": "Who is the author of The Phantom of the Opera?",
+        "A2": [
+            "gaston leroux"
+        ]
+    },
+    {
+        "Question": "In what country was the only cruise line that flies the American flag incorporated in?",
+        "Answer": "Bermuda",
+        "Q1": "Which is the only cruise line that flies the American flag?",
+        "A1": [
+            "norwegian cruise line"
+        ],
+        "Q2": "In what country was Norwegian Cruise Line incorporated?",
+        "A2": [
+            "bermuda"
+        ]
+    },
+    {
+        "Question": "In what year did work begin on the second longest road tunnel in the world?",
+        "Answer": "1992",
+        "Q1": "What is the second longest road tunnel in the world?",
+        "A1": [
+            "westconnex"
+        ],
+        "Q2": "What year did work begin on WestConnex?",
+        "A2": [
+            "2018"
+        ]
+    },
+    {
+        "Question": "What is the official color of the third oldest surviving university?",
+        "Answer": "Cambridge Blue",
+        "Q1": "What is the third oldest surviving university in the world?",
+        "A1": [
+            "university of cambridge"
+        ],
+        "Q2": "What is the official color of the University of Cambridge?",
+        "A2": [
+            "cambridge blue"
+        ]
+    },
+    {
+        "Question": "Who succeeded the longest reigning Roman emperor?",
+        "Answer": "Tiberius",
+        "Q1": "Who was the longest reigning Roman emperor?",
+        "A1": [
+            "augustus"
+        ],
+        "Q2": "Who succeeded that emperor?",
+        "A2": [
+            "tiberius"
+        ]
+    },
+    {
+        "Question": "Who preceded the Roman emperor that declared war on the sea?",
+        "Answer": "Tiberius",
+        "Q1": "Which Roman emperor declared war on the sea?",
+        "A1": [
+            "caligula."
+        ],
+        "Q2": "Who preceded Caligula as the Roman emperor?",
+        "A2": [
+            "tiberius"
+        ]
+    },
+    {
+        "Question": "Who produced the longest running video game franchise?",
+        "Answer": "MECC",
+        "Q1": "What is the longest running video game franchise?",
+        "A1": [
+            "space invaders"
+        ],
+        "Q2": "Who produced Space Invaders?",
+        "A2": [
+            "taito corp",
+            "taito"
+        ]
+    },
+    {
+        "Question": "Who was the father of the father of psychoanalysis?",
+        "Answer": "Jacob Freud",
+        "Q1": "Who is considered the father of psychoanalysis?\\",
+        "A1": [
+            "sigmund freud"
+        ],
+        "Q2": "Who was the father of the father of psychoanalysis?",
+        "A2": [
+            "jacob freud"
+        ]
+    },
+    {
+        "Question": "Who was the father of the father of empiricism?",
+        "Answer": "Sir Nicholas Bacon",
+        "Q1": "Who is considered the father of empiricism?",
+        "A1": [
+            "francis bacon."
+        ],
+        "Q2": "Who was the father of Francis Bacon?",
+        "A2": [
+            "sir nicholas bacon"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of observational astronomy?",
+        "Answer": "Vincenzo Galilei",
+        "Q1": "Who is regarded as the father of observational astronomy?",
+        "A1": [
+            "galileo"
+        ],
+        "Q2": "Who is the father of Galileo?",
+        "A2": [
+            "vincenzo galilei"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of modern Hebrew?",
+        "Answer": "Yehuda Leib",
+        "Q1": "Who is the father of modern Hebrew?",
+        "A1": [
+            "eliezer ben-yehuda"
+        ],
+        "Q2": "Who is the father of Eliezer Ben-Yehuda?",
+        "A2": [
+            "yehuda leib"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of modern experimental psychology?",
+        "Answer": "Maximilian Wundt",
+        "Q1": "Who is considered the father of modern experimental psychology?",
+        "A1": [
+            "wilhelm wundt"
+        ],
+        "Q2": "Who is the father of Wilhelm Wundt?",
+        "A2": [
+            "maximilian wundt"
+        ]
+    },
+    {
+        "Question": "Who is the father of the originator of cybernetics?",
+        "Answer": "Leo Wiener",
+        "Q1": "Who is the originator of cybernetics?",
+        "A1": [
+            "norbert wiener"
+        ],
+        "Q2": "Who is Norbert Wiener's father?",
+        "A2": [
+            "leo wiener"
+        ]
+    },
+    {
+        "Question": "Who is the father of the father of the hydrogen bomb?",
+        "Answer": "Max Teller",
+        "Q1": "Who is the father of the hydrogen bomb?",
+        "A1": [
+            "edward teller"
+        ],
+        "Q2": "Who is the father of Edward Teller, the father of the hydrogen bomb?",
+        "A2": [
+            "max teller"
+        ]
+    },
+    {
+        "Question": "Who was the father of the father of computer science?",
+        "Answer": "Julius Mathison Turing",
+        "Q1": "Who is considered the father of computer science?",
+        "A1": [
+            "alan turing"
+        ],
+        "Q2": "Who was Alan Turing's father?",
+        "A2": [
+            "julius mathison turing"
+        ]
+    },
+    {
+        "Question": "Who was the father of the father of behaviorism?",
+        "Answer": "Pickens Butler Watson",
+        "Q1": "Who is considered the father of behaviorism?",
+        "A1": [
+            "john watson"
+        ],
+        "Q2": "Who was the father of John Watson?",
+        "A2": [
+            "pickens butler watson"
+        ]
+    },
+    {
+        "Question": "Who was the father of the founder of modern human anatomy?",
+        "Answer": "Anders van Wesel",
+        "Q1": "Who is considered to be the founder of modern human anatomy?",
+        "A1": [
+            "andreas vesalius"
+        ],
+        "Q2": "Who was the father of Andreas Vesalius?",
+        "A2": [
+            "anders van wesel",
+            "andreas van wesel",
+            "andreas vesal"
+        ]
+    },
+    {
+        "Question": "What was the father of the last surviving Canadian father of Confederation?",
+        "Answer": "Charles Tupper Sr.",
+        "Q1": "Who was the last surviving Canadian father of Confederation?",
+        "A1": [
+            "charles tupper"
+        ],
+        "Q2": "Who was the father of Charles Tupper?",
+        "A2": [
+            "charles tupper sr."
+        ]
+    },
+    {
+        "Question": "When was the person who said \u201cNow, I am become Death, the destroyer of worlds.\u201d born?",
+        "Answer": "April 22, 1904",
+        "Q1": "Who said \"Now, I am become Death, the destroyer of worlds.\"?",
+        "A1": [
+            "j. robert oppenheimer"
+        ],
+        "Q2": "When was J. Robert Oppenheimer born?",
+        "A2": [
+            "april 22, 1904"
+        ]
+    },
+    {
+        "Question": "Who was the father of the father of information theory?",
+        "Answer": "Claude Sr.",
+        "Q1": "Who is considered the father of information theory?",
+        "A1": [
+            "claude shannon"
+        ],
+        "Q2": "Who was the father of Claude Shannon?",
+        "A2": [
+            "claude elwood shannon, sr."
+        ]
+    },
+    {
+        "Question": "When was the person who delivered the \"Quit India\" speech born?",
+        "Answer": "October 2, 1869",
+        "Q1": "Who delivered the \"Quit India\" speech?",
+        "A1": [
+            "mohandas gandhi",
+            "mahatma gandhi"
+        ],
+        "Q2": "When was Mahatma Gandhi born?",
+        "A2": [
+            "october 2, 1869"
+        ]
+    },
+    {
+        "Question": "When did the president who warned about the military industrial complex die?",
+        "Answer": "March 28, 1969",
+        "Q1": "Who was the president who warned about the military industrial complex?",
+        "A1": [
+            "dwight d. eisenhower"
+        ],
+        "Q2": "When did that Dwight D. Eisenhower die?",
+        "A2": [
+            "march 28, 1969"
+        ]
+    },
+    {
+        "Question": "When did the president who said Tear Down This Wall die?",
+        "Answer": "June 5, 2004",
+        "Q1": "Who was the president who said \"Tear Down This Wall?\"",
+        "A1": [
+            "ronald reagan"
+        ],
+        "Q2": "When did Ronald Reagan die?",
+        "A2": [
+            "june 5, 2004"
+        ]
+    },
+    {
+        "Question": "What is the lowest elevation of the longest railway tunnel?",
+        "Answer": "312 m",
+        "Q1": "What is the longest railway tunnel?",
+        "A1": [
+            "the gotthard base tunnel"
+        ],
+        "Q2": "What is the lowest elevation of the Gotthard Base Tunnel?",
+        "A2": [
+            "312 m"
+        ]
+    },
+    {
+        "Question": "When did the person who said \"Cogito, ergo sum.\" die?",
+        "Answer": "February 11, 1650",
+        "Q1": "Who said \"Cogito, ergo sum.\"?",
+        "A1": [
+            "ren\u00e9 descartes"
+        ],
+        "Q2": "When did Ren\u00e9 Descartes die?",
+        "A2": [
+            "february 11, 1650"
+        ]
+    },
+    {
+        "Question": "When did the person who delivered the Gettysburg Address die?",
+        "Answer": "April 15, 1865",
+        "Q1": "Who delivered the Gettysburg Address?",
+        "A1": [
+            "abraham lincoln"
+        ],
+        "Q2": "When did Abraham Lincoln die?",
+        "A2": [
+            "april 15, 1865"
+        ]
+    },
+    {
+        "Question": "Who was governor of Florida during Hurricane Irma?",
+        "Answer": "Rick Scott",
+        "Q1": "What year did Hurricane Irma occur in Florida?",
+        "A1": [
+            "2017"
+        ],
+        "Q2": "Who was the governor of Florida in 2017?",
+        "A2": [
+            "rick scott"
+        ]
+    },
+    {
+        "Question": "For which club did the winner of the 2007 Ballon d'Or play for in 2012?",
+        "Answer": "Real Madrid",
+        "Q1": "Who won the 2007 Ballon d'Or?",
+        "A1": [
+            "kak\u00e1"
+        ],
+        "Q2": "What club did Kak\u00e1 play for in 2012?",
+        "A2": [
+            "real madrid"
+        ]
+    },
+    {
+        "Question": "What's the capital city of the country that was the champion of the 2010 World Cup?",
+        "Answer": "Madrid",
+        "Q1": "Who won the 2010 World Cup?",
+        "A1": [
+            "spain"
+        ],
+        "Q2": "What is the capital of Spain?",
+        "A2": [
+            "madrid"
+        ]
+    },
+    {
+        "Question": "When was the anime studio that made Sword Art Online founded?",
+        "Answer": "May 9, 2005",
+        "Q1": "What is the name of the anime studio that made Sword Art Online?",
+        "A1": [
+            "a-1 pictures"
+        ],
+        "Q2": "When was this anime studio founded?",
+        "A2": [
+            "may 9, 2005"
+        ]
+    },
+    {
+        "Question": "Who was the first king of the longest Chinese dynasty?",
+        "Answer": "King Wu of Zhou",
+        "Q1": "What is the name of the longest Chinese dynasty?",
+        "A1": [
+            "zhou dynasty"
+        ],
+        "Q2": "Who was the first king of the Zhou dynasty?",
+        "A2": [
+            "king wu of zhou"
+        ]
+    },
+    {
+        "Question": "Who was the last emperor of the dynasty that succeeded the Song dynasty?",
+        "Answer": "Toghon Tem\u00fcr",
+        "Q1": "Which dynasty succeeded the Song dynasty?",
+        "A1": [
+            "yuan dynasty"
+        ],
+        "Q2": "Who was the last emperor of the Yuan dynasty?",
+        "A2": [
+            "toghon tem\u00fcr"
+        ]
+    },
+    {
+        "Question": "What's the motto of the oldest California State university?",
+        "Answer": "Powering Silicon Valley",
+        "Q1": "What is the name of the oldest California State university?",
+        "A1": [
+            "san jose state university"
+        ],
+        "Q2": "What is the motto of this university?",
+        "A2": [
+            "powering silicon valley"
+        ]
+    },
+    {
+        "Question": "What's the capital of the state that the College of William & Mary is in?",
+        "Answer": "Richmond",
+        "Q1": "What state is the College of William & Mary in?",
+        "A1": [
+            "virginia"
+        ],
+        "Q2": "What is the capital of Virginia?",
+        "A2": [
+            "richmond"
+        ]
+    },
+    {
+        "Question": "What's the capital of the state that Washington University in St. Louis is in?",
+        "Answer": "Jefferson City",
+        "Q1": "In which state is Washington University in St. Louis located?",
+        "A1": [
+            "missouri"
+        ],
+        "Q2": "What is the capital of Missouri?",
+        "A2": [
+            "jefferson city"
+        ]
+    },
+    {
+        "Question": "What's the capital of the state that Harvard University is in?",
+        "Answer": "Boston",
+        "Q1": "What state is Harvard University located in?",
+        "A1": [
+            "massachusetts"
+        ],
+        "Q2": "What is the capital of Massachusetts?",
+        "A2": [
+            "boston"
+        ]
+    },
+    {
+        "Question": "What's the capital of the state that the Space Needle is at?",
+        "Answer": "Olympia",
+        "Q1": "What state is the Space Needle located in?",
+        "A1": [
+            "washington"
+        ],
+        "Q2": "What is the capital of Washington?",
+        "A2": [
+            "olympia"
+        ]
+    },
+    {
+        "Question": "Which team won in women's volleyball in the most recent Summer Olympics that was held in London?",
+        "Answer": "Brazil",
+        "Q1": "When was the most recent Summer Olympics held in London?",
+        "A1": [
+            "2012"
+        ],
+        "Q2": "Which team won in women's volleyball in the 2012 Summer Olympics in London?",
+        "A2": [
+            "brazil"
+        ]
+    },
+    {
+        "Question": "What is the nickname of the easternmost U.S. state?",
+        "Answer": "Pine Tree State",
+        "Q1": "What is the easternmost U.S. state?",
+        "A1": [
+            "maine"
+        ],
+        "Q2": "What is the nickname of Maine?",
+        "A2": [
+            "pine tree state"
+        ]
+    },
+    {
+        "Question": "What is the nickname for the state that is the home to the \u201cAvocado Capital of the World\"?",
+        "Answer": "Golden State",
+        "Q1": "What is the state that is the home to the \"Avocado Capital of the World\"?",
+        "A1": [
+            "california"
+        ],
+        "Q2": "What is the nickname for California due to Fallbrook being the \"Avocado Capital of the World\"?",
+        "A2": [
+            "golden state"
+        ]
+    },
+    {
+        "Question": "What rocket was used for the mission that landed the first humans on the moon?",
+        "Answer": "Saturn V",
+        "Q1": "Which mission successfully landed the first humans on the moon?",
+        "A1": [
+            "apollo 11"
+        ],
+        "Q2": "What was the name of the rocket used for the mission?",
+        "A2": [
+            "saturn v"
+        ]
+    },
+    {
+        "Question": "When did the war that Neil Armstrong served in end?",
+        "Answer": "July 27, 1953",
+        "Q1": "Which war did Neil Armstrong serve in?",
+        "A1": [
+            "neil armstrong served in the korean war."
+        ],
+        "Q2": "When did the Korean War end?",
+        "A2": [
+            "the korean war ended on july 27, 1953."
+        ]
+    },
+    {
+        "Question": "What is the nickname for the state that Mount Rainier is located in?",
+        "Answer": "Evergreen State",
+        "Q1": "What state is Mount Rainier in?",
+        "A1": [
+            "washington"
+        ],
+        "Q2": "What is the nickname of Washington?",
+        "A2": [
+            "evergreen state"
+        ]
+    },
+    {
+        "Question": "When was the composer of Carol of the Bells born?",
+        "Answer": "December 13, 1877",
+        "Q1": "What is the name of the composer of \"Carol of the Bells\"?",
+        "A1": [
+            "mykola leontovych"
+        ],
+        "Q2": "When was Mykola Leontovych born?",
+        "A2": [
+            "december 13, 1877"
+        ]
+    },
+    {
+        "Question": "Who is the father of the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?",
+        "Answer": "Conway Berners-Lee",
+        "Q1": "Who is the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?",
+        "A1": [
+            "tim berners-lee"
+        ],
+        "Q2": "Who is the father of Tim Berners-Lee?",
+        "A2": [
+            "conway berners-lee"
+        ]
+    },
+    {
+        "Question": "Who was the mother of the emperor of Japan during World War I?",
+        "Answer": "Yanagiwara Naruko",
+        "Q1": "Who was the emperor of Japan during World War I?",
+        "A1": [
+            "emperor taish\u014d"
+        ],
+        "Q2": "Who was the mother of Emperor Taish\u014d?",
+        "A2": [
+            "yanagiwara naruko",
+            "sawarabi no tsubone"
+        ]
+    },
+    {
+        "Question": "Which element has an atomic number that is double that of hydrogen?",
+        "Answer": "Helium",
+        "Q1": "What is the atomic number of hydrogen?",
+        "A1": [
+            "1"
+        ],
+        "Q2": "What element has an atomic number of two times 1?",
+        "A2": [
+            "helium"
+        ]
+    },
+    {
+        "Question": "What was the motto of the Olympics that had Fuwa as the mascots?",
+        "Answer": "One World, One Dream",
+        "Q1": "What Olympics had Fuwa as the mascots?",
+        "A1": [
+            "2008 summer olympics"
+        ],
+        "Q2": "What was the motto of the 2008 Summer Olympics?",
+        "A2": [
+            "one world, one dream"
+        ]
+    }
+]
