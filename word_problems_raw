@@ -1,0 +1,48 @@
+(# + ##) * ###
+There are # red apples and ## green apples in a basket. If each apple costs $###, how much would it cost to buy them all?
+A factory produces # cars in the morning and ## cars in the afternoon. If each car takes ### hours to produce, how many hours did it take to produce all the cars?
+A farmer has # cows and ## sheep in a pen. If each animal eats ### pounds of hay per day, how many pounds of hay will be needed for a week?
+A teacher has # math books and ## science books in a classroom. If each book has ### chapters, how many chapters are there in total?
+There are # boys and ## girls in a school club. If each club member needs ### sheets of paper for a project, how many sheets of paper are needed in total?
+
+((# + ##) + ###)
+A chef has # pounds of flour, ## eggs, and needs ### tablespoons of butter to make a cake. How many total ingredients are needed?
+A family has # children, ## adults, and ### pets in their home. How many living beings are in the house in total?
+A company has # offices in the United States, ## offices in Europe, and ### offices in Asia. How many total offices does the company have?
+A student has # math problems, ## science problems, and ### history problems to solve for homework. How many total problems must the student complete?
+A restaurant has # tables that seat ## people each and ### tables that seat # people each. How many total customers can the restaurant seat at once?
+
+# * ## * ###
+A factory produces # boxes per hour, and each box contains ## toys. If the factory operates for ### hours, how many toys are produced in total?
+A car travels # miles per gallon and the gas tank holds ## gallons. If the car travels for ### hours, how many miles can it cover?
+A team of workers can complete a project in # days working ## hours per day. If they work for ### days, how many hours would they need to work per day to finish the project?
+A gardener needs to plant # rows of trees with ## trees in each row. If there are ### rows of empty space between each row of trees, how many trees are needed in total to plant the entire garden?
+A baker has # types of cakes with ## different flavors each. If the baker wants to make a display with ### cakes of each type, how many total cakes and flavors will be in the display?
+
+(# + (## + ###))
+A family goes grocery shopping and buys # pounds of apples, and then ## pounds of bananas and ### pounds of oranges. How many total pounds of fruit did they buy?
+A teacher has # students in one group, and ## students in another group. Each group has ### tasks to complete. How many tasks must be completed in total?
+A company has # employees in one department and ## employees in another department. If each department has ### managers, how many managers are there in total?
+A store sells # types of shirts, and each type has ## sizes and ### colors. How many different shirts are available for purchase?
+A school has # classrooms with ## students in each, and ### classrooms with ## students in each. How many total students are in the school?
+
+(# + ## * ###)
+A store sells shoes at $# a pair and has a ## for the price of ### sale. If a customer buys ### pairs of shoes, how much does it cost?
+A worker is paid $# per hour and receives a bonus of $## for every ### hours worked. How much will the worker earn for ### hours of work?
+A recipe requires ## eggs and ### cups of flour, and makes # cakes. How many eggs and cups of flour are needed to make 12 cakes?
+A car travels ## miles per gallon of gas and has a gas tank that holds ### gallons. How far can the car travel on a full tank of gas?
+A farmer has # cows, each of which produces ## liters of milk per day. If the farmer milks the cows for ### days, how many liters of milk will be produced in total?
+
+# * (## + ###)
+A group of friends are going to a concert and need # tickets at $## per ticket plus a $### service fee per order. How much will they pay in total?
+A construction company needs to buy # pieces of equipment that cost $## each plus $### for shipping. What will be the total cost?
+A student earns $# per hour for regular work and $## per hour for overtime work. If the student works ## regular hours and ### overtime hours, how much will they earn?
+A recipe requires # cups of sugar and ## cups of flour to make ### cakes. How many cups of sugar and flour are needed to make 12 cakes?
+A zoo has # enclosures, and each enclosure has ## animals of one species and ### animals of another species. How many animals are in the zoo?
+
+(# * ## + ###)
+A bookstore sells books for $# each and bookmarks for $## each. If a customer buys ## books and ### bookmarks, how much do they need to pay?
+A store sells t-shirts for $# each and hats for $## each. If a customer buys ## t-shirts and ### hats, how much do they need to pay?
+A worker earns $# per hour for regular work and $## per hour for overtime work. If the worker works ## regular hours and ### overtime hours, how much will they earn?
+A recipe requires # cups of sugar and ## cups of flour to make one cake. If you want to make ### cakes, how much sugar and flour do you need?
+A sports team has # forwards who score an average of ## goals per game and ### defenders who score an average of 1 goal per game. How many goals are scored in total during a 10-game season?
