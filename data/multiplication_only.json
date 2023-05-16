@@ -1,0 +1,3516 @@
+{
+    "# * #": [
+        {
+            "Question": "34 * 71",
+            "Answer": 2414,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "80 * 40",
+            "Answer": 3200,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "11 * 8",
+            "Answer": 88,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "45 * 31",
+            "Answer": 1395,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "24 * 26",
+            "Answer": 624,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "21 * 58",
+            "Answer": 1218,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "32 * 6",
+            "Answer": 192,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "3 * 37",
+            "Answer": 111,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "69 * 79",
+            "Answer": 5451,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "86 * 19",
+            "Answer": 1634,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "51 * 82",
+            "Answer": 4182,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "84 * 63",
+            "Answer": 5292,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "69 * 76",
+            "Answer": 5244,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "18 * 19",
+            "Answer": 342,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "89 * 53",
+            "Answer": 4717,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "53 * 65",
+            "Answer": 3445,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "0 * 36",
+            "Answer": 0,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "64 * 83",
+            "Answer": 5312,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "56 * 55",
+            "Answer": 3080,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "6 * 43",
+            "Answer": 258,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "72 * 27",
+            "Answer": 1944,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "72 * 7",
+            "Answer": 504,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "25 * 83",
+            "Answer": 2075,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "13 * 86",
+            "Answer": 1118,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "60 * 91",
+            "Answer": 5460,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "26 * 23",
+            "Answer": 598,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "62 * 44",
+            "Answer": 2728,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "85 * 5",
+            "Answer": 425,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "10 * 54",
+            "Answer": 540,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "49 * 84",
+            "Answer": 4116,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "77 * 47",
+            "Answer": 3619,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "1 * 11",
+            "Answer": 11,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "72 * 85",
+            "Answer": 6120,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "92 * 89",
+            "Answer": 8188,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "18 * 93",
+            "Answer": 1674,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "6 * 69",
+            "Answer": 414,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "32 * 2",
+            "Answer": 64,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "3 * 86",
+            "Answer": 258,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "49 * 46",
+            "Answer": 2254,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "14 * 33",
+            "Answer": 462,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "65 * 25",
+            "Answer": 1625,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "66 * 79",
+            "Answer": 5214,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "64 * 41",
+            "Answer": 2624,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "41 * 85",
+            "Answer": 3485,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "17 * 7",
+            "Answer": 119,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "83 * 88",
+            "Answer": 7304,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "1 * 59",
+            "Answer": 59,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "35 * 83",
+            "Answer": 2905,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "47 * 16",
+            "Answer": 752,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "61 * 33",
+            "Answer": 2013,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "47 * 12",
+            "Answer": 564,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "54 * 32",
+            "Answer": 1728,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "75 * 24",
+            "Answer": 1800,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "71 * 36",
+            "Answer": 2556,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "40 * 9",
+            "Answer": 360,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "96 * 19",
+            "Answer": 1824,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "66 * 8",
+            "Answer": 528,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "70 * 14",
+            "Answer": 980,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "14 * 42",
+            "Answer": 588,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "72 * 21",
+            "Answer": 1512,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "12 * 87",
+            "Answer": 1044,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "2 * 1",
+            "Answer": 2,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "46 * 31",
+            "Answer": 1426,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "52 * 56",
+            "Answer": 2912,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "24 * 42",
+            "Answer": 1008,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "12 * 59",
+            "Answer": 708,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "18 * 27",
+            "Answer": 486,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "75 * 87",
+            "Answer": 6525,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "83 * 33",
+            "Answer": 2739,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "3 * 40",
+            "Answer": 120,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "74 * 51",
+            "Answer": 3774,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "54 * 87",
+            "Answer": 4698,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "32 * 79",
+            "Answer": 2528,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "45 * 91",
+            "Answer": 4095,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "59 * 98",
+            "Answer": 5782,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "74 * 96",
+            "Answer": 7104,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "73 * 39",
+            "Answer": 2847,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "92 * 54",
+            "Answer": 4968,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "35 * 39",
+            "Answer": 1365,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "16 * 15",
+            "Answer": 240,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "52 * 56",
+            "Answer": 2912,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "22 * 69",
+            "Answer": 1518,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "91 * 23",
+            "Answer": 2093,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "74 * 13",
+            "Answer": 962,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "94 * 96",
+            "Answer": 9024,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "5 * 62",
+            "Answer": 310,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "44 * 90",
+            "Answer": 3960,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "57 * 47",
+            "Answer": 2679,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "32 * 13",
+            "Answer": 416,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "41 * 38",
+            "Answer": 1558,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "31 * 94",
+            "Answer": 2914,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "76 * 17",
+            "Answer": 1292,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "91 * 56",
+            "Answer": 5096,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "15 * 61",
+            "Answer": 915,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "88 * 71",
+            "Answer": 6248,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "16 * 47",
+            "Answer": 752,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "91 * 25",
+            "Answer": 2275,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "8 * 27",
+            "Answer": 216,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "44 * 44",
+            "Answer": 1936,
+            "Predicate": "# * #"
+        },
+        {
+            "Question": "70 * 11",
+            "Answer": 770,
+            "Predicate": "# * #"
+        }
+    ],
+    "# * # * #": [
+        {
+            "Question": "59 * 70 * 40",
+            "Answer": 165200,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "42 * 38 * 38",
+            "Answer": 60648,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "56 * 86 * 52",
+            "Answer": 250432,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "19 * 21 * 78",
+            "Answer": 31122,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "37 * 63 * 65",
+            "Answer": 151515,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "26 * 11 * 3",
+            "Answer": 858,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "91 * 73 * 78",
+            "Answer": 518154,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "54 * 79 * 3",
+            "Answer": 12798,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "27 * 92 * 37",
+            "Answer": 91908,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "81 * 6 * 2",
+            "Answer": 972,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "43 * 3 * 18",
+            "Answer": 2322,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "41 * 92 * 35",
+            "Answer": 132020,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "10 * 66 * 75",
+            "Answer": 49500,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "80 * 89 * 1",
+            "Answer": 7120,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "12 * 4 * 19",
+            "Answer": 912,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "74 * 73 * 18",
+            "Answer": 97236,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "35 * 66 * 66",
+            "Answer": 152460,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "14 * 58 * 61",
+            "Answer": 49532,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "29 * 73 * 51",
+            "Answer": 107967,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "63 * 65 * 26",
+            "Answer": 106470,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "52 * 51 * 18",
+            "Answer": 47736,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "55 * 60 * 42",
+            "Answer": 138600,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "61 * 12 * 65",
+            "Answer": 47580,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "2 * 11 * 46",
+            "Answer": 1012,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "59 * 77 * 88",
+            "Answer": 399784,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "28 * 18 * 67",
+            "Answer": 33768,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "2 * 18 * 2",
+            "Answer": 72,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "63 * 4 * 9",
+            "Answer": 2268,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "11 * 18 * 60",
+            "Answer": 11880,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "65 * 75 * 98",
+            "Answer": 477750,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "54 * 36 * 92",
+            "Answer": 178848,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "35 * 36 * 91",
+            "Answer": 114660,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "23 * 51 * 84",
+            "Answer": 98532,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "17 * 76 * 71",
+            "Answer": 91732,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "21 * 4 * 54",
+            "Answer": 4536,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "84 * 72 * 87",
+            "Answer": 526176,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "63 * 41 * 17",
+            "Answer": 43911,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "1 * 60 * 25",
+            "Answer": 1500,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "25 * 86 * 66",
+            "Answer": 141900,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "35 * 93 * 91",
+            "Answer": 296205,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "33 * 7 * 20",
+            "Answer": 4620,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "45 * 59 * 50",
+            "Answer": 132750,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "37 * 41 * 98",
+            "Answer": 148666,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "15 * 94 * 46",
+            "Answer": 64860,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "12 * 61 * 33",
+            "Answer": 24156,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "53 * 4 * 20",
+            "Answer": 4240,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "94 * 48 * 65",
+            "Answer": 293280,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "74 * 15 * 39",
+            "Answer": 43290,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "15 * 73 * 15",
+            "Answer": 16425,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "43 * 97 * 8",
+            "Answer": 33368,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "42 * 30 * 13",
+            "Answer": 16380,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "95 * 24 * 65",
+            "Answer": 148200,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "44 * 46 * 96",
+            "Answer": 194304,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "5 * 48 * 92",
+            "Answer": 22080,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "26 * 5 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "94 * 89 * 45",
+            "Answer": 376470,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "52 * 98 * 78",
+            "Answer": 397488,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "73 * 37 * 68",
+            "Answer": 183668,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "27 * 84 * 71",
+            "Answer": 161028,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "79 * 75 * 59",
+            "Answer": 349575,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "59 * 5 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "51 * 23 * 34",
+            "Answer": 39882,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "26 * 37 * 82",
+            "Answer": 78884,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "12 * 18 * 95",
+            "Answer": 20520,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "0 * 66 * 29",
+            "Answer": 0,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "0 * 53 * 53",
+            "Answer": 0,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "89 * 55 * 1",
+            "Answer": 4895,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "95 * 3 * 43",
+            "Answer": 12255,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "67 * 18 * 19",
+            "Answer": 22914,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "17 * 65 * 48",
+            "Answer": 53040,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "46 * 6 * 17",
+            "Answer": 4692,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "25 * 28 * 5",
+            "Answer": 3500,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "55 * 33 * 29",
+            "Answer": 52635,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "5 * 18 * 55",
+            "Answer": 4950,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "15 * 90 * 34",
+            "Answer": 45900,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "6 * 68 * 29",
+            "Answer": 11832,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "16 * 24 * 42",
+            "Answer": 16128,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "46 * 42 * 62",
+            "Answer": 119784,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "37 * 82 * 25",
+            "Answer": 75850,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "14 * 45 * 19",
+            "Answer": 11970,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "60 * 43 * 55",
+            "Answer": 141900,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "49 * 13 * 30",
+            "Answer": 19110,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "83 * 4 * 98",
+            "Answer": 32536,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "40 * 59 * 1",
+            "Answer": 2360,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "94 * 56 * 53",
+            "Answer": 278992,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "86 * 14 * 79",
+            "Answer": 95116,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "86 * 94 * 79",
+            "Answer": 638636,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "25 * 48 * 17",
+            "Answer": 20400,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "11 * 53 * 15",
+            "Answer": 8745,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "10 * 12 * 88",
+            "Answer": 10560,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "32 * 39 * 81",
+            "Answer": 101088,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "66 * 30 * 48",
+            "Answer": 95040,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "2 * 49 * 49",
+            "Answer": 4802,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "54 * 28 * 91",
+            "Answer": 137592,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "52 * 15 * 87",
+            "Answer": 67860,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "44 * 13 * 58",
+            "Answer": 33176,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "53 * 91 * 98",
+            "Answer": 472654,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "72 * 96 * 56",
+            "Answer": 387072,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "37 * 45 * 73",
+            "Answer": 121545,
+            "Predicate": "# * # * #"
+        },
+        {
+            "Question": "81 * 56 * 98",
+            "Answer": 444528,
+            "Predicate": "# * # * #"
+        }
+    ],
+    "# * # * # * #": [
+        {
+            "Question": "65 * 32 * 70 * 62",
+            "Answer": 9027200,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "77 * 94 * 34 * 9",
+            "Answer": 2214828,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "24 * 25 * 16 * 72",
+            "Answer": 691200,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "18 * 56 * 67 * 55",
+            "Answer": 3714480,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "58 * 83 * 50 * 28",
+            "Answer": 6739600,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "4 * 61 * 88 * 90",
+            "Answer": 1932480,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "6 * 0 * 92 * 14",
+            "Answer": 0,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "75 * 26 * 11 * 77",
+            "Answer": 1651650,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "56 * 63 * 96 * 58",
+            "Answer": 19643904,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "81 * 29 * 83 * 44",
+            "Answer": 8578548,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "17 * 30 * 56 * 50",
+            "Answer": 1428000,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "38 * 5 * 74 * 27",
+            "Answer": 379620,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "65 * 12 * 64 * 4",
+            "Answer": 199680,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "31 * 50 * 84 * 24",
+            "Answer": 3124800,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "70 * 60 * 78 * 38",
+            "Answer": 12448800,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "62 * 25 * 46 * 55",
+            "Answer": 3921500,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "53 * 40 * 7 * 32",
+            "Answer": 474880,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "33 * 88 * 34 * 21",
+            "Answer": 2073456,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "52 * 67 * 41 * 43",
+            "Answer": 6142292,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "49 * 85 * 98 * 43",
+            "Answer": 17551310,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "35 * 67 * 50 * 68",
+            "Answer": 7973000,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "97 * 92 * 95 * 69",
+            "Answer": 58496820,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "25 * 56 * 63 * 33",
+            "Answer": 2910600,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "63 * 91 * 75 * 90",
+            "Answer": 38697750,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "96 * 48 * 2 * 82",
+            "Answer": 755712,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "70 * 98 * 42 * 13",
+            "Answer": 3745560,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "20 * 75 * 66 * 71",
+            "Answer": 7029000,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "20 * 82 * 98 * 78",
+            "Answer": 12536160,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "33 * 86 * 66 * 58",
+            "Answer": 10863864,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "68 * 49 * 79 * 79",
+            "Answer": 20795012,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "36 * 23 * 61 * 29",
+            "Answer": 1464732,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "91 * 53 * 61 * 72",
+            "Answer": 21182616,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "7 * 23 * 42 * 83",
+            "Answer": 561246,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "2 * 47 * 57 * 13",
+            "Answer": 69654,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "77 * 1 * 97 * 28",
+            "Answer": 209132,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "60 * 32 * 27 * 53",
+            "Answer": 2747520,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "74 * 11 * 54 * 49",
+            "Answer": 2153844,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "36 * 84 * 36 * 53",
+            "Answer": 5769792,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "26 * 58 * 10 * 30",
+            "Answer": 452400,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "12 * 53 * 66 * 83",
+            "Answer": 3484008,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "76 * 62 * 96 * 65",
+            "Answer": 29402880,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "64 * 43 * 6 * 19",
+            "Answer": 313728,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "55 * 75 * 98 * 78",
+            "Answer": 31531500,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "56 * 57 * 34 * 2",
+            "Answer": 217056,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "37 * 10 * 80 * 71",
+            "Answer": 2101600,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "58 * 62 * 92 * 3",
+            "Answer": 992496,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "87 * 17 * 39 * 30",
+            "Answer": 1730430,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "8 * 37 * 24 * 86",
+            "Answer": 610944,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "35 * 93 * 16 * 63",
+            "Answer": 3281040,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "25 * 67 * 23 * 88",
+            "Answer": 3390200,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "7 * 3 * 19 * 88",
+            "Answer": 35112,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "70 * 19 * 70 * 56",
+            "Answer": 5213600,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "57 * 61 * 63 * 35",
+            "Answer": 7666785,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "30 * 30 * 21 * 38",
+            "Answer": 718200,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "33 * 83 * 65 * 6",
+            "Answer": 1068210,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "20 * 79 * 89 * 50",
+            "Answer": 7031000,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "21 * 11 * 66 * 31",
+            "Answer": 472626,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "62 * 19 * 33 * 43",
+            "Answer": 1671582,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "30 * 74 * 67 * 43",
+            "Answer": 6395820,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "54 * 43 * 13 * 33",
+            "Answer": 996138,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "73 * 61 * 45 * 71",
+            "Answer": 14227335,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "14 * 88 * 13 * 74",
+            "Answer": 1185184,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "95 * 25 * 4 * 72",
+            "Answer": 684000,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "74 * 87 * 10 * 28",
+            "Answer": 1802640,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "7 * 14 * 65 * 29",
+            "Answer": 184730,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "83 * 47 * 11 * 57",
+            "Answer": 2445927,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "81 * 68 * 46 * 90",
+            "Answer": 22803120,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "38 * 54 * 22 * 69",
+            "Answer": 3114936,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "37 * 46 * 47 * 6",
+            "Answer": 479964,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "63 * 55 * 50 * 61",
+            "Answer": 10568250,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "50 * 72 * 76 * 58",
+            "Answer": 15868800,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "84 * 17 * 11 * 61",
+            "Answer": 958188,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "71 * 63 * 18 * 80",
+            "Answer": 6441120,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "1 * 88 * 47 * 30",
+            "Answer": 124080,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "39 * 93 * 23 * 45",
+            "Answer": 3753945,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "19 * 43 * 35 * 91",
+            "Answer": 2602145,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "63 * 92 * 44 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "0 * 97 * 5 * 8",
+            "Answer": 0,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "65 * 68 * 98 * 15",
+            "Answer": 6497400,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "54 * 91 * 51 * 8",
+            "Answer": 2004912,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "80 * 44 * 44 * 81",
+            "Answer": 12545280,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "20 * 14 * 94 * 11",
+            "Answer": 289520,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "21 * 32 * 58 * 29",
+            "Answer": 1130304,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "59 * 19 * 32 * 38",
+            "Answer": 1363136,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "97 * 49 * 7 * 19",
+            "Answer": 632149,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "87 * 69 * 85 * 13",
+            "Answer": 6633315,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "89 * 42 * 37 * 41",
+            "Answer": 5670546,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "10 * 96 * 14 * 33",
+            "Answer": 443520,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "17 * 89 * 3 * 45",
+            "Answer": 204255,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "54 * 33 * 22 * 11",
+            "Answer": 431244,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "44 * 1 * 39 * 40",
+            "Answer": 68640,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "83 * 68 * 45 * 78",
+            "Answer": 19810440,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "3 * 93 * 3 * 70",
+            "Answer": 58590,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "81 * 27 * 23 * 67",
+            "Answer": 3370167,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "53 * 20 * 14 * 64",
+            "Answer": 949760,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "62 * 54 * 22 * 33",
+            "Answer": 2430648,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "16 * 3 * 12 * 28",
+            "Answer": 16128,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "36 * 92 * 70 * 33",
+            "Answer": 7650720,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "51 * 87 * 48 * 10",
+            "Answer": 2129760,
+            "Predicate": "# * # * # * #"
+        },
+        {
+            "Question": "4 * 53 * 31 * 52",
+            "Answer": 341744,
+            "Predicate": "# * # * # * #"
+        }
+    ],
+    "# * # * # * # * #": [
+        {
+            "Question": "70 * 32 * 46 * 94 * 67",
+            "Answer": 648945920,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "43 * 86 * 0 * 24 * 16",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "38 * 96 * 47 * 69 * 23",
+            "Answer": 272100672,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "58 * 42 * 27 * 0 * 28",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "76 * 27 * 2 * 0 * 37",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "93 * 56 * 86 * 58 * 84",
+            "Answer": 2182110336,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "72 * 49 * 45 * 71 * 36",
+            "Answer": 405790560,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "57 * 83 * 73 * 41 * 25",
+            "Answer": 353997075,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "90 * 41 * 27 * 72 * 28",
+            "Answer": 200854080,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "81 * 14 * 92 * 16 * 85",
+            "Answer": 141886080,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "18 * 60 * 47 * 9 * 65",
+            "Answer": 29694600,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "64 * 17 * 38 * 67 * 57",
+            "Answer": 157892736,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "91 * 20 * 51 * 28 * 34",
+            "Answer": 88364640,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "53 * 82 * 89 * 79 * 13",
+            "Answer": 397237438,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "58 * 33 * 64 * 27 * 71",
+            "Answer": 234824832,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "83 * 7 * 26 * 42 * 84",
+            "Answer": 53293968,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "80 * 59 * 88 * 89 * 9",
+            "Answer": 332703360,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "87 * 14 * 37 * 19 * 5",
+            "Answer": 4281270,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "81 * 22 * 67 * 44 * 86",
+            "Answer": 451786896,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "91 * 70 * 42 * 75 * 39",
+            "Answer": 782554500,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "21 * 96 * 56 * 7 * 7",
+            "Answer": 5531904,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "59 * 9 * 90 * 20 * 77",
+            "Answer": 73596600,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "57 * 95 * 44 * 67 * 1",
+            "Answer": 15963420,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "31 * 3 * 61 * 98 * 48",
+            "Answer": 26685792,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "98 * 81 * 5 * 30 * 10",
+            "Answer": 11907000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "57 * 79 * 84 * 86 * 68",
+            "Answer": 2212017696,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "21 * 8 * 60 * 53 * 29",
+            "Answer": 15492960,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "47 * 79 * 58 * 4 * 23",
+            "Answer": 19812568,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "55 * 84 * 18 * 17 * 90",
+            "Answer": 127234800,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "62 * 66 * 28 * 1 * 98",
+            "Answer": 11228448,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "94 * 60 * 13 * 77 * 87",
+            "Answer": 491170680,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "75 * 21 * 50 * 51 * 26",
+            "Answer": 104422500,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "14 * 47 * 36 * 89 * 15",
+            "Answer": 31623480,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "48 * 73 * 72 * 36 * 26",
+            "Answer": 236141568,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "75 * 86 * 57 * 86 * 50",
+            "Answer": 1580895000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "25 * 53 * 7 * 74 * 65",
+            "Answer": 44612750,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "58 * 87 * 29 * 92 * 81",
+            "Answer": 1090480968,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "64 * 65 * 25 * 41 * 19",
+            "Answer": 81016000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "1 * 5 * 51 * 62 * 3",
+            "Answer": 47430,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "54 * 40 * 69 * 23 * 59",
+            "Answer": 202247280,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "81 * 47 * 44 * 80 * 2",
+            "Answer": 26801280,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "16 * 28 * 80 * 54 * 69",
+            "Answer": 133539840,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "50 * 27 * 14 * 22 * 73",
+            "Answer": 30353400,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "35 * 17 * 58 * 85 * 37",
+            "Answer": 108533950,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "68 * 85 * 58 * 20 * 73",
+            "Answer": 489450400,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "70 * 64 * 93 * 71 * 8",
+            "Answer": 236651520,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "38 * 93 * 2 * 98 * 14",
+            "Answer": 9697296,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "87 * 1 * 4 * 53 * 90",
+            "Answer": 1659960,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "18 * 31 * 66 * 79 * 70",
+            "Answer": 203658840,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "57 * 31 * 57 * 41 * 26",
+            "Answer": 107366454,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "13 * 90 * 44 * 76 * 20",
+            "Answer": 78249600,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "56 * 43 * 13 * 19 * 64",
+            "Answer": 38065664,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "77 * 86 * 34 * 55 * 18",
+            "Answer": 222896520,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "36 * 17 * 42 * 16 * 24",
+            "Answer": 9870336,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "81 * 16 * 10 * 98 * 92",
+            "Answer": 116847360,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "65 * 5 * 35 * 4 * 34",
+            "Answer": 1547000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "24 * 64 * 81 * 35 * 17",
+            "Answer": 74027520,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "15 * 88 * 53 * 74 * 95",
+            "Answer": 491818800,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "42 * 42 * 68 * 60 * 52",
+            "Answer": 374250240,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "14 * 43 * 84 * 73 * 51",
+            "Answer": 188264664,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "23 * 63 * 35 * 93 * 62",
+            "Answer": 292422690,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "59 * 58 * 97 * 42 * 89",
+            "Answer": 1240769292,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "86 * 17 * 67 * 52 * 97",
+            "Answer": 494079976,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "71 * 46 * 64 * 51 * 26",
+            "Answer": 277165824,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "41 * 52 * 58 * 2 * 90",
+            "Answer": 22258080,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "16 * 54 * 50 * 94 * 79",
+            "Answer": 320803200,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "75 * 70 * 1 * 42 * 54",
+            "Answer": 11907000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "22 * 33 * 36 * 37 * 15",
+            "Answer": 14505480,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "78 * 92 * 10 * 7 * 43",
+            "Answer": 21599760,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "68 * 21 * 11 * 80 * 12",
+            "Answer": 15079680,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "36 * 82 * 20 * 50 * 42",
+            "Answer": 123984000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "43 * 19 * 47 * 81 * 77",
+            "Answer": 239494563,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "39 * 7 * 82 * 31 * 46",
+            "Answer": 31922436,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "76 * 53 * 87 * 63 * 2",
+            "Answer": 44154936,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "60 * 78 * 61 * 5 * 15",
+            "Answer": 21411000,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "50 * 58 * 4 * 13 * 17",
+            "Answer": 2563600,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "12 * 96 * 42 * 61 * 73",
+            "Answer": 215453952,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "75 * 15 * 42 * 43 * 73",
+            "Answer": 148317750,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "60 * 18 * 41 * 60 * 34",
+            "Answer": 90331200,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "90 * 68 * 76 * 56 * 29",
+            "Answer": 755354880,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "28 * 82 * 20 * 98 * 15",
+            "Answer": 67502400,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "49 * 94 * 53 * 5 * 3",
+            "Answer": 3661770,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "94 * 24 * 90 * 67 * 22",
+            "Answer": 299280960,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "56 * 63 * 47 * 4 * 67",
+            "Answer": 44438688,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "37 * 97 * 77 * 15 * 34",
+            "Answer": 140940030,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "5 * 30 * 75 * 9 * 97",
+            "Answer": 9821250,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "35 * 37 * 37 * 63 * 4",
+            "Answer": 12074580,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "93 * 43 * 46 * 77 * 45",
+            "Answer": 637400610,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "10 * 15 * 24 * 58 * 98",
+            "Answer": 20462400,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "50 * 3 * 89 * 28 * 61",
+            "Answer": 22801800,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "22 * 67 * 70 * 54 * 34",
+            "Answer": 189438480,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "11 * 27 * 53 * 58 * 44",
+            "Answer": 40171032,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "40 * 27 * 37 * 3 * 70",
+            "Answer": 8391600,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "34 * 42 * 10 * 89 * 81",
+            "Answer": 102944520,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "94 * 27 * 44 * 76 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "68 * 43 * 83 * 63 * 85",
+            "Answer": 1299615660,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "3 * 8 * 24 * 77 * 79",
+            "Answer": 3503808,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "34 * 68 * 98 * 98 * 26",
+            "Answer": 577315648,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "65 * 8 * 61 * 38 * 93",
+            "Answer": 112098480,
+            "Predicate": "# * # * # * # * #"
+        },
+        {
+            "Question": "41 * 11 * 20 * 61 * 93",
+            "Answer": 51170460,
+            "Predicate": "# * # * # * # * #"
+        }
+    ],
+    "# * # * # * # * # * #": [
+        {
+            "Question": "60 * 8 * 63 * 18 * 10 * 33",
+            "Answer": 179625600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 23 * 20 * 89 * 70 * 10",
+            "Answer": 1346926000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "20 * 92 * 56 * 42 * 5 * 98",
+            "Answer": 2120563200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "22 * 35 * 91 * 35 * 18 * 7",
+            "Answer": 309008700,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "82 * 55 * 79 * 41 * 46 * 83",
+            "Answer": 55772924020,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 67 * 44 * 4 * 2 * 61",
+            "Answer": 43158720,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "22 * 93 * 9 * 43 * 41 * 11",
+            "Answer": 357102702,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "41 * 75 * 32 * 47 * 47 * 4",
+            "Answer": 869462400,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "70 * 17 * 73 * 51 * 45 * 19",
+            "Answer": 3787966350,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "42 * 79 * 18 * 35 * 62 * 41",
+            "Answer": 5313644280,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "17 * 98 * 97 * 85 * 79 * 27",
+            "Answer": 29299250610,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "90 * 51 * 83 * 77 * 83 * 44",
+            "Answer": 107130287880,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "15 * 74 * 59 * 0 * 38 * 5",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 49 * 10 * 74 * 29 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 71 * 71 * 61 * 25 * 24",
+            "Answer": 553501800,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "22 * 98 * 87 * 9 * 95 * 23",
+            "Answer": 3688603380,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "45 * 50 * 62 * 40 * 57 * 95",
+            "Answer": 30215700000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "73 * 35 * 3 * 59 * 25 * 14",
+            "Answer": 158282250,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "69 * 85 * 17 * 83 * 96 * 15",
+            "Answer": 11916741600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "9 * 47 * 63 * 97 * 16 * 45",
+            "Answer": 1861166160,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "22 * 38 * 96 * 34 * 74 * 23",
+            "Answer": 4644254208,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "79 * 22 * 45 * 34 * 63 * 10",
+            "Answer": 1675258200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "53 * 35 * 66 * 8 * 72 * 95",
+            "Answer": 6699369600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "25 * 39 * 87 * 20 * 39 * 38",
+            "Answer": 2514213000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "56 * 77 * 13 * 23 * 44 * 12",
+            "Answer": 680744064,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "26 * 27 * 19 * 83 * 4 * 3",
+            "Answer": 13284648,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 87 * 59 * 50 * 84 * 38",
+            "Answer": 24576804000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "9 * 7 * 97 * 41 * 31 * 62",
+            "Answer": 481559022,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "7 * 89 * 93 * 70 * 89 * 14",
+            "Answer": 5053439580,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "45 * 93 * 13 * 9 * 20 * 68",
+            "Answer": 665917200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "1 * 13 * 7 * 69 * 11 * 51",
+            "Answer": 3522519,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "57 * 38 * 80 * 79 * 22 * 12",
+            "Answer": 3613927680,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "26 * 49 * 74 * 48 * 55 * 50",
+            "Answer": 12444432000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "38 * 74 * 77 * 36 * 30 * 45",
+            "Answer": 10523066400,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "96 * 44 * 61 * 80 * 61 * 28",
+            "Answer": 35207208960,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "49 * 2 * 75 * 35 * 98 * 65",
+            "Answer": 1638682500,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "90 * 90 * 35 * 42 * 68 * 74",
+            "Answer": 59916024000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "25 * 60 * 74 * 38 * 41 * 24",
+            "Answer": 4150512000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "17 * 37 * 16 * 14 * 13 * 28",
+            "Answer": 51286144,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "34 * 77 * 37 * 48 * 11 * 35",
+            "Answer": 1790083680,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "59 * 43 * 98 * 19 * 22 * 94",
+            "Answer": 9769012792,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "44 * 98 * 87 * 9 * 72 * 76",
+            "Answer": 18475091712,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "41 * 17 * 4 * 7 * 21 * 98",
+            "Answer": 40163928,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 70 * 5 * 69 * 13 * 97",
+            "Answer": 2771236650,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "7 * 7 * 78 * 75 * 4 * 58",
+            "Answer": 66502800,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "61 * 27 * 80 * 42 * 84 * 83",
+            "Answer": 38582490240,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "97 * 73 * 84 * 81 * 55 * 29",
+            "Answer": 76845702780,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "75 * 26 * 98 * 24 * 20 * 77",
+            "Answer": 7063056000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "31 * 7 * 14 * 65 * 47 * 86",
+            "Answer": 798173740,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "6 * 12 * 28 * 19 * 90 * 70",
+            "Answer": 241315200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "77 * 47 * 48 * 34 * 42 * 79",
+            "Answer": 19596798144,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 68 * 70 * 40 * 38 * 77",
+            "Answer": 50697046400,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "95 * 34 * 26 * 67 * 80 * 16",
+            "Answer": 7202124800,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "92 * 62 * 72 * 29 * 87 * 24",
+            "Answer": 24867979776,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "28 * 29 * 2 * 91 * 27 * 73",
+            "Answer": 291282264,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "45 * 53 * 33 * 95 * 1 * 96",
+            "Answer": 717789600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "77 * 65 * 63 * 1 * 49 * 94",
+            "Answer": 1452340890,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "37 * 70 * 61 * 75 * 29 * 26",
+            "Answer": 8934334500,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "41 * 71 * 25 * 85 * 98 * 40",
+            "Answer": 24248630000,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "78 * 80 * 36 * 35 * 43 * 36",
+            "Answer": 12170995200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "4 * 75 * 16 * 77 * 27 * 21",
+            "Answer": 209563200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "64 * 23 * 26 * 43 * 60 * 9",
+            "Answer": 888675840,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "62 * 70 * 80 * 83 * 63 * 86",
+            "Answer": 156133756800,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "58 * 71 * 6 * 83 * 34 * 7",
+            "Answer": 488081832,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "1 * 54 * 18 * 28 * 40 * 59",
+            "Answer": 64229760,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "52 * 9 * 80 * 34 * 77 * 7",
+            "Answer": 686125440,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "60 * 65 * 72 * 7 * 57 * 66",
+            "Answer": 7394587200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 33 * 20 * 15 * 63 * 27",
+            "Answer": 791475300,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "6 * 39 * 19 * 89 * 88 * 85",
+            "Answer": 2959791120,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "62 * 43 * 51 * 98 * 70 * 19",
+            "Answer": 17721808440,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 5 * 57 * 35 * 38 * 63",
+            "Answer": 2173093650,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 25 * 54 * 13 * 33 * 39",
+            "Answer": 2055403350,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "35 * 25 * 43 * 67 * 60 * 97",
+            "Answer": 14671492500,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "35 * 74 * 98 * 14 * 1 * 49",
+            "Answer": 174120520,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "54 * 93 * 91 * 22 * 95 * 14",
+            "Answer": 13371878520,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "75 * 44 * 8 * 21 * 0 * 91",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "33 * 74 * 61 * 9 * 87 * 26",
+            "Answer": 3032568396,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "70 * 2 * 57 * 68 * 11 * 8",
+            "Answer": 47752320,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "79 * 35 * 63 * 81 * 51 * 35",
+            "Answer": 25185984075,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "77 * 94 * 42 * 5 * 6 * 73",
+            "Answer": 665751240,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "82 * 10 * 56 * 24 * 57 * 11",
+            "Answer": 691004160,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 54 * 69 * 37 * 91 * 6",
+            "Answer": 4967995032,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "21 * 15 * 86 * 6 * 20 * 67",
+            "Answer": 217803600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "35 * 78 * 77 * 61 * 42 * 24",
+            "Answer": 12925392480,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 14 * 68 * 15 * 46 * 95",
+            "Answer": 748843200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "23 * 28 * 17 * 23 * 98 * 48",
+            "Answer": 1184486016,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "94 * 74 * 66 * 47 * 66 * 60",
+            "Answer": 85446947520,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "51 * 75 * 4 * 31 * 6 * 44",
+            "Answer": 125215200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "65 * 15 * 38 * 0 * 97 * 30",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "35 * 60 * 12 * 98 * 27 * 69",
+            "Answer": 4600864800,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "17 * 4 * 13 * 16 * 32 * 82",
+            "Answer": 37113856,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "76 * 19 * 56 * 79 * 94 * 76",
+            "Answer": 45637700864,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "8 * 20 * 11 * 55 * 16 * 49",
+            "Answer": 75891200,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 71 * 46 * 63 * 74 * 59",
+            "Answer": 2695018284,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "55 * 94 * 72 * 91 * 35 * 59",
+            "Answer": 69949479600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "89 * 18 * 18 * 52 * 26 * 62",
+            "Answer": 2417148864,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "41 * 88 * 65 * 39 * 62 * 24",
+            "Answer": 13609664640,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "20 * 93 * 15 * 44 * 59 * 59",
+            "Answer": 4273275600,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "69 * 78 * 90 * 23 * 7 * 77",
+            "Answer": 6004858860,
+            "Predicate": "# * # * # * # * # * #"
+        },
+        {
+            "Question": "8 * 92 * 83 * 11 * 19 * 35",
+            "Answer": 446858720,
+            "Predicate": "# * # * # * # * # * #"
+        }
+    ],
+    "# * # * # * # * # * # * #": [
+        {
+            "Question": "30 * 37 * 78 * 61 * 76 * 46 * 82",
+            "Answer": 1514023767360,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 34 * 89 * 20 * 54 * 2 * 76",
+            "Answer": 1490244480,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "57 * 55 * 84 * 2 * 49 * 9 * 8",
+            "Answer": 1858127040,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 17 * 53 * 27 * 69 * 54 * 85",
+            "Answer": 716528187810,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "40 * 13 * 46 * 60 * 48 * 63 * 18",
+            "Answer": 78120806400,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "27 * 62 * 78 * 50 * 60 * 54 * 52",
+            "Answer": 1099938528000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "92 * 63 * 70 * 98 * 24 * 87 * 74",
+            "Answer": 6143483646720,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "53 * 62 * 12 * 9 * 55 * 68 * 96",
+            "Answer": 127418987520,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "28 * 77 * 90 * 77 * 83 * 9 * 45",
+            "Answer": 502244404200,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 98 * 16 * 77 * 74 * 3 * 46",
+            "Answer": 114664910976,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 30 * 4 * 0 * 81 * 33 * 95",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "89 * 56 * 50 * 38 * 88 * 65 * 47",
+            "Answer": 2545807264000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "40 * 39 * 60 * 21 * 55 * 16 * 36",
+            "Answer": 62270208000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "53 * 42 * 4 * 67 * 28 * 29 * 16",
+            "Answer": 7750611456,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "80 * 5 * 64 * 5 * 89 * 36 * 35",
+            "Answer": 14353920000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "37 * 2 * 0 * 42 * 58 * 24 * 42",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "44 * 0 * 47 * 74 * 44 * 14 * 93",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "20 * 46 * 78 * 12 * 26 * 11 * 82",
+            "Answer": 20194986240,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "22 * 96 * 40 * 64 * 62 * 69 * 73",
+            "Answer": 1688486215680,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "78 * 80 * 15 * 67 * 59 * 19 * 71",
+            "Answer": 499131079200,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 55 * 19 * 16 * 25 * 22 * 3",
+            "Answer": 1820808000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "18 * 46 * 28 * 35 * 85 * 47 * 61",
+            "Answer": 197743870800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 58 * 16 * 58 * 42 * 58 * 44",
+            "Answer": 288453580800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "23 * 4 * 2 * 49 * 64 * 72 * 32",
+            "Answer": 1329463296,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 19 * 45 * 76 * 61 * 59 * 43",
+            "Answer": 502805493000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "65 * 15 * 55 * 69 * 38 * 90 * 4",
+            "Answer": 50617710000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "98 * 59 * 19 * 55 * 76 * 51 * 20",
+            "Answer": 468390568800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "38 * 62 * 75 * 49 * 78 * 13 * 85",
+            "Answer": 746258877000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "62 * 94 * 31 * 74 * 47 * 32 * 5",
+            "Answer": 100538128640,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "56 * 88 * 92 * 2 * 96 * 75 * 21",
+            "Answer": 137100902400,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "51 * 11 * 75 * 98 * 65 * 37 * 26",
+            "Answer": 257833075500,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "80 * 31 * 10 * 93 * 35 * 49 * 15",
+            "Answer": 59332140000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "34 * 25 * 64 * 31 * 35 * 69 * 39",
+            "Answer": 158833584000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "98 * 73 * 95 * 54 * 86 * 30 * 86",
+            "Answer": 8143000437600,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "2 * 58 * 33 * 72 * 77 * 46 * 95",
+            "Answer": 92742027840,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "74 * 80 * 51 * 33 * 87 * 34 * 31",
+            "Answer": 913620185280,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "44 * 45 * 5 * 40 * 31 * 19 * 44",
+            "Answer": 10262736000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 64 * 10 * 30 * 68 * 92 * 63",
+            "Answer": 22701772800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "52 * 52 * 0 * 84 * 61 * 51 * 59",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "17 * 10 * 2 * 79 * 81 * 86 * 14",
+            "Answer": 2619494640,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "85 * 42 * 37 * 62 * 79 * 31 * 65",
+            "Answer": 1303658292300,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "89 * 15 * 9 * 25 * 46 * 95 * 93",
+            "Answer": 122075403750,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "16 * 14 * 48 * 37 * 19 * 43 * 25",
+            "Answer": 8125555200,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 17 * 42 * 22 * 89 * 97 * 24",
+            "Answer": 39054863232,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "13 * 31 * 66 * 9 * 51 * 23 * 93",
+            "Answer": 26113942998,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "39 * 88 * 86 * 75 * 95 * 58 * 35",
+            "Answer": 4269004740000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "72 * 27 * 17 * 3 * 50 * 24 * 55",
+            "Answer": 6543504000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "92 * 14 * 97 * 55 * 5 * 93 * 48",
+            "Answer": 153371433600,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "10 * 78 * 96 * 16 * 71 * 23 * 94",
+            "Answer": 183907676160,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "8 * 88 * 88 * 32 * 22 * 20 * 22",
+            "Answer": 19190251520,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 65 * 52 * 20 * 83 * 36 * 49",
+            "Answer": 465180206400,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "23 * 1 * 2 * 81 * 27 * 69 * 48",
+            "Answer": 333193824,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "51 * 6 * 66 * 24 * 93 * 28 * 50",
+            "Answer": 63108460800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "92 * 82 * 34 * 17 * 75 * 97 * 76",
+            "Answer": 2410882852800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "26 * 54 * 19 * 42 * 13 * 82 * 40",
+            "Answer": 47773514880,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "74 * 50 * 2 * 8 * 46 * 7 * 22",
+            "Answer": 419372800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "25 * 31 * 50 * 36 * 86 * 17 * 58",
+            "Answer": 118290420000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "10 * 47 * 98 * 10 * 43 * 64 * 90",
+            "Answer": 114081408000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "8 * 52 * 61 * 91 * 57 * 15 * 69",
+            "Answer": 136232197920,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "13 * 61 * 60 * 55 * 21 * 25 * 8",
+            "Answer": 10990980000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "77 * 85 * 75 * 17 * 27 * 57 * 82",
+            "Answer": 1053106535250,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "97 * 54 * 42 * 51 * 96 * 34 * 10",
+            "Answer": 366214141440,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "55 * 37 * 98 * 18 * 44 * 69 * 96",
+            "Answer": 1046251261440,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "49 * 22 * 4 * 55 * 90 * 48 * 16",
+            "Answer": 16392499200,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "33 * 49 * 33 * 97 * 72 * 16 * 86",
+            "Answer": 512798356224,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "2 * 8 * 15 * 96 * 0 * 72 * 77",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "57 * 62 * 90 * 66 * 50 * 27 * 80",
+            "Answer": 2267131680000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "75 * 38 * 53 * 62 * 78 * 47 * 96",
+            "Answer": 3295915833600,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 13 * 25 * 88 * 50 * 36 * 58",
+            "Answer": 277683120000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "5 * 94 * 68 * 29 * 46 * 69 * 5",
+            "Answer": 14708950800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 88 * 63 * 40 * 74 * 14 * 18",
+            "Answer": 49624565760,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 88 * 13 * 86 * 50 * 77 * 4",
+            "Answer": 45453408000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "98 * 78 * 4 * 64 * 31 * 17 * 20",
+            "Answer": 20625346560,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 14 * 16 * 20 * 12 * 10 * 8",
+            "Answer": 283852800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "78 * 41 * 87 * 18 * 26 * 0 * 83",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "27 * 36 * 77 * 54 * 14 * 6 * 73",
+            "Answer": 24782944032,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "81 * 37 * 17 * 54 * 60 * 27 * 22",
+            "Answer": 98054407440,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "11 * 50 * 79 * 64 * 38 * 45 * 59",
+            "Answer": 280554912000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "6 * 25 * 16 * 74 * 19 * 12 * 2",
+            "Answer": 80985600,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "96 * 63 * 32 * 31 * 73 * 3 * 32",
+            "Answer": 42045308928,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "49 * 90 * 45 * 86 * 86 * 56 * 35",
+            "Answer": 2876762952000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "48 * 18 * 66 * 44 * 12 * 35 * 8",
+            "Answer": 8430428160,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "74 * 29 * 87 * 41 * 79 * 35 * 56",
+            "Answer": 1185266444880,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "80 * 52 * 3 * 19 * 55 * 47 * 97",
+            "Answer": 59456654400,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 71 * 81 * 4 * 46 * 91 * 85",
+            "Answer": 384697502280,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "40 * 86 * 69 * 62 * 70 * 21 * 21",
+            "Answer": 454292798400,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "19 * 4 * 4 * 47 * 50 * 1 * 85",
+            "Answer": 60724000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 20 * 75 * 31 * 62 * 90 * 32",
+            "Answer": 249091200000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 19 * 74 * 15 * 86 * 96 * 96",
+            "Answer": 835771392000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "40 * 36 * 42 * 86 * 12 * 60 * 55",
+            "Answer": 205970688000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "24 * 74 * 77 * 2 * 82 * 59 * 88",
+            "Answer": 116442686976,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "3 * 2 * 69 * 59 * 11 * 38 * 55",
+            "Answer": 561553740,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "38 * 70 * 31 * 73 * 58 * 46 * 70",
+            "Answer": 1124216760800,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "58 * 0 * 77 * 22 * 36 * 84 * 14",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "55 * 52 * 39 * 76 * 50 * 61 * 25",
+            "Answer": 646374300000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "11 * 58 * 50 * 66 * 21 * 35 * 27",
+            "Answer": 41781663000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "42 * 93 * 92 * 21 * 85 * 85 * 70",
+            "Answer": 3816587754000,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "23 * 66 * 9 * 44 * 91 * 34 * 70",
+            "Answer": 130192302240,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "76 * 3 * 21 * 92 * 47 * 49 * 76",
+            "Answer": 77099133888,
+            "Predicate": "# * # * # * # * # * # * #"
+        },
+        {
+            "Question": "88 * 65 * 62 * 94 * 96 * 40 * 92",
+            "Answer": 11776998604800,
+            "Predicate": "# * # * # * # * # * # * #"
+        }
+    ],
+    "# * # * # * # * # * # * # * #": [
+        {
+            "Question": "57 * 88 * 54 * 78 * 89 * 66 * 51 * 95",
+            "Answer": 601275646445760,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "75 * 98 * 86 * 5 * 35 * 35 * 6 * 51",
+            "Answer": 1184713425000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "45 * 61 * 53 * 75 * 44 * 30 * 91 * 68",
+            "Answer": 89125856820000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "39 * 65 * 63 * 97 * 51 * 62 * 6 * 64",
+            "Answer": 18809763598080,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "87 * 20 * 20 * 24 * 53 * 84 * 96 * 20",
+            "Answer": 7139155968000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "5 * 0 * 27 * 95 * 11 * 58 * 15 * 90",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "88 * 8 * 60 * 11 * 77 * 20 * 12 * 22",
+            "Answer": 188904038400,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "48 * 76 * 71 * 8 * 3 * 7 * 16 * 76",
+            "Answer": 52912226304,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "60 * 26 * 21 * 36 * 69 * 65 * 36 * 50",
+            "Answer": 9520973280000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "18 * 29 * 25 * 61 * 62 * 42 * 31 * 64",
+            "Answer": 4112661772800,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "84 * 0 * 56 * 24 * 49 * 94 * 87 * 8",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "38 * 21 * 41 * 54 * 8 * 64 * 22 * 83",
+            "Answer": 1651776344064,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "39 * 43 * 59 * 65 * 40 * 20 * 41 * 51",
+            "Answer": 10758270276000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "21 * 12 * 32 * 84 * 5 * 79 * 11 * 1",
+            "Answer": 2943198720,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "60 * 18 * 23 * 11 * 24 * 60 * 8 * 40",
+            "Answer": 125908992000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "69 * 41 * 51 * 49 * 10 * 96 * 96 * 43",
+            "Answer": 28016257812480,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "83 * 13 * 96 * 77 * 82 * 76 * 12 * 65",
+            "Answer": 38770861409280,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 48 * 50 * 3 * 19 * 70 * 9 * 98",
+            "Answer": 785480976000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 21 * 15 * 46 * 50 * 79 * 44 * 95",
+            "Answer": 11962219500000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 48 * 45 * 86 * 88 * 71 * 50 * 75",
+            "Answer": 404769182400000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "6 * 96 * 59 * 64 * 81 * 15 * 29 * 56",
+            "Answer": 4291575644160,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "10 * 44 * 13 * 19 * 43 * 39 * 49 * 68",
+            "Answer": 607278191520,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "21 * 94 * 44 * 59 * 40 * 52 * 14 * 79",
+            "Answer": 11788818961920,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "9 * 25 * 94 * 79 * 22 * 18 * 50 * 39",
+            "Answer": 1290230370000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "18 * 95 * 53 * 64 * 56 * 29 * 26 * 0",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "24 * 34 * 52 * 89 * 9 * 18 * 34 * 95",
+            "Answer": 1976064180480,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "74 * 8 * 6 * 85 * 46 * 29 * 79 * 69",
+            "Answer": 2195451737280,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "68 * 20 * 80 * 81 * 87 * 68 * 88 * 60",
+            "Answer": 275280850944000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "92 * 17 * 77 * 45 * 39 * 2 * 79 * 86",
+            "Answer": 2871839290320,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "40 * 81 * 28 * 34 * 63 * 67 * 3 * 51",
+            "Answer": 1991997282240,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "19 * 6 * 55 * 21 * 3 * 90 * 68 * 45",
+            "Answer": 108785754000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "43 * 46 * 33 * 12 * 2 * 11 * 65 * 4",
+            "Answer": 4480407360,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "83 * 20 * 71 * 74 * 14 * 21 * 75 * 68",
+            "Answer": 13077227016000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "23 * 53 * 2 * 51 * 9 * 66 * 70 * 58",
+            "Answer": 299858494320,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "51 * 44 * 36 * 6 * 91 * 8 * 33 * 48",
+            "Answer": 558937387008,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "89 * 37 * 86 * 32 * 50 * 0 * 83 * 22",
+            "Answer": 0,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "87 * 20 * 50 * 65 * 26 * 21 * 72 * 32",
+            "Answer": 7113899520000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 57 * 92 * 90 * 24 * 41 * 3 * 17",
+            "Answer": 1563199482240,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "39 * 4 * 13 * 63 * 77 * 65 * 63 * 92",
+            "Answer": 3706303320720,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "73 * 86 * 24 * 62 * 55 * 73 * 16 * 5",
+            "Answer": 3000542476800,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "57 * 6 * 89 * 3 * 53 * 88 * 30 * 24",
+            "Answer": 306639717120,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "36 * 62 * 67 * 78 * 41 * 32 * 22 * 39",
+            "Answer": 13130604444672,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "29 * 92 * 88 * 46 * 66 * 46 * 76 * 31",
+            "Answer": 77250870580224,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "56 * 78 * 70 * 96 * 47 * 2 * 4 * 78",
+            "Answer": 860863610880,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "85 * 52 * 86 * 42 * 88 * 79 * 6 * 13",
+            "Answer": 8657138730240,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "85 * 62 * 73 * 31 * 48 * 73 * 17 * 97",
+            "Answer": 68909630676960,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "71 * 18 * 53 * 72 * 62 * 7 * 34 * 75",
+            "Answer": 5397207681600,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 42 * 39 * 81 * 61 * 34 * 96 * 66",
+            "Answer": 52305106613760,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "55 * 87 * 3 * 16 * 23 * 5 * 65 * 19",
+            "Answer": 32620302000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "87 * 57 * 78 * 55 * 66 * 76 * 62 * 71",
+            "Answer": 469741539215520,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "63 * 82 * 18 * 45 * 42 * 7 * 52 * 66",
+            "Answer": 4222153615680,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "96 * 49 * 28 * 89 * 50 * 43 * 32 * 7",
+            "Answer": 5645492428800,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "6 * 6 * 93 * 60 * 42 * 13 * 11 * 91",
+            "Answer": 109790160480,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "49 * 88 * 5 * 38 * 8 * 4 * 85 * 42",
+            "Answer": 93594547200,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 94 * 68 * 31 * 43 * 88 * 6 * 77",
+            "Answer": 4156930939392,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "83 * 84 * 46 * 94 * 49 * 28 * 20 * 25",
+            "Answer": 20680792608000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "48 * 76 * 69 * 24 * 86 * 58 * 11 * 89",
+            "Answer": 29500155058176,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 81 * 18 * 89 * 43 * 56 * 84 * 37",
+            "Answer": 88374387261888,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "80 * 81 * 30 * 38 * 73 * 36 * 54 * 73",
+            "Answer": 76528259827200,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "18 * 24 * 32 * 43 * 50 * 91 * 31 * 38",
+            "Answer": 3186096076800,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 21 * 39 * 71 * 42 * 14 * 44 * 6",
+            "Answer": 451329278400,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "63 * 62 * 82 * 49 * 90 * 36 * 82 * 96",
+            "Answer": 400287719946240,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "27 * 91 * 43 * 22 * 18 * 67 * 58 * 81",
+            "Answer": 13169115695736,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "2 * 84 * 69 * 93 * 44 * 14 * 51 * 93",
+            "Answer": 3149743278528,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "30 * 71 * 49 * 75 * 94 * 97 * 90 * 90",
+            "Answer": 578124738450000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "20 * 2 * 71 * 74 * 31 * 13 * 2 * 25",
+            "Answer": 4234724000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "70 * 85 * 16 * 48 * 34 * 25 * 48 * 89",
+            "Answer": 16593131520000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 19 * 90 * 92 * 66 * 68 * 48 * 86",
+            "Answer": 136985415874560,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "91 * 25 * 6 * 85 * 7 * 59 * 70 * 7",
+            "Answer": 234799792500,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "37 * 97 * 41 * 92 * 97 * 84 * 47 * 46",
+            "Answer": 238479939223008,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "81 * 51 * 44 * 25 * 70 * 47 * 73 * 90",
+            "Answer": 98222084730000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "93 * 67 * 77 * 77 * 12 * 4 * 3 * 16",
+            "Answer": 85118052096,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "2 * 33 * 36 * 56 * 49 * 53 * 86 * 43",
+            "Answer": 1277830705536,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "90 * 43 * 94 * 81 * 90 * 47 * 81 * 25",
+            "Answer": 252399931335000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "47 * 72 * 60 * 14 * 7 * 51 * 19 * 72",
+            "Answer": 1388238082560,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "60 * 8 * 48 * 11 * 22 * 29 * 80 * 91",
+            "Answer": 1177137561600,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "73 * 79 * 40 * 81 * 73 * 98 * 89 * 86",
+            "Answer": 1023133618997280,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "95 * 20 * 82 * 82 * 31 * 82 * 17 * 16",
+            "Answer": 8833356454400,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "12 * 3 * 41 * 40 * 80 * 82 * 98 * 7",
+            "Answer": 265689446400,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "69 * 57 * 97 * 40 * 77 * 51 * 14 * 29",
+            "Answer": 24330027894480,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "36 * 82 * 11 * 68 * 78 * 38 * 96 * 77",
+            "Answer": 48379136053248,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "45 * 71 * 39 * 22 * 39 * 83 * 70 * 36",
+            "Answer": 22361523584400,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 41 * 61 * 68 * 5 * 60 * 78 * 70",
+            "Answer": 18385711344000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "34 * 94 * 41 * 71 * 93 * 63 * 15 * 41",
+            "Answer": 33523363781460,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "50 * 27 * 87 * 22 * 52 * 20 * 51 * 49",
+            "Answer": 6715452744000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "62 * 95 * 56 * 24 * 82 * 23 * 98 * 90",
+            "Answer": 131681521843200,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "79 * 60 * 92 * 20 * 42 * 47 * 80 * 92",
+            "Answer": 126712986624000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "71 * 78 * 85 * 40 * 78 * 15 * 30 * 4",
+            "Answer": 2643619680000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "90 * 76 * 50 * 13 * 49 * 33 * 21 * 94",
+            "Answer": 14191445268000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "56 * 36 * 53 * 15 * 43 * 59 * 74 * 46",
+            "Answer": 13841006578560,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "72 * 70 * 2 * 74 * 9 * 65 * 9 * 95",
+            "Answer": 373090536000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "53 * 87 * 45 * 93 * 14 * 56 * 91 * 25",
+            "Answer": 34418191626000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "2 * 33 * 51 * 95 * 83 * 8 * 22 * 55",
+            "Answer": 256916008800,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "53 * 4 * 65 * 44 * 82 * 73 * 26 * 84",
+            "Answer": 7926678439680,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "66 * 64 * 48 * 27 * 64 * 7 * 21 * 63",
+            "Answer": 3244641878016,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "54 * 8 * 13 * 50 * 22 * 47 * 79 * 72",
+            "Answer": 1651494873600,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "33 * 36 * 98 * 11 * 9 * 15 * 80 * 60",
+            "Answer": 829870272000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "90 * 17 * 35 * 75 * 20 * 97 * 98 * 77",
+            "Answer": 58794847650000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "68 * 68 * 55 * 38 * 37 * 77 * 26 * 2",
+            "Answer": 1431725975680,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        },
+        {
+            "Question": "35 * 5 * 47 * 53 * 16 * 80 * 31 * 49",
+            "Answer": 847577696000,
+            "Predicate": "# * # * # * # * # * # * # * #"
+        }
+    ]
+}
