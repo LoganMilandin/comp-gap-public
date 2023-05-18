@@ -12,7 +12,33 @@
         "A team of workers can complete a project in # days working ## hours per day. How many hours would it take to finish ### projects?",
         "A gardener needs to plant # rows of trees with ## trees in each row. If there are ### rows of empty space, how many trees are needed in total to plant the entire garden?",
         "A baker has # types of cakes with ## different flavors each. If the baker wants to make a display with ### of each combination, how many total cakes will be in the display?"
+    ],
+    "# + # + # + #": [
+        "A group of friends decided to donate money to a charity. The first friend gave $#, the second friend gave $##, the third friend gave $###, and the fourth friend gave $####. How much money did they donate in total?",
+        "A group of friends collects seashells. John finds # seashells, Emily finds ## seashells, David finds ### seashells, and Sarah finds #### seashells. How many seashells did they collect together?",
+        "There are # red balloons and ## blue balloons. If ### green balloons are added to the collection, and then #### yellow balloons are added, how many balloons are there in total?",
+        "A bookstore sells # fiction books, ## non-fiction books, ### mystery books, and #### science books. How many books are there in the store?",
+        "The temperature in a city increases by # degrees Celsius in the morning, then increases by ## degrees Celsius in the afternoon, followed by an increase of ### degrees Celsius in the evening, and finally an increase of #### degrees Celsius at night. What is the total increase in temperature over the day?"
+    ],
+    "# * # * # * #": [
+        "Sarah earned $# for every hour she worked. If she worked ## hours a day, ### days a week, and for #### weeks, how much money did she earn in total?",
+        "A classroom has # rows with ## desks in each row. If each desk has ### books on it and there are #### subjects, how many subjects are there total?",
+        "A farmer has # fields, each containing ## rows of crops, and each row has ### plants. If each plant yields #### fruits, how many fruits did the farmer harvest in total?",
+        "A factory produces # cars per hour. Each car consists of ## major components, and each component requires ### smaller parts. If the factory operates for #### hours, how many smaller parts were used in total?",
+        "A box contains # bags, and each bag contains ## books. If each book has ### chapters and each chapter has #### pages, how many pages are there in total?"
+    ],
+    "# + # + # + # + #": [
+        "A marathon runner ran # miles on Monday, ## miles on Tuesday, ### miles on Wednesday, #### miles on Thursday, and ##### miles on Friday. How many miles did the runner cover in total?",
+        "The temperature in a town increased by # degrees Celsius on Monday, then by ## degrees on Tuesday, followed by an increase of ### degrees on Wednesday, #### degrees on Thursday, and ##### degrees on Friday. What was the total increase in temperature over the five days?",
+        "A group of friends collected # seashells on a beach, found ## more seashells near a reef, discovered ### additional seashells in a tide pool, picked up #### seashells along the shore, and gathered ##### seashells from a hidden cove. How many seashells did the group collect in total?",
+        "In a video game, a player earned # points in the first level, ## points in the second level, ### points in the third level, #### points in the fourth level, and ##### points in the fifth level. How many points did the player accumulate across all five levels?",
+        "Tim has # apples. He buys ## more apples from the store and later receives ### apples as a gift. If he then picks up #### apples from his friend's orchard and finds ##### apples on the ground, how many apples does Tim have in total?"
+    ],
+    "# * # * # * # * #": [
+        "A farmer has 4 fields, and each field contains 5 rows of crops. Each row has 6 plants. If each plant produces 7 fruits and each fruit contains 8 seeds, how many seeds does the farmer have in total?",
+        "A group of friends decides to plant a garden together. They divide the garden into 4 sections, and each section has 5 rows of plants. Each row contains 6 plants, and each plant produces 7 flowers. If each flower has 8 petals, how many petals are there in the entire garden?",
+        "A shipment of boxes contains 4 crates. Each crate holds 5 cartons, and each carton contains 6 packets. Each packet has 7 items, and each item weighs 8 grams. What is the total weight of all the items in the shipment in grams?",
+        "A bookstore is arranging a display of books. They stack 4 rows of books on each shelf, and each row contains 5 books. Each book has 6 chapters, and each chapter consists of 7 pages. If each page has 8 paragraphs, how many paragraphs are there in the entire display?",
+        "A farmer plants 4 rows of corn, with 5 corn plants in each row. Each corn plant produces 6 ears of corn. If every ear of corn has 7 rows of kernels and each row has 8 kernels, how many kernels of corn does the farmer harvest in total?"
     ]
 }
-
-
