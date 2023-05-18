@@ -1,0 +1,1017 @@
+{
+    "results_format_(# + # + #)": {
+        "per_question_results": [
+            {
+                "direct_answer": {
+                    "question": "A chef has 81 tablespoons of flour, 13 tablespoons of egg whites, and needs 2 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 81 tablespoons of flour, 13 tablespoons of egg whites, and needs 2 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 96,
+                    "returned": "96",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 28 children, 88 adults, and 34 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 28 children, 88 adults, and 34 pets in their home. How many living beings are in the house in total?",
+                    "answer": 150,
+                    "returned": "150",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 52 offices in the United States, 94 offices in Europe, and 93 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 52 offices in the United States, 94 offices in Europe, and 93 offices in Asia. How many total offices does the company have?",
+                    "answer": 239,
+                    "returned": "239",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 51 math problems, 7 science problems, and 94 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 51 math problems, 7 science problems, and 94 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 152,
+                    "returned": "152",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 24 pots, 32 pans, and 16 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 24 pots, 32 pans, and 16 spatulas. How much cookware does the restaurant have?",
+                    "answer": 72,
+                    "returned": "72",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 5 tablespoons of flour, 33 tablespoons of egg whites, and needs 9 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 5 tablespoons of flour, 33 tablespoons of egg whites, and needs 9 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 47,
+                    "returned": "47",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 55 children, 68 adults, and 47 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 55 children, 68 adults, and 47 pets in their home. How many living beings are in the house in total?",
+                    "answer": 170,
+                    "returned": "170.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 63 offices in the United States, 91 offices in Europe, and 71 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 63 offices in the United States, 91 offices in Europe, and 71 offices in Asia. How many total offices does the company have?",
+                    "answer": 225,
+                    "returned": "225",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 58 math problems, 52 science problems, and 46 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 58 math problems, 52 science problems, and 46 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 156,
+                    "returned": "156",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 55 pots, 44 pans, and 25 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 55 pots, 44 pans, and 25 spatulas. How much cookware does the restaurant have?",
+                    "answer": 124,
+                    "returned": "124",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 77 tablespoons of flour, 56 tablespoons of egg whites, and needs 82 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 77 tablespoons of flour, 56 tablespoons of egg whites, and needs 82 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 215,
+                    "returned": "215",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 31 children, 95 adults, and 77 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 31 children, 95 adults, and 77 pets in their home. How many living beings are in the house in total?",
+                    "answer": 203,
+                    "returned": "203.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 34 offices in the United States, 30 offices in Europe, and 48 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 34 offices in the United States, 30 offices in Europe, and 48 offices in Asia. How many total offices does the company have?",
+                    "answer": 112,
+                    "returned": "112",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 83 math problems, 65 science problems, and 81 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 83 math problems, 65 science problems, and 81 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 229,
+                    "returned": "229",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 45 pots, 3 pans, and 71 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 45 pots, 3 pans, and 71 spatulas. How much cookware does the restaurant have?",
+                    "answer": 119,
+                    "returned": "119",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 71 tablespoons of flour, 20 tablespoons of egg whites, and needs 32 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 71 tablespoons of flour, 20 tablespoons of egg whites, and needs 32 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 123,
+                    "returned": "123",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 94 children, 41 adults, and 1 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 94 children, 41 adults, and 1 pets in their home. How many living beings are in the house in total?",
+                    "answer": 136,
+                    "returned": "136",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 62 offices in the United States, 15 offices in Europe, and 68 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 62 offices in the United States, 15 offices in Europe, and 68 offices in Asia. How many total offices does the company have?",
+                    "answer": 145,
+                    "returned": "145",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 8 math problems, 45 science problems, and 7 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 8 math problems, 45 science problems, and 7 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 60,
+                    "returned": "60",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 21 pots, 22 pans, and 10 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 21 pots, 22 pans, and 10 spatulas. How much cookware does the restaurant have?",
+                    "answer": 53,
+                    "returned": "53",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 72 tablespoons of flour, 77 tablespoons of egg whites, and needs 17 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 72 tablespoons of flour, 77 tablespoons of egg whites, and needs 17 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 166,
+                    "returned": "166",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 81 children, 90 adults, and 89 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 81 children, 90 adults, and 89 pets in their home. How many living beings are in the house in total?",
+                    "answer": 260,
+                    "returned": "260",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 42 offices in the United States, 52 offices in Europe, and 9 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 42 offices in the United States, 52 offices in Europe, and 9 offices in Asia. How many total offices does the company have?",
+                    "answer": 103,
+                    "returned": "103",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 86 math problems, 74 science problems, and 9 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 86 math problems, 74 science problems, and 9 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 169,
+                    "returned": "169",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 91 pots, 11 pans, and 97 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 91 pots, 11 pans, and 97 spatulas. How much cookware does the restaurant have?",
+                    "answer": 199,
+                    "returned": "199",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 17 tablespoons of flour, 14 tablespoons of egg whites, and needs 32 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 17 tablespoons of flour, 14 tablespoons of egg whites, and needs 32 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 63,
+                    "returned": "63",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 66 children, 3 adults, and 52 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 66 children, 3 adults, and 52 pets in their home. How many living beings are in the house in total?",
+                    "answer": 121,
+                    "returned": "121",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 82 offices in the United States, 94 offices in Europe, and 86 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 82 offices in the United States, 94 offices in Europe, and 86 offices in Asia. How many total offices does the company have?",
+                    "answer": 262,
+                    "returned": "262",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 42 math problems, 84 science problems, and 15 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 42 math problems, 84 science problems, and 15 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 141,
+                    "returned": "141",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 17 pots, 73 pans, and 39 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 17 pots, 73 pans, and 39 spatulas. How much cookware does the restaurant have?",
+                    "answer": 129,
+                    "returned": "129",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 59 tablespoons of flour, 17 tablespoons of egg whites, and needs 24 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 59 tablespoons of flour, 17 tablespoons of egg whites, and needs 24 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 100,
+                    "returned": "100",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 28 children, 79 adults, and 49 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 28 children, 79 adults, and 49 pets in their home. How many living beings are in the house in total?",
+                    "answer": 156,
+                    "returned": "156",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 32 offices in the United States, 56 offices in Europe, and 84 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 32 offices in the United States, 56 offices in Europe, and 84 offices in Asia. How many total offices does the company have?",
+                    "answer": 172,
+                    "returned": "172",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 39 math problems, 23 science problems, and 27 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 39 math problems, 23 science problems, and 27 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 89,
+                    "returned": "89",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 59 pots, 7 pans, and 14 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 59 pots, 7 pans, and 14 spatulas. How much cookware does the restaurant have?",
+                    "answer": 80,
+                    "returned": "80",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 65 tablespoons of flour, 3 tablespoons of egg whites, and needs 54 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 65 tablespoons of flour, 3 tablespoons of egg whites, and needs 54 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 122,
+                    "returned": "122",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 64 children, 73 adults, and 29 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 64 children, 73 adults, and 29 pets in their home. How many living beings are in the house in total?",
+                    "answer": 166,
+                    "returned": "166",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 1 offices in the United States, 30 offices in Europe, and 93 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 1 offices in the United States, 30 offices in Europe, and 93 offices in Asia. How many total offices does the company have?",
+                    "answer": 124,
+                    "returned": "124",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 39 math problems, 8 science problems, and 32 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 39 math problems, 8 science problems, and 32 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 79,
+                    "returned": "79",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 81 pots, 60 pans, and 29 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 81 pots, 60 pans, and 29 spatulas. How much cookware does the restaurant have?",
+                    "answer": 170,
+                    "returned": "170",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 65 tablespoons of flour, 31 tablespoons of egg whites, and needs 15 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 65 tablespoons of flour, 31 tablespoons of egg whites, and needs 15 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 111,
+                    "returned": "111",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 7 children, 8 adults, and 10 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 7 children, 8 adults, and 10 pets in their home. How many living beings are in the house in total?",
+                    "answer": 25,
+                    "returned": "25",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 62 offices in the United States, 67 offices in Europe, and 78 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 62 offices in the United States, 67 offices in Europe, and 78 offices in Asia. How many total offices does the company have?",
+                    "answer": 207,
+                    "returned": "207",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 94 math problems, 38 science problems, and 70 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 94 math problems, 38 science problems, and 70 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 202,
+                    "returned": "202",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 29 pots, 4 pans, and 90 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 29 pots, 4 pans, and 90 spatulas. How much cookware does the restaurant have?",
+                    "answer": 123,
+                    "returned": "123",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 0 tablespoons of flour, 43 tablespoons of egg whites, and needs 25 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 0 tablespoons of flour, 43 tablespoons of egg whites, and needs 25 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 68,
+                    "returned": "68",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 65 children, 51 adults, and 42 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 65 children, 51 adults, and 42 pets in their home. How many living beings are in the house in total?",
+                    "answer": 158,
+                    "returned": "158",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 40 offices in the United States, 12 offices in Europe, and 14 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 40 offices in the United States, 12 offices in Europe, and 14 offices in Asia. How many total offices does the company have?",
+                    "answer": 66,
+                    "returned": "66",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 52 math problems, 64 science problems, and 13 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 52 math problems, 64 science problems, and 13 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 129,
+                    "returned": "129",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 59 pots, 83 pans, and 55 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 59 pots, 83 pans, and 55 spatulas. How much cookware does the restaurant have?",
+                    "answer": 197,
+                    "returned": "197",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 51 tablespoons of flour, 90 tablespoons of egg whites, and needs 57 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 51 tablespoons of flour, 90 tablespoons of egg whites, and needs 57 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 198,
+                    "returned": "198",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 81 children, 56 adults, and 72 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 81 children, 56 adults, and 72 pets in their home. How many living beings are in the house in total?",
+                    "answer": 209,
+                    "returned": "209",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 11 offices in the United States, 20 offices in Europe, and 75 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 11 offices in the United States, 20 offices in Europe, and 75 offices in Asia. How many total offices does the company have?",
+                    "answer": 106,
+                    "returned": "106",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 92 math problems, 42 science problems, and 18 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 92 math problems, 42 science problems, and 18 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 152,
+                    "returned": "152",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 5 pots, 45 pans, and 98 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 5 pots, 45 pans, and 98 spatulas. How much cookware does the restaurant have?",
+                    "answer": 148,
+                    "returned": "148",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 28 tablespoons of flour, 80 tablespoons of egg whites, and needs 79 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 28 tablespoons of flour, 80 tablespoons of egg whites, and needs 79 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 187,
+                    "returned": "187",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 20 children, 32 adults, and 87 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 20 children, 32 adults, and 87 pets in their home. How many living beings are in the house in total?",
+                    "answer": 139,
+                    "returned": "139",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 32 offices in the United States, 51 offices in Europe, and 27 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 32 offices in the United States, 51 offices in Europe, and 27 offices in Asia. How many total offices does the company have?",
+                    "answer": 110,
+                    "returned": "110",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 42 math problems, 57 science problems, and 49 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 42 math problems, 57 science problems, and 49 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 148,
+                    "returned": "148",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 46 pots, 93 pans, and 5 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 46 pots, 93 pans, and 5 spatulas. How much cookware does the restaurant have?",
+                    "answer": 144,
+                    "returned": "144",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 55 tablespoons of flour, 68 tablespoons of egg whites, and needs 63 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 55 tablespoons of flour, 68 tablespoons of egg whites, and needs 63 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 186,
+                    "returned": "186",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 68 children, 44 adults, and 84 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 68 children, 44 adults, and 84 pets in their home. How many living beings are in the house in total?",
+                    "answer": 196,
+                    "returned": "196",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 33 offices in the United States, 27 offices in Europe, and 94 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 33 offices in the United States, 27 offices in Europe, and 94 offices in Asia. How many total offices does the company have?",
+                    "answer": 154,
+                    "returned": "154",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 82 math problems, 9 science problems, and 92 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 82 math problems, 9 science problems, and 92 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 183,
+                    "returned": "183",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 26 pots, 33 pans, and 10 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 26 pots, 33 pans, and 10 spatulas. How much cookware does the restaurant have?",
+                    "answer": 69,
+                    "returned": "69",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 53 tablespoons of flour, 33 tablespoons of egg whites, and needs 17 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 53 tablespoons of flour, 33 tablespoons of egg whites, and needs 17 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 103,
+                    "returned": "103",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 93 children, 81 adults, and 57 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 93 children, 81 adults, and 57 pets in their home. How many living beings are in the house in total?",
+                    "answer": 231,
+                    "returned": "231",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 97 offices in the United States, 16 offices in Europe, and 55 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 97 offices in the United States, 16 offices in Europe, and 55 offices in Asia. How many total offices does the company have?",
+                    "answer": 168,
+                    "returned": "168",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 5 math problems, 5 science problems, and 43 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 5 math problems, 5 science problems, and 43 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 53,
+                    "returned": "53",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 78 pots, 11 pans, and 74 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 78 pots, 11 pans, and 74 spatulas. How much cookware does the restaurant have?",
+                    "answer": 163,
+                    "returned": "163",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 9 tablespoons of flour, 52 tablespoons of egg whites, and needs 5 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 9 tablespoons of flour, 52 tablespoons of egg whites, and needs 5 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 66,
+                    "returned": "66",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 97 children, 89 adults, and 67 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 97 children, 89 adults, and 67 pets in their home. How many living beings are in the house in total?",
+                    "answer": 253,
+                    "returned": "253",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 52 offices in the United States, 38 offices in Europe, and 70 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 52 offices in the United States, 38 offices in Europe, and 70 offices in Asia. How many total offices does the company have?",
+                    "answer": 160,
+                    "returned": "160",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 2 math problems, 11 science problems, and 79 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 2 math problems, 11 science problems, and 79 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 92,
+                    "returned": "92",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 13 pots, 83 pans, and 48 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 13 pots, 83 pans, and 48 spatulas. How much cookware does the restaurant have?",
+                    "answer": 144,
+                    "returned": "144",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 29 tablespoons of flour, 84 tablespoons of egg whites, and needs 57 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 29 tablespoons of flour, 84 tablespoons of egg whites, and needs 57 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 170,
+                    "returned": "170",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 57 children, 41 adults, and 55 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 57 children, 41 adults, and 55 pets in their home. How many living beings are in the house in total?",
+                    "answer": 153,
+                    "returned": "153",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 0 offices in the United States, 7 offices in Europe, and 66 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 0 offices in the United States, 7 offices in Europe, and 66 offices in Asia. How many total offices does the company have?",
+                    "answer": 73,
+                    "returned": "73",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 11 math problems, 88 science problems, and 54 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 11 math problems, 88 science problems, and 54 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 153,
+                    "returned": "153",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 14 pots, 78 pans, and 97 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 14 pots, 78 pans, and 97 spatulas. How much cookware does the restaurant have?",
+                    "answer": 189,
+                    "returned": "189",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 83 tablespoons of flour, 85 tablespoons of egg whites, and needs 12 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 83 tablespoons of flour, 85 tablespoons of egg whites, and needs 12 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 180,
+                    "returned": "180",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 37 children, 14 adults, and 60 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 37 children, 14 adults, and 60 pets in their home. How many living beings are in the house in total?",
+                    "answer": 111,
+                    "returned": "111",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 60 offices in the United States, 37 offices in Europe, and 98 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 60 offices in the United States, 37 offices in Europe, and 98 offices in Asia. How many total offices does the company have?",
+                    "answer": 195,
+                    "returned": "195",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 30 math problems, 23 science problems, and 15 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 30 math problems, 23 science problems, and 15 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 68,
+                    "returned": "68",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 1 pots, 22 pans, and 46 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 1 pots, 22 pans, and 46 spatulas. How much cookware does the restaurant have?",
+                    "answer": 69,
+                    "returned": "69",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 66 tablespoons of flour, 84 tablespoons of egg whites, and needs 15 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 66 tablespoons of flour, 84 tablespoons of egg whites, and needs 15 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 165,
+                    "returned": "165",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 27 children, 89 adults, and 75 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 27 children, 89 adults, and 75 pets in their home. How many living beings are in the house in total?",
+                    "answer": 191,
+                    "returned": "191",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 63 offices in the United States, 58 offices in Europe, and 53 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 63 offices in the United States, 58 offices in Europe, and 53 offices in Asia. How many total offices does the company have?",
+                    "answer": 174,
+                    "returned": "174",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 11 math problems, 52 science problems, and 93 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 11 math problems, 52 science problems, and 93 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 156,
+                    "returned": "156",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 28 pots, 56 pans, and 94 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 28 pots, 56 pans, and 94 spatulas. How much cookware does the restaurant have?",
+                    "answer": 178,
+                    "returned": "178",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 10 tablespoons of flour, 84 tablespoons of egg whites, and needs 42 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 10 tablespoons of flour, 84 tablespoons of egg whites, and needs 42 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 136,
+                    "returned": "136",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 27 children, 58 adults, and 51 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 27 children, 58 adults, and 51 pets in their home. How many living beings are in the house in total?",
+                    "answer": 136,
+                    "returned": "136",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 24 offices in the United States, 98 offices in Europe, and 36 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 24 offices in the United States, 98 offices in Europe, and 36 offices in Asia. How many total offices does the company have?",
+                    "answer": 158,
+                    "returned": "158",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 35 math problems, 36 science problems, and 34 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 35 math problems, 36 science problems, and 34 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 105,
+                    "returned": "105",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 47 pots, 83 pans, and 19 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 47 pots, 83 pans, and 19 spatulas. How much cookware does the restaurant have?",
+                    "answer": 149,
+                    "returned": "149",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A chef has 19 tablespoons of flour, 16 tablespoons of egg whites, and needs 28 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A chef has 19 tablespoons of flour, 16 tablespoons of egg whites, and needs 28 tablespoons of butter to make a cake. How many total tablespoons are needed?",
+                    "answer": 63,
+                    "returned": "63",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A family has 26 children, 72 adults, and 78 pets in their home. How many living beings are in the house in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A family has 26 children, 72 adults, and 78 pets in their home. How many living beings are in the house in total?",
+                    "answer": 176,
+                    "returned": "176",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A company has 78 offices in the United States, 81 offices in Europe, and 86 offices in Asia. How many total offices does the company have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A company has 78 offices in the United States, 81 offices in Europe, and 86 offices in Asia. How many total offices does the company have?",
+                    "answer": 245,
+                    "returned": "245",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A student has 63 math problems, 24 science problems, and 41 history problems to solve for homework. How many total problems must the student complete?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A student has 63 math problems, 24 science problems, and 41 history problems to solve for homework. How many total problems must the student complete?",
+                    "answer": 128,
+                    "returned": "128",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A restaurant has 84 pots, 56 pans, and 52 spatulas. How much cookware does the restaurant have?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A restaurant has 84 pots, 56 pans, and 52 spatulas. How much cookware does the restaurant have?",
+                    "answer": 192,
+                    "returned": "192",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            }
+        ],
+        "summary": {
+            "direct_answer_correct": 100,
+            "direct_answer_CEM_correct": 100
+        }
+    },
+    "results_format_(# * # * #)": {
+        "per_question_results": [],
+        "summary": {
+            "direct_answer_correct": 0,
+            "direct_answer_CEM_correct": 0
+        }
+    }
+}

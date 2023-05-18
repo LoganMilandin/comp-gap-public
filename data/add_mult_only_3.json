@@ -1,0 +1,18 @@
+{
+    "# + # + #": [
+        "A chef has # tablespoons of flour, ## tablespoons of egg whites, and needs ### tablespoons of butter to make a cake. How many total tablespoons are needed?",
+        "A family has # children, ## adults, and ### pets in their home. How many living beings are in the house in total?",
+        "A company has # offices in the United States, ## offices in Europe, and ### offices in Asia. How many total offices does the company have?",
+        "A student has # math problems, ## science problems, and ### history problems to solve for homework. How many total problems must the student complete?",
+        "A restaurant has # pots, ## pans, and ### spatulas. How much cookware does the restaurant have?"
+    ],
+    "# * # * #": [
+        "A factory produces # boxes per hour, and each box contains ## toys. If the factory operates for ### hours, how many toys are produced in total?",
+        "A car travels # miles per gallon and the gas tank holds ## gallons. How many miles can it cover over ### fill-ups?",
+        "A team of workers can complete a project in # days working ## hours per day. How many hours would it take to finish ### projects?",
+        "A gardener needs to plant # rows of trees with ## trees in each row. If there are ### rows of empty space, how many trees are needed in total to plant the entire garden?",
+        "A baker has # types of cakes with ## different flavors each. If the baker wants to make a display with ### of each combination, how many total cakes will be in the display?"
+    ]
+}
+
+
