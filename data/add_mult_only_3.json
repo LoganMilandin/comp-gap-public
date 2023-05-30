@@ -1,4 +1,18 @@
 {
+    "# + #": [
+        "Emma had # apples, and her friend gave her ## more. How many apples does Emma have now?",
+        "John saved $# from his allowance, and he earned $## by doing chores. How much money does John have now?",
+        "A farmer collected # eggs from one hen and ## eggs from another. How many eggs did the farmer collect in total?",
+        "In a game, Sarah scored # points in the first round and ## points in the second round. How many points did Sarah score in total?",
+        "In a game, you earn # points for completing a level and an additional ## points for finding a hidden treasure. How many points did you earn in total?"
+    ],
+    "# * #": [
+        "Sarah bought # packs of pens, with each pack containing ## pens. How many pens did Sarah buy in total?",
+        "A farmer has # baskets, and each basket contains ## ripe apples. How many apples does the farmer have in total?",
+        "Jenny needs to make # batches of cookies, and each batch requires ## cups of flour. How many cups of flour does Jenny need in total?",
+        "There are # boxes, and each box contains ## toy cars. How many toy cars are there in total?",
+        "A bookstore received # shipments of books, and each shipment had ## boxes. How many boxes of books did the bookstore receive in total?"
+    ],
     "# + # + #": [
         "A chef has # tablespoons of flour, ## tablespoons of egg whites, and needs ### tablespoons of butter to make a cake. How many total tablespoons are needed?",
         "A family has # children, ## adults, and ### pets in their home. How many living beings are in the house in total?",
@@ -10,7 +24,7 @@
         "A factory produces # boxes per hour, and each box contains ## toys. If the factory operates for ### hours, how many toys are produced in total?",
         "A car travels # miles per gallon and the gas tank holds ## gallons. How many miles can it cover over ### fill-ups?",
         "A team of workers can complete a project in # days working ## hours per day. How many hours would it take to finish ### projects?",
-        "A gardener needs to plant # rows of trees with ## trees in each row. If there are ### rows of empty space, how many trees are needed in total to plant the entire garden?",
+        "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains # rows of cookies, with ## cookies in each row. Lisa wants to assemble the boxes in stacks, with ### boxes in each stack. How many cookies will be in a stack of boxes?",
         "A baker has # types of cakes with ## different flavors each. If the baker wants to make a display with ### of each combination, how many total cakes will be in the display?"
     ],
     "# + # + # + #": [

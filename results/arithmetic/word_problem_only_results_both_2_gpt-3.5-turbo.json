@@ -1,0 +1,2018 @@
+{
+    "results_format_(# * #)": {
+        "per_question_results": [
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 1 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 1 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
+                    "answer": 5,
+                    "returned": "5",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 14 baskets, and each basket contains 13 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 13 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 182,
+                    "returned": "182",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 7 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 7 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 7 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 7 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
+                    "answer": 77,
+                    "returned": "77",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 0 shipments of books, and each shipment had 18 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 0 shipments of books, and each shipment had 18 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 9 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 9 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
+                    "answer": 162,
+                    "returned": "162",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 4 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 4 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 68,
+                    "returned": "68",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 17 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 17 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
+                    "answer": 85,
+                    "returned": "85",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 17 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 17 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 170,
+                    "returned": "170",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 13 packs of pens, with each pack containing 1 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 13 packs of pens, with each pack containing 1 pens. How many pens did Sarah buy in total?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 3 baskets, and each basket contains 14 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 3 baskets, and each basket contains 14 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 42,
+                    "returned": "42",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 9,
+                    "returned": "9",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 18 boxes, and each box contains 18 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 18 boxes, and each box contains 18 toy cars. How many toy cars are there in total?",
+                    "answer": 324,
+                    "returned": "324",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 2 shipments of books, and each shipment had 16 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 2 shipments of books, and each shipment had 16 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 32,
+                    "returned": "32",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "answer": 75,
+                    "returned": "75",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 2 baskets, and each basket contains 16 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 2 baskets, and each basket contains 16 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 32,
+                    "returned": "32",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 13 batches of cookies, and each batch requires 15 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 13 batches of cookies, and each batch requires 15 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 195,
+                    "returned": "195",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 11 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 11 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
+                    "answer": 55,
+                    "returned": "55",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 10 shipments of books, and each shipment had 7 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 10 shipments of books, and each shipment had 7 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 70,
+                    "returned": "70",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 7 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 7 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
+                    "answer": 14,
+                    "returned": "14",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 4 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 4 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 32,
+                    "returned": "32",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 19 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 19 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 57,
+                    "returned": "57",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 9 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 9 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 90,
+                    "returned": "90",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 18 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 18 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
+                    "answer": 180,
+                    "returned": "180",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 19 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 19 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 209,
+                    "returned": "209",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 11 batches of cookies, and each batch requires 5 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 11 batches of cookies, and each batch requires 5 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 55,
+                    "returned": "55",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 18 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 18 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
+                    "answer": 198,
+                    "returned": "198",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 114,
+                    "returned": "114",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 4 packs of pens, with each pack containing 17 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 4 packs of pens, with each pack containing 17 pens. How many pens did Sarah buy in total?",
+                    "answer": 68,
+                    "returned": "68",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 2 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 2 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 22,
+                    "returned": "22.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 17 batches of cookies, and each batch requires 11 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 17 batches of cookies, and each batch requires 11 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 187,
+                    "returned": "187",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 8 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 8 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "answer": 56,
+                    "returned": "56",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 6 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 6 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 84,
+                    "returned": "84",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 6 packs of pens, with each pack containing 16 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 16 pens. How many pens did Sarah buy in total?",
+                    "answer": 96,
+                    "returned": "96",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 18 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 18 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 324,
+                    "returned": "324",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 4 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 4 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 24,
+                    "returned": "24",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 1 boxes, and each box contains 16 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 1 boxes, and each box contains 16 toy cars. How many toy cars are there in total?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 3 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 3 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 42,
+                    "returned": "42",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 0 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 0 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 3 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 3 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 24,
+                    "returned": "24",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 5 batches of cookies, and each batch requires 8 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 5 batches of cookies, and each batch requires 8 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 40,
+                    "returned": "40",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 192,
+                    "returned": "192",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 5 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 5 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 5,
+                    "returned": "5",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "answer": 75,
+                    "returned": "75",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 9 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 9 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 153,
+                    "returned": "153",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 1 batches of cookies, and each batch requires 1 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 1 batches of cookies, and each batch requires 1 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 1,
+                    "returned": "1",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 192,
+                    "returned": "192",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 16 shipments of books, and each shipment had 8 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 16 shipments of books, and each shipment had 8 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 128,
+                    "returned": "128",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 15 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 15 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
+                    "answer": 270,
+                    "returned": "270",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 14 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 252,
+                    "returned": "252",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 19 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 19 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 133,
+                    "returned": "133",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 1 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 1 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 12,
+                    "returned": "12",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 4 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 24,
+                    "returned": "24",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 3 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 3 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
+                    "answer": 57,
+                    "returned": "57",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 9 baskets, and each basket contains 0 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 9 baskets, and each basket contains 0 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 7 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 7 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 28,
+                    "returned": "28",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 0 boxes, and each box contains 2 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 2 toy cars. How many toy cars are there in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 4 shipments of books, and each shipment had 4 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 4 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 11 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 11 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
+                    "answer": 99,
+                    "returned": "99",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 1 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 1 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 9 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 9 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 54,
+                    "returned": "54",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 14 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 14 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 168,
+                    "returned": "168",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 13 shipments of books, and each shipment had 9 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 13 shipments of books, and each shipment had 9 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 117,
+                    "returned": "117",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 6 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
+                    "answer": 54,
+                    "returned": "54",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 8 baskets, and each basket contains 1 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 8 baskets, and each basket contains 1 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 8,
+                    "returned": "8",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 0 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 0 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 114,
+                    "returned": "114",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 12 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 12 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
+                    "answer": 180,
+                    "returned": "180",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 18 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 18 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 342,
+                    "returned": "342",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 6 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 6 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 17 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 17 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 204,
+                    "returned": "204",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 16 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 16 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 96,
+                    "returned": "96",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 15 packs of pens, with each pack containing 13 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 15 packs of pens, with each pack containing 13 pens. How many pens did Sarah buy in total?",
+                    "answer": 195,
+                    "returned": "195",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 8 baskets, and each basket contains 2 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 8 baskets, and each basket contains 2 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 18 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 18 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 126,
+                    "returned": "126",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 12 boxes, and each box contains 0 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 12 boxes, and each box contains 0 toy cars. How many toy cars are there in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 1 shipments of books, and each shipment had 5 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 1 shipments of books, and each shipment had 5 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 5,
+                    "returned": "5",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 6 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
+                    "answer": 30,
+                    "returned": "30",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 14 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 238,
+                    "returned": "238",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 6 batches of cookies, and each batch requires 19 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 6 batches of cookies, and each batch requires 19 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 114,
+                    "returned": "114",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 14 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 14 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
+                    "answer": 126,
+                    "returned": "126",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 2 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 2 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 2,
+                    "returned": "2",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 14 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 14 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
+                    "answer": 140,
+                    "returned": "140",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 10 baskets, and each basket contains 15 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 10 baskets, and each basket contains 15 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 150,
+                    "returned": "150",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 12 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 12 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 36,
+                    "returned": "36",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 7 boxes, and each box contains 15 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 7 boxes, and each box contains 15 toy cars. How many toy cars are there in total?",
+                    "answer": 105,
+                    "returned": "105",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 4 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 14 packs of pens, with each pack containing 7 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 14 packs of pens, with each pack containing 7 pens. How many pens did Sarah buy in total?",
+                    "answer": 98,
+                    "returned": "98",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 6 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 6 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 102,
+                    "returned": "102",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 0 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 0 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 0,
+                    "returned": "0",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 9 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 9 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
+                    "answer": 108,
+                    "returned": "108",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 13 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 13 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Sarah bought 1 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 1 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
+                    "answer": 19,
+                    "returned": "19",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer has 7 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 7 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
+                    "answer": 133,
+                    "returned": "133",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Jenny needs to make 2 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 2 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
+                    "answer": 32,
+                    "returned": "32",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "There are 11 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 11 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
+                    "answer": 99,
+                    "returned": "99",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A bookstore received 7 shipments of books, and each shipment had 19 boxes. How many boxes of books did the bookstore receive in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 7 shipments of books, and each shipment had 19 boxes. How many boxes of books did the bookstore receive in total?",
+                    "answer": 133,
+                    "returned": "133",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            }
+        ],
+        "summary": {
+            "direct_answer_correct": 100,
+            "direct_answer_CEM_correct": 100
+        }
+    },
+    "results_format_(# + #)": {
+        "per_question_results": [
+            {
+                "direct_answer": {
+                    "question": "Emma had 6 apples, and her friend gave her 10 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 6 apples, and her friend gave her 10 more. How many apples does Emma have now?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $13 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $13 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 19 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 19 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 29,
+                    "returned": "29",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 5 points in the first round and 14 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 5 points in the first round and 14 points in the second round. How many points did Sarah score in total?",
+                    "answer": 19,
+                    "returned": "19",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 17 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 17 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 36,
+                    "returned": "36",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 18 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 18 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $17 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $17 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "answer": 28,
+                    "returned": "28",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 11 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 11 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 13 points in the first round and 1 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 13 points in the first round and 1 points in the second round. How many points did Sarah score in total?",
+                    "answer": 14,
+                    "returned": "14",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 0 points for completing a level and an additional 4 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 0 points for completing a level and an additional 4 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 1 apples, and her friend gave her 12 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 1 apples, and her friend gave her 12 more. How many apples does Emma have now?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $17 from his allowance, and he earned $16 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $17 from his allowance, and he earned $16 by doing chores. How much money does John have now?",
+                    "answer": 33,
+                    "returned": "33",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 7 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 7 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 18 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 18 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "answer": 30,
+                    "returned": "30",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 7 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 7 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 26,
+                    "returned": "26",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 12 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 12 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "answer": 15,
+                    "returned": "15",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $16 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $16 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "answer": 30,
+                    "returned": "30",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 15 eggs from one hen and 9 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 15 eggs from one hen and 9 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 24,
+                    "returned": "24.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 12 points in the first round and 17 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 12 points in the first round and 17 points in the second round. How many points did Sarah score in total?",
+                    "answer": 29,
+                    "returned": "29",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 9 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 9 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 11,
+                    "returned": "11",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 19 apples, and her friend gave her 13 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 19 apples, and her friend gave her 13 more. How many apples does Emma have now?",
+                    "answer": 32,
+                    "returned": "32",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $12 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $12 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "answer": 26,
+                    "returned": "26",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 2 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 2 eggs from one hen and 10 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 12,
+                    "returned": "12",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 8 points in the first round and 10 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 8 points in the first round and 10 points in the second round. How many points did Sarah score in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 4 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 4 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 5,
+                    "returned": "4",
+                    "is_right": false,
+                    "is_right_CEM": false
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 6 apples, and her friend gave her 13 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 6 apples, and her friend gave her 13 more. How many apples does Emma have now?",
+                    "answer": 19,
+                    "returned": "19",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $7 from his allowance, and he earned $6 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $7 from his allowance, and he earned $6 by doing chores. How much money does John have now?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 2 eggs from one hen and 16 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 2 eggs from one hen and 16 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 3 points in the first round and 4 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 3 points in the first round and 4 points in the second round. How many points did Sarah score in total?",
+                    "answer": 7,
+                    "returned": "7",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 8 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 8 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 27,
+                    "returned": "27",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 1 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 1 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "answer": 3,
+                    "returned": "3",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $14 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $14 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 10 eggs from one hen and 7 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 10 eggs from one hen and 7 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 17,
+                    "returned": "17",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 0 points in the first round and 4 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 0 points in the first round and 4 points in the second round. How many points did Sarah score in total?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 0 points for completing a level and an additional 10 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 0 points for completing a level and an additional 10 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 10,
+                    "returned": "10",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 18 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 18 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "answer": 20,
+                    "returned": "20",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $10 from his allowance, and he earned $7 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $10 from his allowance, and he earned $7 by doing chores. How much money does John have now?",
+                    "answer": 17,
+                    "returned": "$17",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 15 eggs from one hen and 3 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 15 eggs from one hen and 3 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 11 points in the first round and 3 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 11 points in the first round and 3 points in the second round. How many points did Sarah score in total?",
+                    "answer": 14,
+                    "returned": "14",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 3 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 3 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 4,
+                    "returned": "3",
+                    "is_right": false,
+                    "is_right_CEM": false
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 4 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 4 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $13 from his allowance, and he earned $15 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $13 from his allowance, and he earned $15 by doing chores. How much money does John have now?",
+                    "answer": 28,
+                    "returned": "28",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 19 eggs from one hen and 9 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 19 eggs from one hen and 9 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 28,
+                    "returned": "28",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 2 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 2 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "answer": 14,
+                    "returned": "14",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 12 points for completing a level and an additional 17 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 12 points for completing a level and an additional 17 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 29,
+                    "returned": "29",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 3 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 3 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "answer": 12,
+                    "returned": "12",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $7 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $7 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "answer": 15,
+                    "returned": "15",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 2 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 2 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 8 points in the first round and 2 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 8 points in the first round and 2 points in the second round. How many points did Sarah score in total?",
+                    "answer": 10,
+                    "returned": "10",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 16 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 16 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 23,
+                    "returned": "23",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 6 apples, and her friend gave her 16 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 6 apples, and her friend gave her 16 more. How many apples does Emma have now?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $10 from his allowance, and he earned $15 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $10 from his allowance, and he earned $15 by doing chores. How much money does John have now?",
+                    "answer": 25,
+                    "returned": "25",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 0 eggs from one hen and 19 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 0 eggs from one hen and 19 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 19,
+                    "returned": "19.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 13 points in the first round and 7 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 13 points in the first round and 7 points in the second round. How many points did Sarah score in total?",
+                    "answer": 20,
+                    "returned": "20",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 15 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 15 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 17,
+                    "returned": "17",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 10 apples, and her friend gave her 10 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 10 apples, and her friend gave her 10 more. How many apples does Emma have now?",
+                    "answer": 20,
+                    "returned": "20",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $3 from his allowance, and he earned $1 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $3 from his allowance, and he earned $1 by doing chores. How much money does John have now?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 0 eggs from one hen and 2 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 0 eggs from one hen and 2 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 2,
+                    "returned": "2",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 17 points in the first round and 16 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 17 points in the first round and 16 points in the second round. How many points did Sarah score in total?",
+                    "answer": 33,
+                    "returned": "33",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 8 points for completing a level and an additional 4 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 8 points for completing a level and an additional 4 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 12,
+                    "returned": "12",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 5 apples, and her friend gave her 11 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 5 apples, and her friend gave her 11 more. How many apples does Emma have now?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $9 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $9 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "answer": 20,
+                    "returned": "20",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 9 eggs from one hen and 0 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 9 eggs from one hen and 0 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 9,
+                    "returned": "9",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 0 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 0 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "answer": 12,
+                    "returned": "12.",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 3 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 3 points for completing a level and an additional 19 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 10 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 10 apples, and her friend gave her 3 more. How many apples does Emma have now?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $8 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $8 from his allowance, and he earned $8 by doing chores. How much money does John have now?",
+                    "answer": 16,
+                    "returned": "$16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 7 eggs from one hen and 17 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 7 eggs from one hen and 17 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 24,
+                    "returned": "24",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 3 points in the first round and 19 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 3 points in the first round and 19 points in the second round. How many points did Sarah score in total?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 19 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 19 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 21,
+                    "returned": "21",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 18 apples, and her friend gave her 4 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 18 apples, and her friend gave her 4 more. How many apples does Emma have now?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $13 from his allowance, and he earned $9 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $13 from his allowance, and he earned $9 by doing chores. How much money does John have now?",
+                    "answer": 22,
+                    "returned": "$22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 5 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 5 eggs from one hen and 11 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 18 points in the first round and 8 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 18 points in the first round and 8 points in the second round. How many points did Sarah score in total?",
+                    "answer": 26,
+                    "returned": "26",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 13 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 13 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 20,
+                    "returned": "20",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 1 apples, and her friend gave her 5 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 1 apples, and her friend gave her 5 more. How many apples does Emma have now?",
+                    "answer": 6,
+                    "returned": "6",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $19 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $19 from his allowance, and he earned $11 by doing chores. How much money does John have now?",
+                    "answer": 30,
+                    "returned": "30",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 13 eggs from one hen and 18 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 13 eggs from one hen and 18 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 31,
+                    "returned": "31",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 5 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 5 points in the first round and 12 points in the second round. How many points did Sarah score in total?",
+                    "answer": 17,
+                    "returned": "17",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 13 points for completing a level and an additional 5 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 13 points for completing a level and an additional 5 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 6 apples, and her friend gave her 16 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 6 apples, and her friend gave her 16 more. How many apples does Emma have now?",
+                    "answer": 22,
+                    "returned": "22",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $1 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $1 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "answer": 15,
+                    "returned": "15",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 16 eggs from one hen and 19 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 16 eggs from one hen and 19 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 35,
+                    "returned": "35",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 9 points in the first round and 10 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 9 points in the first round and 10 points in the second round. How many points did Sarah score in total?",
+                    "answer": 19,
+                    "returned": "19",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 8 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 8 points for completing a level and an additional 1 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 9,
+                    "returned": "9",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 1 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 1 apples, and her friend gave her 2 more. How many apples does Emma have now?",
+                    "answer": 3,
+                    "returned": "3",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $2 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $2 from his allowance, and he earned $14 by doing chores. How much money does John have now?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 2 eggs from one hen and 14 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 2 eggs from one hen and 14 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 16,
+                    "returned": "16",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 19 points in the first round and 6 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 19 points in the first round and 6 points in the second round. How many points did Sarah score in total?",
+                    "answer": 25,
+                    "returned": "25",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 16 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 16 points for completing a level and an additional 7 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 23,
+                    "returned": "23",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 13 apples, and her friend gave her 18 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 13 apples, and her friend gave her 18 more. How many apples does Emma have now?",
+                    "answer": 31,
+                    "returned": "31",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $4 from his allowance, and he earned $0 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $4 from his allowance, and he earned $0 by doing chores. How much money does John have now?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 2 eggs from one hen and 2 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 2 eggs from one hen and 2 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 4,
+                    "returned": "4",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 3 points in the first round and 2 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 3 points in the first round and 2 points in the second round. How many points did Sarah score in total?",
+                    "answer": 5,
+                    "returned": "5",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 5 points for completing a level and an additional 10 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 5 points for completing a level and an additional 10 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 15,
+                    "returned": "15",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "Emma had 9 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Emma had 9 apples, and her friend gave her 9 more. How many apples does Emma have now?",
+                    "answer": 18,
+                    "returned": "18",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "John saved $12 from his allowance, and he earned $1 by doing chores. How much money does John have now?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  John saved $12 from his allowance, and he earned $1 by doing chores. How much money does John have now?",
+                    "answer": 13,
+                    "returned": "13",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "A farmer collected 19 eggs from one hen and 4 eggs from another. How many eggs did the farmer collect in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer collected 19 eggs from one hen and 4 eggs from another. How many eggs did the farmer collect in total?",
+                    "answer": 23,
+                    "returned": "23",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, Sarah scored 18 points in the first round and 19 points in the second round. How many points did Sarah score in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, Sarah scored 18 points in the first round and 19 points in the second round. How many points did Sarah score in total?",
+                    "answer": 37,
+                    "returned": "37",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            },
+            {
+                "direct_answer": {
+                    "question": "In a game, you earn 1 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  In a game, you earn 1 points for completing a level and an additional 2 points for finding a hidden treasure. How many points did you earn in total?",
+                    "answer": 3,
+                    "returned": "3",
+                    "is_right": true,
+                    "is_right_CEM": true
+                }
+            }
+        ],
+        "summary": {
+            "direct_answer_correct": 98,
+            "direct_answer_CEM_correct": 98
+        }
+    }
+}

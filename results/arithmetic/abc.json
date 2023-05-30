@@ -1,1012 +1,4 @@
 {
-    "results_format_(# * #)": {
-        "per_question_results": [
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 1 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 1 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
-                    "answer": 5,
-                    "returned": "5",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 14 baskets, and each basket contains 13 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 13 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 182,
-                    "returned": "182",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 7 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 7 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 21,
-                    "returned": "21",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 7 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 7 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
-                    "answer": 77,
-                    "returned": "77",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 0 shipments of books, and each shipment had 18 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 0 shipments of books, and each shipment had 18 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 9 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 9 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
-                    "answer": 162,
-                    "returned": "162",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 4 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 4 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 68,
-                    "returned": "68",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 21,
-                    "returned": "21",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 17 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 17 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
-                    "answer": 85,
-                    "returned": "85",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 17 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 17 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 170,
-                    "returned": "170",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 13 packs of pens, with each pack containing 1 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 13 packs of pens, with each pack containing 1 pens. How many pens did Sarah buy in total?",
-                    "answer": 13,
-                    "returned": "13",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 3 baskets, and each basket contains 14 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 3 baskets, and each basket contains 14 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 42,
-                    "returned": "42",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 9,
-                    "returned": "9",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 18 boxes, and each box contains 18 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 18 boxes, and each box contains 18 toy cars. How many toy cars are there in total?",
-                    "answer": 324,
-                    "returned": "324",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 2 shipments of books, and each shipment had 16 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 2 shipments of books, and each shipment had 16 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 32,
-                    "returned": "32",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "answer": 75,
-                    "returned": "75",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 2 baskets, and each basket contains 16 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 2 baskets, and each basket contains 16 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 32,
-                    "returned": "32",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 13 batches of cookies, and each batch requires 15 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 13 batches of cookies, and each batch requires 15 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 195,
-                    "returned": "195",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 11 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 11 boxes, and each box contains 5 toy cars. How many toy cars are there in total?",
-                    "answer": 55,
-                    "returned": "55",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 10 shipments of books, and each shipment had 7 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 10 shipments of books, and each shipment had 7 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 70,
-                    "returned": "70",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 7 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 7 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
-                    "answer": 14,
-                    "returned": "14",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 4 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 4 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 32,
-                    "returned": "32",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 19 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 19 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 57,
-                    "returned": "57",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 9 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 9 shipments of books, and each shipment had 10 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 90,
-                    "returned": "90",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 18 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 18 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
-                    "answer": 180,
-                    "returned": "180",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 19 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 19 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 209,
-                    "returned": "209",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 11 batches of cookies, and each batch requires 5 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 11 batches of cookies, and each batch requires 5 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 55,
-                    "returned": "55",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 18 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 18 boxes, and each box contains 11 toy cars. How many toy cars are there in total?",
-                    "answer": 198,
-                    "returned": "198",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 114,
-                    "returned": "114",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 4 packs of pens, with each pack containing 17 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 4 packs of pens, with each pack containing 17 pens. How many pens did Sarah buy in total?",
-                    "answer": 68,
-                    "returned": "68",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 2 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 2 baskets, and each basket contains 11 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 22,
-                    "returned": "22.",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 17 batches of cookies, and each batch requires 11 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 17 batches of cookies, and each batch requires 11 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 187,
-                    "returned": "187",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 8 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 8 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "answer": 56,
-                    "returned": "56",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 6 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 6 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 84,
-                    "returned": "84",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 6 packs of pens, with each pack containing 16 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 16 pens. How many pens did Sarah buy in total?",
-                    "answer": 96,
-                    "returned": "96",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 18 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 18 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 324,
-                    "returned": "324",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 4 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 4 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 24,
-                    "returned": "24",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 1 boxes, and each box contains 16 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 1 boxes, and each box contains 16 toy cars. How many toy cars are there in total?",
-                    "answer": 16,
-                    "returned": "16",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 3 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 3 shipments of books, and each shipment had 14 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 42,
-                    "returned": "42",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 0 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 0 packs of pens, with each pack containing 2 pens. How many pens did Sarah buy in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 3 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 3 baskets, and each basket contains 8 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 24,
-                    "returned": "24",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 5 batches of cookies, and each batch requires 8 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 5 batches of cookies, and each batch requires 8 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 40,
-                    "returned": "40",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 192,
-                    "returned": "192",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 5 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 5 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 5,
-                    "returned": "5",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 5 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "answer": 75,
-                    "returned": "75",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 9 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 9 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 153,
-                    "returned": "153",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 1 batches of cookies, and each batch requires 1 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 1 batches of cookies, and each batch requires 1 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 1,
-                    "returned": "1",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 16 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 192,
-                    "returned": "192",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 16 shipments of books, and each shipment had 8 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 16 shipments of books, and each shipment had 8 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 128,
-                    "returned": "128",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 15 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 15 packs of pens, with each pack containing 18 pens. How many pens did Sarah buy in total?",
-                    "answer": 270,
-                    "returned": "270",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 14 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 252,
-                    "returned": "252",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 19 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 19 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 133,
-                    "returned": "133",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 1 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 1 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 12,
-                    "returned": "12",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 4 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 24,
-                    "returned": "24",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 3 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 3 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
-                    "answer": 57,
-                    "returned": "57",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 9 baskets, and each basket contains 0 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 9 baskets, and each basket contains 0 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 7 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 7 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 28,
-                    "returned": "28",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 0 boxes, and each box contains 2 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 2 toy cars. How many toy cars are there in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 4 shipments of books, and each shipment had 4 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 4 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 16,
-                    "returned": "16",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 11 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 11 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
-                    "answer": 99,
-                    "returned": "99",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 1 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 1 baskets, and each basket contains 18 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 18,
-                    "returned": "18",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 9 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 9 batches of cookies, and each batch requires 6 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 54,
-                    "returned": "54",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 14 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 14 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 168,
-                    "returned": "168",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 13 shipments of books, and each shipment had 9 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 13 shipments of books, and each shipment had 9 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 117,
-                    "returned": "117",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 6 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 9 pens. How many pens did Sarah buy in total?",
-                    "answer": 54,
-                    "returned": "54",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 8 baskets, and each basket contains 1 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 8 baskets, and each basket contains 1 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 8,
-                    "returned": "8",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 0 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 0 batches of cookies, and each batch requires 4 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 0 boxes, and each box contains 7 toy cars. How many toy cars are there in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 19 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 114,
-                    "returned": "114",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 12 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 12 packs of pens, with each pack containing 15 pens. How many pens did Sarah buy in total?",
-                    "answer": 180,
-                    "returned": "180",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 18 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 18 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 342,
-                    "returned": "342",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 6 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 6 batches of cookies, and each batch requires 3 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 18,
-                    "returned": "18",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 17 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 17 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 204,
-                    "returned": "204",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 16 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 16 shipments of books, and each shipment had 6 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 96,
-                    "returned": "96",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 15 packs of pens, with each pack containing 13 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 15 packs of pens, with each pack containing 13 pens. How many pens did Sarah buy in total?",
-                    "answer": 195,
-                    "returned": "195",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 8 baskets, and each basket contains 2 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 8 baskets, and each basket contains 2 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 16,
-                    "returned": "16",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 18 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 18 batches of cookies, and each batch requires 7 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 126,
-                    "returned": "126",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 12 boxes, and each box contains 0 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 12 boxes, and each box contains 0 toy cars. How many toy cars are there in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 1 shipments of books, and each shipment had 5 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 1 shipments of books, and each shipment had 5 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 5,
-                    "returned": "5",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 6 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 6 packs of pens, with each pack containing 5 pens. How many pens did Sarah buy in total?",
-                    "answer": 30,
-                    "returned": "30",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 14 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 14 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 238,
-                    "returned": "238",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 6 batches of cookies, and each batch requires 19 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 6 batches of cookies, and each batch requires 19 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 114,
-                    "returned": "114",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 14 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 14 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
-                    "answer": 126,
-                    "returned": "126",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 2 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 2 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 2,
-                    "returned": "2",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 14 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 14 packs of pens, with each pack containing 10 pens. How many pens did Sarah buy in total?",
-                    "answer": 140,
-                    "returned": "140",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 10 baskets, and each basket contains 15 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 10 baskets, and each basket contains 15 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 150,
-                    "returned": "150",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 3 batches of cookies, and each batch requires 12 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 3 batches of cookies, and each batch requires 12 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 36,
-                    "returned": "36",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 7 boxes, and each box contains 15 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 7 boxes, and each box contains 15 toy cars. How many toy cars are there in total?",
-                    "answer": 105,
-                    "returned": "105",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 4 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 4 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 4,
-                    "returned": "4",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 14 packs of pens, with each pack containing 7 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 14 packs of pens, with each pack containing 7 pens. How many pens did Sarah buy in total?",
-                    "answer": 98,
-                    "returned": "98",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 6 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 6 baskets, and each basket contains 17 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 102,
-                    "returned": "102",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 0 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 0 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 0,
-                    "returned": "0",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 9 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 9 boxes, and each box contains 12 toy cars. How many toy cars are there in total?",
-                    "answer": 108,
-                    "returned": "108",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 13 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 13 shipments of books, and each shipment had 1 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 13,
-                    "returned": "13",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Sarah bought 1 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Sarah bought 1 packs of pens, with each pack containing 19 pens. How many pens did Sarah buy in total?",
-                    "answer": 19,
-                    "returned": "19",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A farmer has 7 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A farmer has 7 baskets, and each basket contains 19 ripe apples. How many apples does the farmer have in total?",
-                    "answer": 133,
-                    "returned": "133",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "Jenny needs to make 2 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Jenny needs to make 2 batches of cookies, and each batch requires 16 cups of flour. How many cups of flour does Jenny need in total?",
-                    "answer": 32,
-                    "returned": "32",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "There are 11 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  There are 11 boxes, and each box contains 9 toy cars. How many toy cars are there in total?",
-                    "answer": 99,
-                    "returned": "99",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            },
-            {
-                "direct_answer": {
-                    "question": "A bookstore received 7 shipments of books, and each shipment had 19 boxes. How many boxes of books did the bookstore receive in total?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A bookstore received 7 shipments of books, and each shipment had 19 boxes. How many boxes of books did the bookstore receive in total?",
-                    "answer": 133,
-                    "returned": "133",
-                    "is_right": true,
-                    "is_right_CEM": true
-                }
-            }
-        ],
-        "summary": {
-            "direct_answer_correct": 100,
-            "direct_answer_CEM_correct": 100
-        }
-    },
     "results_format_(# * # * #)": {
         "per_question_results": [
             {
@@ -1041,12 +33,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 10 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 10 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 18 rows of trees with 15 trees in each row. If there are 10 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 18 rows of trees with 15 trees in each row. If there are 10 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 2700,
-                    "returned": "2700",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "420",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1091,8 +83,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 6 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 1 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 6 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 1 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 6 rows of trees with 15 trees in each row. If there are 1 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 6 rows of trees with 15 trees in each row. If there are 1 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 90,
                     "returned": "90",
                     "is_right": true,
@@ -1141,8 +133,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 12 cookies in each row. Lisa wants to assemble the boxes in stacks, with 0 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 12 cookies in each row. Lisa wants to assemble the boxes in stacks, with 0 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 16 rows of trees with 12 trees in each row. If there are 0 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 16 rows of trees with 12 trees in each row. If there are 0 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 0,
                     "returned": "192",
                     "is_right": false,
@@ -1191,12 +183,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 8 cookies in each row. Lisa wants to assemble the boxes in stacks, with 18 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 8 cookies in each row. Lisa wants to assemble the boxes in stacks, with 18 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 18 rows of trees with 8 trees in each row. If there are 18 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 18 rows of trees with 8 trees in each row. If there are 18 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 2592,
-                    "returned": "2592",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "144",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1241,12 +233,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 5 cookies in each row. Lisa wants to assemble the boxes in stacks, with 3 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 5 cookies in each row. Lisa wants to assemble the boxes in stacks, with 3 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 18 rows of trees with 5 trees in each row. If there are 3 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 18 rows of trees with 5 trees in each row. If there are 3 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 270,
-                    "returned": "270.",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "90",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1291,12 +283,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 6 rows of cookies, with 11 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 6 rows of cookies, with 11 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 6 rows of trees with 11 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 6 rows of trees with 11 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 924,
-                    "returned": "924",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "726",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1341,12 +333,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 12 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 12 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 16 rows of trees with 12 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 16 rows of trees with 12 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 2688,
-                    "returned": "2688",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "304",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1391,12 +383,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 15 rows of cookies, with 10 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 15 rows of cookies, with 10 cookies in each row. Lisa wants to assemble the boxes in stacks, with 14 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 15 rows of trees with 10 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 15 rows of trees with 10 trees in each row. If there are 14 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 2100,
-                    "returned": "2100",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "150",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1441,8 +433,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 9 rows of cookies, with 16 cookies in each row. Lisa wants to assemble the boxes in stacks, with 1 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 9 rows of cookies, with 16 cookies in each row. Lisa wants to assemble the boxes in stacks, with 1 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 9 rows of trees with 16 trees in each row. If there are 1 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 9 rows of trees with 16 trees in each row. If there are 1 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 144,
                     "returned": "144.",
                     "is_right": true,
@@ -1491,12 +483,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 8 rows of cookies, with 13 cookies in each row. Lisa wants to assemble the boxes in stacks, with 9 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 8 rows of cookies, with 13 cookies in each row. Lisa wants to assemble the boxes in stacks, with 9 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 8 rows of trees with 13 trees in each row. If there are 9 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 8 rows of trees with 13 trees in each row. If there are 9 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 936,
-                    "returned": "936",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "104.",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1541,12 +533,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 2 cookies in each row. Lisa wants to assemble the boxes in stacks, with 4 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 2 cookies in each row. Lisa wants to assemble the boxes in stacks, with 4 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 18 rows of trees with 2 trees in each row. If there are 4 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 18 rows of trees with 2 trees in each row. If there are 4 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 144,
-                    "returned": "144",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "36",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1591,8 +583,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 3 rows of cookies, with 17 cookies in each row. Lisa wants to assemble the boxes in stacks, with 11 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 3 rows of cookies, with 17 cookies in each row. Lisa wants to assemble the boxes in stacks, with 11 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 3 rows of trees with 17 trees in each row. If there are 11 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 3 rows of trees with 17 trees in each row. If there are 11 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 561,
                     "returned": "561",
                     "is_right": true,
@@ -1641,12 +633,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 9 rows of cookies, with 1 cookies in each row. Lisa wants to assemble the boxes in stacks, with 16 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 9 rows of cookies, with 1 cookies in each row. Lisa wants to assemble the boxes in stacks, with 16 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 9 rows of trees with 1 trees in each row. If there are 16 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 9 rows of trees with 1 trees in each row. If there are 16 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 144,
-                    "returned": "144",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "9",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1691,10 +683,10 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 7 rows of cookies, with 17 cookies in each row. Lisa wants to assemble the boxes in stacks, with 19 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 7 rows of cookies, with 17 cookies in each row. Lisa wants to assemble the boxes in stacks, with 19 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 7 rows of trees with 17 trees in each row. If there are 19 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 7 rows of trees with 17 trees in each row. If there are 19 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 2261,
-                    "returned": "5783",
+                    "returned": "322",
                     "is_right": false,
                     "is_right_CEM": false
                 }
@@ -1741,12 +733,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 4 rows of cookies, with 19 cookies in each row. Lisa wants to assemble the boxes in stacks, with 7 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 4 rows of cookies, with 19 cookies in each row. Lisa wants to assemble the boxes in stacks, with 7 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 4 rows of trees with 19 trees in each row. If there are 7 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 4 rows of trees with 19 trees in each row. If there are 7 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 532,
-                    "returned": "532",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "209",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1791,8 +783,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 12 rows of cookies, with 0 cookies in each row. Lisa wants to assemble the boxes in stacks, with 0 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 12 rows of cookies, with 0 cookies in each row. Lisa wants to assemble the boxes in stacks, with 0 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 12 rows of trees with 0 trees in each row. If there are 0 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 12 rows of trees with 0 trees in each row. If there are 0 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 0,
                     "returned": "0",
                     "is_right": true,
@@ -1841,12 +833,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 15 rows of cookies, with 7 cookies in each row. Lisa wants to assemble the boxes in stacks, with 13 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 15 rows of cookies, with 7 cookies in each row. Lisa wants to assemble the boxes in stacks, with 13 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 15 rows of trees with 7 trees in each row. If there are 13 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 15 rows of trees with 7 trees in each row. If there are 13 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 1365,
-                    "returned": "1365",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "196.",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1891,12 +883,12 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 1 cookies in each row. Lisa wants to assemble the boxes in stacks, with 8 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 16 rows of cookies, with 1 cookies in each row. Lisa wants to assemble the boxes in stacks, with 8 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 16 rows of trees with 1 trees in each row. If there are 8 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 16 rows of trees with 1 trees in each row. If there are 8 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 128,
-                    "returned": "128",
-                    "is_right": true,
-                    "is_right_CEM": true
+                    "returned": "16",
+                    "is_right": false,
+                    "is_right_CEM": false
                 }
             },
             {
@@ -1941,8 +933,8 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 7 rows of cookies, with 0 cookies in each row. Lisa wants to assemble the boxes in stacks, with 11 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 7 rows of cookies, with 0 cookies in each row. Lisa wants to assemble the boxes in stacks, with 11 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 7 rows of trees with 0 trees in each row. If there are 11 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 7 rows of trees with 0 trees in each row. If there are 11 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 0,
                     "returned": "0",
                     "is_right": true,
@@ -1991,10 +983,10 @@
             },
             {
                 "direct_answer": {
-                    "question": "Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 12 boxes in each stack. How many cookies will be in a stack of boxes?",
-                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  Lisa is organizing a fundraising event for her school. She plans to sell boxes of cookies. Each box contains 18 rows of cookies, with 15 cookies in each row. Lisa wants to assemble the boxes in stacks, with 12 boxes in each stack. How many cookies will be in a stack of boxes?",
+                    "question": "A gardener needs to plant 18 rows of trees with 15 trees in each row. If there are 12 rows of empty space, how many trees are needed in total to plant the entire garden?",
+                    "prompt": "Answer the following math problem, final answer (number) only, NO WORDS.  A gardener needs to plant 18 rows of trees with 15 trees in each row. If there are 12 rows of empty space, how many trees are needed in total to plant the entire garden?",
                     "answer": 3240,
-                    "returned": "2,160",
+                    "returned": "270",
                     "is_right": false,
                     "is_right_CEM": false
                 }
@@ -2011,8 +1003,10 @@
             }
         ],
         "summary": {
-            "direct_answer_correct": 72,
-            "direct_answer_CEM_correct": 76
+            "unprompted_correct": 0,
+            "direct_answer_correct": 60,
+            "unprompted_CEM_correct": 0,
+            "direct_answer_CEM_correct": 64
         }
     },
     "results_format_(# * # * # * #)": {
@@ -3019,7 +2013,9 @@
             }
         ],
         "summary": {
+            "unprompted_correct": 0,
             "direct_answer_correct": 47,
+            "unprompted_CEM_correct": 0,
             "direct_answer_CEM_correct": 57
         }
     },
@@ -4027,7 +3023,9 @@
             }
         ],
         "summary": {
+            "unprompted_correct": 0,
             "direct_answer_correct": 26,
+            "unprompted_CEM_correct": 0,
             "direct_answer_CEM_correct": 44
         }
     },
@@ -5035,7 +4033,9 @@
             }
         ],
         "summary": {
+            "unprompted_correct": 0,
             "direct_answer_correct": 8,
+            "unprompted_CEM_correct": 0,
             "direct_answer_CEM_correct": 24
         }
     }
